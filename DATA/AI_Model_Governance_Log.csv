@@ -1,0 +1,1501 @@
+High,Month,Model_ID,AI_Service,Department,Transactions_Processed,Accuracy_Score,Prediction_Confidence,Bias_Flag_Count,Manual_Override_Count,Customer_Complaints,Compliance_Violations,Cloud_Resource_Cost,Avg_Response_Time,Failed_Decisions,Risk_Level,Compliance_Status,Region
+RID0001,Oct,M102,Customer Support Chatbot,HR,4287,84.94,85.76,5,5,19,4,8862,7.72,110,High,Violation,Scotland
+RID0002,Jan,M104,Loan Approval AI,Finance,1261,75.41,77.81,7,30,24,4,6370,6.93,188,Critical,Violation,Midlands
+RID0003,Oct,M102,Customer Support Chatbot,Operations,2892,74.21,77.58,8,18,23,5,7633,5.3,192,Critical,Violation,North UK
+RID0004,May,M101,Resume Screening AI,Finance,3555,88.44,88.76,10,59,15,4,8005,3.3,80,High,Violation,London
+RID0005,Dec,M105,Inventory Forecast AI,HR,852,80.53,81.31,1,31,13,4,14092,2.76,147,High,Violation,London
+RID0006,Jun,M105,Inventory Forecast AI,HR,1955,79.91,81.97,2,29,25,5,11750,1.52,145,High,Violation,Scotland
+RID0007,Feb,M104,Loan Approval AI,Operations,841,75.6,78.36,5,14,13,2,4639,5.83,186,Critical,Review Required,London
+RID0008,Jan,M102,Customer Support Chatbot,Operations,1815,72.3,75,7,52,47,4,3982,7.23,212,Critical,Violation,North UK
+RID0009,Dec,M101,Resume Screening AI,Operations,1510,84.21,85.77,12,23,13,3,4379,4.24,112,Critical,Review Required,Midlands
+RID0010,Oct,M105,Inventory Forecast AI,HR,3450,72.81,76.27,7,39,20,3,10994,3.64,202,Critical,Review Required,North UK
+RID0011,Nov,M104,Loan Approval AI,Operations,2590,69.48,73.3,4,20,11,2,3119,2.02,231,Critical,Review Required,Scotland
+RID0012,Nov,M102,Customer Support Chatbot,Sales,4378,72.36,75.49,8,60,33,2,3466,5.35,210,Critical,Review Required,North UK
+RID0013,Jul,M102,Customer Support Chatbot,HR,4511,78.89,80.69,5,53,19,1,3805,6.33,154,High,Review Required,North UK
+RID0014,Mar,M102,Customer Support Chatbot,Finance,2693,89.27,89.57,6,32,17,1,6372,10.29,71,Medium,Review Required,Midlands
+RID0015,Feb,M104,Loan Approval AI,Customer Service,952,89.83,89.4,3,20,5,4,7747,5.47,73,High,Violation,North UK
+RID0016,Sep,M104,Loan Approval AI,Sales,3740,94.41,93.42,8,15,25,1,8576,5.42,30,High,Review Required,London
+RID0017,Mar,M104,Loan Approval AI,Customer Service,4099,69.87,72.85,4,29,13,0,7237,4.61,232,Critical,Compliant,North UK
+RID0018,Nov,M105,Inventory Forecast AI,Customer Service,4508,75.21,78.04,0,35,21,0,14761,2.73,186,Critical,Compliant,North UK
+RID0019,Jul,M103,Fraud Detection AI,Customer Service,1919,71.64,74.95,7,83,16,9,4562,6.73,211,Critical,Violation,Scotland
+RID0020,May,M102,Customer Support Chatbot,HR,2172,94.63,93.31,0,44,23,2,4388,8.05,29,Medium,Review Required,London
+RID0021,Sep,M105,Inventory Forecast AI,Sales,3544,79.82,81.77,0,20,10,2,11036,3.67,151,High,Review Required,Midlands
+RID0022,Feb,M104,Loan Approval AI,Sales,3789,81.32,82.87,1,9,23,3,2966,3.55,137,High,Review Required,Scotland
+RID0023,Nov,M101,Resume Screening AI,Sales,4102,76.06,78.51,6,39,2,2,8310,2.67,176,High,Review Required,Scotland
+RID0024,Aug,M103,Fraud Detection AI,Sales,3096,78.82,80.29,1,49,9,5,6516,4.33,159,High,Violation,London
+RID0025,Feb,M101,Resume Screening AI,Operations,2134,82.99,84.31,7,13,4,5,7842,5.73,123,High,Violation,London
+RID0026,Nov,M104,Loan Approval AI,HR,3365,74.72,77.58,2,55,4,1,7381,1.48,187,Critical,Review Required,Midlands
+RID0027,Apr,M103,Fraud Detection AI,Finance,2447,77.41,79.4,0,67,2,6,5493,2.29,168,High,Violation,Scotland
+RID0028,May,M103,Fraud Detection AI,Operations,3572,80.54,81.47,6,68,2,4,7326,6.21,146,High,Violation,Midlands
+RID0029,Aug,M102,Customer Support Chatbot,Operations,867,89.5,88.52,3,32,32,5,3221,10.08,75,High,Violation,Midlands
+RID0030,Sep,M105,Inventory Forecast AI,Operations,2905,80.1,81.86,8,57,14,1,10735,1.91,151,High,Review Required,North UK
+RID0031,Nov,M105,Inventory Forecast AI,Customer Service,4334,67.75,71.93,3,28,9,5,10649,4.81,246,Critical,Violation,London
+RID0032,Jun,M105,Inventory Forecast AI,Sales,1705,94.24,92.9,7,26,0,2,9199,3.96,32,High,Review Required,North UK
+RID0033,Aug,M104,Loan Approval AI,Sales,1721,93.54,92.88,4,52,15,5,8562,4.27,37,High,Violation,London
+RID0034,Aug,M105,Inventory Forecast AI,Operations,3353,76.48,79.21,4,26,15,4,11426,4.94,173,High,Violation,Midlands
+RID0035,Sep,M104,Loan Approval AI,HR,4804,95.81,94.84,4,52,25,3,6117,1.93,19,Medium,Review Required,North UK
+RID0036,Mar,M103,Fraud Detection AI,HR,4901,71.77,75,1,99,4,6,6374,6.38,211,Critical,Violation,North UK
+RID0037,Oct,M102,Customer Support Chatbot,HR,1264,83.48,84.5,5,48,42,2,5130,8.19,121,High,Review Required,Scotland
+RID0038,Mar,M102,Customer Support Chatbot,Customer Service,4195,88.42,87.64,3,20,24,5,4917,6.51,84,High,Violation,North UK
+RID0039,Jun,M104,Loan Approval AI,Operations,3814,71.48,75.14,0,60,5,0,4410,4.96,218,Critical,Compliant,Scotland
+RID0040,Nov,M101,Resume Screening AI,Operations,3497,73.61,77.25,15,34,15,1,5638,3.69,196,Critical,Review Required,North UK
+RID0041,Jun,M101,Resume Screening AI,HR,4301,91.53,91.09,14,42,24,0,5916,2.7,58,Critical,Compliant,Scotland
+RID0042,Jan,M103,Fraud Detection AI,HR,4660,96.92,94.8,3,93,25,10,4482,6.86,16,Critical,Violation,Midlands
+RID0043,Jan,M102,Customer Support Chatbot,HR,4371,70.75,74.02,2,29,25,3,7274,9.04,225,Critical,Review Required,London
+RID0044,Oct,M103,Fraud Detection AI,Sales,2105,76.07,78.46,3,89,16,6,5376,2.32,176,High,Violation,London
+RID0045,Apr,M102,Customer Support Chatbot,Finance,2276,80.39,81.81,3,27,20,4,2483,5.31,143,High,Violation,North UK
+RID0046,Nov,M105,Inventory Forecast AI,Finance,3424,71.94,74.94,0,41,3,5,10723,3.4,214,Critical,Violation,Scotland
+RID0047,Feb,M102,Customer Support Chatbot,HR,1767,83.08,84.39,5,38,25,2,5686,5.61,121,High,Review Required,Scotland
+RID0048,Jan,M104,Loan Approval AI,HR,3434,81.89,83.17,8,23,23,0,3192,3.82,134,High,Compliant,London
+RID0049,Mar,M102,Customer Support Chatbot,Finance,1868,68.16,72.16,7,18,49,1,4403,6.12,244,Critical,Review Required,North UK
+RID0050,Oct,M104,Loan Approval AI,HR,4441,82.89,83.46,5,42,10,3,7046,1.69,126,High,Review Required,North UK
+RID0051,May,M103,Fraud Detection AI,Finance,4607,69.68,73.77,1,73,12,10,4981,6.02,230,Critical,Violation,Scotland
+RID0052,Jan,M102,Customer Support Chatbot,Sales,1021,96.36,94.66,6,23,24,0,2006,5.77,17,Medium,Compliant,North UK
+RID0053,Jan,M104,Loan Approval AI,Operations,1356,79.32,81.47,5,22,13,5,3522,5.99,155,High,Violation,Midlands
+RID0054,Oct,M102,Customer Support Chatbot,Operations,3468,83.02,83.55,8,38,26,1,5588,6.2,125,High,Review Required,London
+RID0055,May,M104,Loan Approval AI,HR,4672,76,78.62,8,36,13,4,3954,3.71,181,Critical,Violation,North UK
+RID0056,Dec,M103,Fraud Detection AI,Operations,3840,71.22,74.77,3,46,23,4,4112,2.46,217,Critical,Violation,Scotland
+RID0057,May,M104,Loan Approval AI,Operations,1674,68.4,72.11,7,42,14,1,4913,4.65,243,Critical,Review Required,London
+RID0058,Sep,M104,Loan Approval AI,HR,1969,68.5,71.73,8,50,17,0,4178,7,243,Critical,Compliant,London
+RID0059,Nov,M105,Inventory Forecast AI,HR,909,69.19,73.61,1,47,12,5,9377,1.64,233,Critical,Violation,North UK
+RID0060,Jan,M104,Loan Approval AI,HR,4638,69.59,73.76,2,41,17,2,7172,1.6,231,Critical,Review Required,Scotland
+RID0061,Jun,M101,Resume Screening AI,HR,3944,83.53,84.65,9,50,8,1,7320,2.27,120,High,Review Required,Scotland
+RID0062,Jan,M101,Resume Screening AI,Finance,3478,83.77,84.2,5,53,4,4,2918,4.5,119,High,Violation,Scotland
+RID0063,Nov,M101,Resume Screening AI,Finance,2724,77.13,80.03,9,45,12,2,4932,6.56,169,High,Review Required,London
+RID0064,Aug,M103,Fraud Detection AI,Operations,1670,95.13,94.48,7,54,1,8,2035,6.34,23,Critical,Violation,Midlands
+RID0065,Sep,M104,Loan Approval AI,HR,2559,70.25,73.91,1,42,6,4,3396,1.67,225,Critical,Violation,London
+RID0066,Dec,M102,Customer Support Chatbot,Customer Service,3073,71.02,74.34,7,40,50,5,4149,8.97,220,Critical,Violation,Scotland
+RID0067,Sep,M103,Fraud Detection AI,Sales,2363,89.19,89.35,3,47,9,10,2126,1.56,73,Critical,Violation,Midlands
+RID0068,Jan,M104,Loan Approval AI,Customer Service,1250,72.12,75.36,2,12,0,0,3973,3.37,209,Critical,Compliant,Scotland
+RID0069,Mar,M102,Customer Support Chatbot,HR,1375,71.03,74.83,0,18,29,1,4008,7.13,219,Critical,Review Required,London
+RID0070,Jan,M103,Fraud Detection AI,Customer Service,2710,69.3,73.12,6,73,9,8,7144,6.49,232,Critical,Violation,North UK
+RID0071,Nov,M101,Resume Screening AI,Sales,1461,92.85,92.49,11,19,21,4,5638,2.98,44,Critical,Violation,Midlands
+RID0072,Aug,M103,Fraud Detection AI,Sales,4794,94.68,93.85,1,65,6,8,2257,5.98,31,Critical,Violation,Midlands
+RID0073,Dec,M103,Fraud Detection AI,HR,1570,68.7,72.63,2,63,6,8,2226,3.58,237,Critical,Violation,London
+RID0074,May,M105,Inventory Forecast AI,Operations,2350,77.19,80.02,0,58,9,1,9038,1.37,169,High,Review Required,Scotland
+RID0075,Sep,M102,Customer Support Chatbot,Sales,4359,72.69,75.21,5,25,50,3,5321,10.36,210,Critical,Review Required,Midlands
+RID0076,Jun,M105,Inventory Forecast AI,Operations,3675,88.58,89.05,5,25,23,3,10863,4.26,76,Medium,Review Required,Scotland
+RID0077,Feb,M104,Loan Approval AI,HR,1986,79.48,81.03,6,16,0,2,3579,2.6,154,High,Review Required,London
+RID0078,Apr,M105,Inventory Forecast AI,Sales,2209,95.66,94.46,6,31,11,2,13613,5.42,23,Medium,Review Required,London
+RID0079,Aug,M103,Fraud Detection AI,Operations,1049,85.79,87.01,6,58,24,3,4960,5.35,98,Medium,Review Required,Midlands
+RID0080,Dec,M103,Fraud Detection AI,Operations,1928,96.12,94.64,5,85,0,6,7360,6.75,19,High,Violation,North UK
+RID0081,Dec,M101,Resume Screening AI,Sales,1355,71.06,74.61,8,59,7,4,3445,2.44,216,Critical,Violation,Scotland
+RID0082,Mar,M104,Loan Approval AI,Sales,2493,89.95,89.57,6,25,8,2,4802,6.49,65,Medium,Review Required,North UK
+RID0083,Apr,M101,Resume Screening AI,Operations,2547,81,82.43,9,52,3,4,6225,2.6,137,High,Violation,London
+RID0084,May,M104,Loan Approval AI,Customer Service,1703,88.74,88.65,7,5,17,5,4890,6.34,75,High,Violation,Midlands
+RID0085,Nov,M104,Loan Approval AI,Finance,2416,68.24,72.06,0,46,21,5,7301,6.1,246,Critical,Violation,North UK
+RID0086,Nov,M101,Resume Screening AI,Operations,1229,96.45,94.86,10,60,1,2,8190,2.19,19,High,Review Required,Scotland
+RID0087,Apr,M102,Customer Support Chatbot,Operations,1623,83.5,84.36,8,60,20,1,3026,6.92,117,High,Review Required,London
+RID0088,Apr,M105,Inventory Forecast AI,Finance,992,88.61,88.47,6,10,17,4,9717,5.26,77,High,Violation,Scotland
+RID0089,Sep,M104,Loan Approval AI,HR,2450,95.06,94.44,4,60,1,5,3818,3.09,24,High,Violation,North UK
+RID0090,Oct,M103,Fraud Detection AI,Finance,932,78.93,80.37,2,92,0,10,6085,3.66,160,Critical,Violation,Scotland
+RID0091,Jan,M103,Fraud Detection AI,Finance,1015,93.47,92.08,1,87,19,6,4513,2.53,41,High,Violation,London
+RID0092,Sep,M105,Inventory Forecast AI,Finance,1880,88.49,88.93,4,44,11,2,13267,1.31,80,Medium,Review Required,London
+RID0093,Oct,M101,Resume Screening AI,Customer Service,1383,85.1,85.4,9,27,5,1,5581,4.46,110,High,Review Required,Midlands
+RID0094,Jul,M101,Resume Screening AI,Operations,3106,81.56,82.96,12,35,11,3,5300,6.86,134,Critical,Review Required,North UK
+RID0095,Oct,M105,Inventory Forecast AI,Finance,4887,68.24,72.08,1,60,17,0,13371,5.93,243,Critical,Compliant,Scotland
+RID0096,Mar,M101,Resume Screening AI,Customer Service,3824,84.16,85.1,5,8,17,5,7045,4.73,116,High,Violation,Midlands
+RID0097,Nov,M105,Inventory Forecast AI,Customer Service,3453,74.13,76.9,6,21,10,4,12760,4.2,194,Critical,Violation,London
+RID0098,Jul,M102,Customer Support Chatbot,Operations,1024,95.67,94.27,0,28,41,2,3790,8.73,19,Medium,Review Required,North UK
+RID0099,Oct,M104,Loan Approval AI,Finance,2240,69.58,74.19,5,57,0,3,5956,5.81,228,Critical,Review Required,London
+RID0100,Oct,M102,Customer Support Chatbot,Sales,2080,76.95,79.79,3,57,27,4,6328,8.47,171,High,Violation,London
+RID0101,Mar,M102,Customer Support Chatbot,HR,3821,74.94,77.2,8,20,24,1,3818,6.1,188,Critical,Review Required,Scotland
+RID0102,Aug,M105,Inventory Forecast AI,HR,4331,77.79,79.81,3,6,10,1,13522,2.22,166,High,Review Required,Midlands
+RID0103,Sep,M104,Loan Approval AI,Finance,4261,96.2,94.84,6,28,20,0,7512,2.09,15,Medium,Compliant,London
+RID0104,Jun,M102,Customer Support Chatbot,Operations,4711,95.13,93.37,1,41,30,3,6578,7.62,28,Medium,Review Required,Midlands
+RID0105,Sep,M101,Resume Screening AI,HR,3730,71.07,73.98,10,58,8,0,8940,3.71,221,Critical,Compliant,North UK
+RID0106,Mar,M102,Customer Support Chatbot,Finance,1081,91.67,90.98,5,33,20,4,7702,10,55,High,Violation,Scotland
+RID0107,Jun,M105,Inventory Forecast AI,Finance,1002,82.71,84.2,7,7,20,5,10258,6.83,125,High,Violation,Scotland
+RID0108,May,M102,Customer Support Chatbot,Customer Service,1461,77,79.93,8,42,35,4,4025,8.29,170,High,Violation,Midlands
+RID0109,Aug,M101,Resume Screening AI,Finance,2162,82.04,83.6,10,30,10,0,2552,4.94,133,High,Compliant,London
+RID0110,Apr,M103,Fraud Detection AI,Customer Service,4672,70.51,73.6,4,79,2,10,2488,4.29,225,Critical,Violation,North UK
+RID0111,Jan,M101,Resume Screening AI,Finance,3090,87.08,86.86,5,53,3,2,7872,1.84,95,Medium,Review Required,London
+RID0112,Dec,M105,Inventory Forecast AI,HR,4609,83.48,84.45,0,30,16,4,12339,4.24,120,High,Violation,Scotland
+RID0113,Apr,M102,Customer Support Chatbot,HR,4320,67.81,71.8,3,24,31,2,8620,9.36,248,Critical,Review Required,Scotland
+RID0114,Oct,M104,Loan Approval AI,Operations,3783,84.62,85.66,6,32,13,1,7582,1.29,113,Medium,Review Required,Scotland
+RID0115,Jun,M101,Resume Screening AI,Operations,1329,74.85,77.76,5,31,10,3,2726,1.05,189,Critical,Review Required,Scotland
+RID0116,Mar,M104,Loan Approval AI,Sales,4578,79.68,81.13,7,59,0,3,6100,6.06,153,High,Review Required,Midlands
+RID0117,Jan,M103,Fraud Detection AI,HR,2360,79.75,81.69,3,48,11,9,6982,1.49,149,Critical,Violation,London
+RID0118,Jun,M104,Loan Approval AI,Operations,1581,92.47,91.56,2,51,11,1,3575,2.98,45,Low,Review Required,Midlands
+RID0119,Aug,M103,Fraud Detection AI,Finance,4888,80.55,82.18,1,94,3,9,6551,5.96,144,Critical,Violation,Midlands
+RID0120,Apr,M104,Loan Approval AI,Sales,4577,67.75,71.97,6,49,19,4,8809,1.64,246,Critical,Violation,London
+RID0121,Feb,M101,Resume Screening AI,HR,3785,69.23,73.45,13,32,19,2,7548,1.44,235,Critical,Review Required,Midlands
+RID0122,Jul,M105,Inventory Forecast AI,Operations,1368,88.71,88.22,4,32,20,5,13041,6.38,81,High,Violation,Midlands
+RID0123,Jan,M105,Inventory Forecast AI,Finance,948,70.62,74.8,2,55,21,1,10894,1.94,221,Critical,Review Required,London
+RID0124,Nov,M101,Resume Screening AI,Sales,4727,74.52,77.09,13,9,19,0,6324,6.26,194,Critical,Compliant,London
+RID0125,Feb,M102,Customer Support Chatbot,Customer Service,3711,81.25,82.95,7,55,47,2,2646,6.65,140,High,Review Required,London
+RID0126,Dec,M101,Resume Screening AI,Customer Service,4624,70.99,74.08,10,25,15,4,2264,3.5,220,Critical,Violation,Midlands
+RID0127,Feb,M102,Customer Support Chatbot,HR,4636,83.87,84.72,3,12,37,0,3182,7.95,116,Medium,Compliant,North UK
+RID0128,Mar,M104,Loan Approval AI,Operations,1800,94.3,93.06,3,32,12,1,3146,4.52,30,Low,Review Required,Scotland
+RID0129,Oct,M101,Resume Screening AI,Finance,3595,79.69,80.75,13,14,12,1,6203,5.72,154,Critical,Review Required,Midlands
+RID0130,Feb,M103,Fraud Detection AI,HR,2234,88.4,88.28,0,52,22,7,3690,2.52,81,Critical,Violation,Scotland
+RID0131,Mar,M101,Resume Screening AI,Operations,2208,76.56,78.76,12,7,20,1,2286,2.02,173,Critical,Review Required,London
+RID0132,Jan,M104,Loan Approval AI,Finance,4017,94.25,92.96,4,44,1,0,3279,5,31,Medium,Compliant,London
+RID0133,Jun,M105,Inventory Forecast AI,Finance,2200,69.42,73.28,4,28,6,3,10579,6.62,231,Critical,Review Required,London
+RID0134,Sep,M102,Customer Support Chatbot,Operations,1676,87.2,86.85,1,56,25,1,5246,8.06,93,Medium,Review Required,London
+RID0135,Oct,M101,Resume Screening AI,Sales,2820,96.62,94.21,8,6,23,1,7683,3.76,18,High,Review Required,North UK
+RID0136,Dec,M103,Fraud Detection AI,Finance,4243,78.34,80.47,2,86,7,4,7714,1.34,164,High,Violation,Scotland
+RID0137,Sep,M103,Fraud Detection AI,Operations,863,67.79,71.56,1,79,7,3,7949,4.6,249,Critical,Review Required,North UK
+RID0138,Mar,M102,Customer Support Chatbot,Operations,1852,93.95,92.74,3,42,36,0,2945,7.43,37,Low,Compliant,Scotland
+RID0139,Aug,M104,Loan Approval AI,HR,4452,71.65,75.12,3,48,10,5,7727,5.38,217,Critical,Violation,North UK
+RID0140,Nov,M102,Customer Support Chatbot,Operations,2717,78.3,80.73,8,16,44,0,6653,6.07,161,High,Compliant,Scotland
+RID0141,Nov,M104,Loan Approval AI,Customer Service,4115,92.17,91.3,6,49,5,0,3066,1.63,48,Medium,Compliant,London
+RID0142,Apr,M101,Resume Screening AI,Operations,2933,92.08,91.43,8,33,18,2,8462,6.31,50,High,Review Required,Midlands
+RID0143,Nov,M105,Inventory Forecast AI,HR,1917,72.97,76.01,6,44,18,4,9885,6.32,207,Critical,Violation,Scotland
+RID0144,Mar,M103,Fraud Detection AI,Finance,1202,89.42,89.51,5,80,20,8,4349,3.47,72,Critical,Violation,London
+RID0145,Feb,M104,Loan Approval AI,Sales,1943,73.67,76.4,8,48,22,4,3913,4.38,199,Critical,Violation,Midlands
+RID0146,May,M104,Loan Approval AI,Operations,3521,80.77,82.39,3,56,17,5,3350,2.29,145,High,Violation,North UK
+RID0147,Aug,M101,Resume Screening AI,HR,1108,66.78,71.2,8,11,8,3,3751,5.32,250,Critical,Review Required,London
+RID0148,Nov,M103,Fraud Detection AI,Finance,4900,82.68,84,0,55,1,5,3475,2.19,128,High,Violation,North UK
+RID0149,Mar,M104,Loan Approval AI,Operations,4145,72.62,75.8,2,19,10,3,8561,6.77,210,Critical,Review Required,North UK
+RID0150,Apr,M103,Fraud Detection AI,Sales,4173,79.76,80.99,6,69,3,3,6983,3.06,153,High,Review Required,Midlands
+RID0151,Jan,M103,Fraud Detection AI,Sales,4907,92.43,92.13,5,69,19,6,3816,2.43,46,High,Violation,Midlands
+RID0152,Nov,M103,Fraud Detection AI,Sales,4493,69.25,73.08,5,50,11,10,6717,3.6,238,Critical,Violation,Midlands
+RID0153,Oct,M103,Fraud Detection AI,Finance,3200,74.6,77.63,1,88,24,8,7152,2.86,193,Critical,Violation,Scotland
+RID0154,Nov,M101,Resume Screening AI,Customer Service,2372,67.61,71.16,10,12,1,0,6857,3.3,250,Critical,Compliant,Midlands
+RID0155,Nov,M105,Inventory Forecast AI,Operations,1590,90.97,90.29,8,55,7,0,12856,3.58,58,High,Compliant,Scotland
+RID0156,Jan,M102,Customer Support Chatbot,Customer Service,4409,73.66,77.16,7,8,35,4,3772,9.82,195,Critical,Violation,North UK
+RID0157,May,M102,Customer Support Chatbot,Finance,830,80.65,82.17,4,7,48,0,8763,10.51,142,High,Compliant,London
+RID0158,Aug,M102,Customer Support Chatbot,Sales,1596,84,84.97,4,34,37,5,6385,5.66,115,High,Violation,Midlands
+RID0159,Jan,M102,Customer Support Chatbot,Sales,2835,96.2,95.12,4,16,38,2,4267,8.4,18,Medium,Review Required,North UK
+RID0160,Jan,M102,Customer Support Chatbot,Sales,3039,95.84,95.04,3,37,20,4,8120,8.13,18,High,Violation,London
+RID0161,Apr,M105,Inventory Forecast AI,HR,3957,67.39,71.56,4,26,24,5,10515,4.94,245,Critical,Violation,Scotland
+RID0162,Sep,M102,Customer Support Chatbot,Finance,2446,68.56,72.08,3,47,25,3,6998,6.12,243,Critical,Review Required,London
+RID0163,Dec,M104,Loan Approval AI,Operations,2535,72.78,75.45,1,12,25,3,3520,3.58,206,Critical,Review Required,Midlands
+RID0164,Jan,M102,Customer Support Chatbot,Finance,4487,84,84.67,7,10,29,0,6844,7.13,118,High,Compliant,Midlands
+RID0165,May,M104,Loan Approval AI,Finance,1458,80.57,81.98,6,31,11,1,5213,4.46,144,High,Review Required,North UK
+RID0166,Feb,M101,Resume Screening AI,HR,2624,80.99,81.93,10,10,13,3,3244,6.79,142,High,Review Required,London
+RID0167,Feb,M102,Customer Support Chatbot,Customer Service,2500,79.6,81.27,5,16,48,5,3307,9.02,153,High,Violation,Scotland
+RID0168,May,M102,Customer Support Chatbot,Finance,2309,85.54,85.62,1,57,46,3,7478,7.84,105,Medium,Review Required,London
+RID0169,Jan,M105,Inventory Forecast AI,Sales,4240,81.79,83.09,6,35,7,0,11946,5.63,136,High,Compliant,Scotland
+RID0170,Jun,M105,Inventory Forecast AI,Sales,3349,87.88,87.63,4,35,5,1,9643,3.95,87,Medium,Review Required,Scotland
+RID0171,Feb,M104,Loan Approval AI,Sales,2013,78.79,80.02,8,23,8,2,7685,2.28,161,High,Review Required,London
+RID0172,Nov,M102,Customer Support Chatbot,Finance,3588,82.22,83.33,1,5,38,4,4125,10.62,130,High,Violation,Scotland
+RID0173,Jul,M105,Inventory Forecast AI,Finance,3182,97.66,95.71,6,38,11,5,11773,3.82,10,High,Violation,Midlands
+RID0174,Dec,M102,Customer Support Chatbot,Customer Service,3243,94.06,92.78,8,49,39,5,2196,5.84,35,High,Violation,Midlands
+RID0175,Jul,M105,Inventory Forecast AI,HR,3580,97.1,94.88,8,45,24,1,14866,6.41,12,High,Review Required,London
+RID0176,Feb,M102,Customer Support Chatbot,Customer Service,1868,89.45,89.11,0,44,17,5,6262,7.54,74,High,Violation,Midlands
+RID0177,Feb,M105,Inventory Forecast AI,Operations,4015,92.77,91.64,6,28,11,4,11155,6.99,46,High,Violation,London
+RID0178,Mar,M102,Customer Support Chatbot,Customer Service,3218,95.6,94.53,4,38,17,1,8062,9.51,22,Medium,Review Required,Scotland
+RID0179,Mar,M105,Inventory Forecast AI,Finance,4325,83.8,84.38,8,29,14,2,10374,3.03,118,High,Review Required,North UK
+RID0180,Dec,M105,Inventory Forecast AI,Customer Service,2797,79.82,81.83,8,22,8,4,10164,2.8,151,High,Violation,Midlands
+RID0181,Apr,M102,Customer Support Chatbot,Operations,1160,88.49,88.32,7,21,48,5,7447,9.94,79,High,Violation,London
+RID0182,Jan,M103,Fraud Detection AI,Customer Service,4391,90.32,90.23,7,67,7,3,5670,1.67,66,High,Review Required,London
+RID0183,Jan,M104,Loan Approval AI,Sales,3577,75.54,78.74,5,58,9,0,2297,4.12,181,Critical,Compliant,Scotland
+RID0184,Oct,M102,Customer Support Chatbot,Finance,4776,89.26,89.03,7,48,17,1,4015,6.99,73,High,Review Required,North UK
+RID0185,May,M102,Customer Support Chatbot,Finance,4854,89.77,89.75,3,10,47,4,5644,7.56,69,High,Violation,North UK
+RID0186,Aug,M102,Customer Support Chatbot,HR,2797,78.57,80.49,4,50,25,1,8030,10.57,163,High,Review Required,London
+RID0187,Jun,M104,Loan Approval AI,HR,1895,96.59,94.74,6,8,17,5,6461,4.11,15,High,Violation,Midlands
+RID0188,Aug,M102,Customer Support Chatbot,Sales,3102,95.16,93.38,8,50,38,1,4533,6.57,29,High,Review Required,London
+RID0189,Apr,M105,Inventory Forecast AI,Sales,4189,95.44,93.79,4,57,11,1,14066,3.7,28,Medium,Review Required,North UK
+RID0190,Jun,M103,Fraud Detection AI,Finance,2278,76.08,78,2,93,22,6,5232,5.05,183,Critical,Violation,North UK
+RID0191,Jan,M103,Fraud Detection AI,Sales,805,94.84,93.92,5,48,15,7,7129,5.06,30,Critical,Violation,Scotland
+RID0192,Dec,M101,Resume Screening AI,Customer Service,2408,86.12,86.57,15,43,24,1,7767,4.79,98,Critical,Review Required,North UK
+RID0193,Feb,M102,Customer Support Chatbot,HR,3396,72.34,75.73,2,9,22,4,8588,5.72,210,Critical,Violation,London
+RID0194,Feb,M104,Loan Approval AI,Customer Service,4857,78.7,80.4,5,24,10,0,3564,5.5,161,High,Compliant,Midlands
+RID0195,Dec,M104,Loan Approval AI,HR,1620,79.34,81.34,0,56,20,5,6850,2.17,152,High,Violation,North UK
+RID0196,Feb,M105,Inventory Forecast AI,Operations,3828,87.39,88.32,6,50,12,4,13124,2.74,86,High,Violation,London
+RID0197,Jan,M105,Inventory Forecast AI,Finance,1515,73.35,76.42,8,49,24,1,13691,3.94,203,Critical,Review Required,Scotland
+RID0198,Jan,M104,Loan Approval AI,Customer Service,2034,73.92,76.87,2,37,5,0,5176,6.37,200,Critical,Compliant,London
+RID0199,Oct,M103,Fraud Detection AI,Customer Service,4488,95.66,94.3,1,64,22,5,7844,1.75,22,High,Violation,Midlands
+RID0200,Mar,M103,Fraud Detection AI,Customer Service,1138,97.07,95.49,3,74,14,7,2450,3.6,14,Critical,Violation,London
+RID0201,Jul,M102,Customer Support Chatbot,Sales,4874,79.1,80.71,6,7,36,0,7665,8.42,157,High,Compliant,London
+RID0202,Dec,M104,Loan Approval AI,Customer Service,4249,77.01,78.82,0,9,23,0,8007,2.29,175,High,Compliant,North UK
+RID0203,May,M103,Fraud Detection AI,Customer Service,4451,77.88,79.8,0,45,8,7,4012,4.43,166,Critical,Violation,Midlands
+RID0204,May,M105,Inventory Forecast AI,HR,1978,87.57,87.85,6,60,11,5,14482,4.04,86,High,Violation,Scotland
+RID0205,Feb,M103,Fraud Detection AI,Customer Service,2024,72.51,75.69,7,61,13,7,2622,2.74,204,Critical,Violation,North UK
+RID0206,Jan,M104,Loan Approval AI,Operations,4262,89.87,89.48,1,49,15,3,5758,1.14,69,Medium,Review Required,Midlands
+RID0207,May,M104,Loan Approval AI,Operations,3288,92.31,91.08,4,11,19,3,6730,2.4,52,Medium,Review Required,Midlands
+RID0208,Sep,M103,Fraud Detection AI,Sales,2949,80.38,82.38,3,44,16,4,6169,4.28,142,High,Violation,Scotland
+RID0209,Aug,M104,Loan Approval AI,Customer Service,1947,89.09,88.89,3,47,18,1,5026,1.95,75,Medium,Review Required,Midlands
+RID0210,May,M104,Loan Approval AI,HR,2754,83.57,84.51,5,6,2,5,8027,5.56,116,High,Violation,Scotland
+RID0211,Jul,M103,Fraud Detection AI,Sales,3462,76.74,78.88,5,63,22,8,2574,5.76,173,Critical,Violation,Midlands
+RID0212,Nov,M103,Fraud Detection AI,Sales,1702,86.71,86.95,1,94,0,7,5072,3.47,92,Critical,Violation,London
+RID0213,Dec,M101,Resume Screening AI,Finance,3379,85.27,85.54,10,17,12,1,6896,5.7,107,High,Review Required,Scotland
+RID0214,Jul,M104,Loan Approval AI,Sales,3406,83.81,84.85,6,60,6,3,8242,6.68,116,Medium,Review Required,London
+RID0215,Dec,M103,Fraud Detection AI,Sales,4255,88.77,88.43,2,56,14,7,3321,6.31,77,Critical,Violation,London
+RID0216,Feb,M102,Customer Support Chatbot,Customer Service,4306,79.8,81.49,1,33,28,4,6868,6.34,150,High,Violation,London
+RID0217,Mar,M103,Fraud Detection AI,Customer Service,3821,82.89,83.96,1,77,8,8,8662,5.11,123,Critical,Violation,London
+RID0218,Dec,M101,Resume Screening AI,HR,4083,74.58,76.94,9,11,0,0,7786,4.15,194,Critical,Compliant,London
+RID0219,Jul,M102,Customer Support Chatbot,Operations,3723,71.35,75.26,3,36,20,5,3675,6.46,216,Critical,Violation,North UK
+RID0220,Mar,M102,Customer Support Chatbot,Operations,2121,94.94,93.29,5,51,49,1,8874,8.11,28,Medium,Review Required,Midlands
+RID0221,Jun,M101,Resume Screening AI,HR,1796,81.91,82.83,5,37,15,1,4673,4.12,133,High,Review Required,Scotland
+RID0222,Dec,M101,Resume Screening AI,HR,4219,71.97,75.58,12,17,14,2,7651,6.65,212,Critical,Review Required,London
+RID0223,Apr,M103,Fraud Detection AI,Finance,3188,79.4,81.66,5,80,0,8,5340,2.03,151,Critical,Violation,Scotland
+RID0224,Dec,M102,Customer Support Chatbot,Finance,3074,91.52,91.02,5,49,23,2,5794,7.33,53,Medium,Review Required,London
+RID0225,Jun,M105,Inventory Forecast AI,Finance,4202,87.46,87.31,6,60,24,4,14876,2.29,90,High,Violation,Scotland
+RID0226,Jan,M102,Customer Support Chatbot,Finance,4304,85.31,86.02,1,20,21,3,4186,6.62,102,Medium,Review Required,London
+RID0227,Jul,M103,Fraud Detection AI,HR,1089,94.76,92.95,2,82,22,7,2090,1.05,31,Critical,Violation,North UK
+RID0228,Jun,M104,Loan Approval AI,HR,4238,89.16,89.26,0,43,8,4,5091,5.1,77,High,Violation,Scotland
+RID0229,Jan,M101,Resume Screening AI,Operations,2948,76.36,79.59,15,60,9,0,6889,6.2,174,Critical,Compliant,London
+RID0230,Dec,M101,Resume Screening AI,HR,4912,90.84,90.47,6,23,6,2,3872,3.72,58,Medium,Review Required,Scotland
+RID0231,Oct,M102,Customer Support Chatbot,Sales,4715,67.44,71.53,8,23,45,4,6598,8.93,248,Critical,Violation,London
+RID0232,Jan,M104,Loan Approval AI,Sales,4304,72.62,75.65,4,7,21,4,2801,2.62,209,Critical,Violation,North UK
+RID0233,Aug,M101,Resume Screening AI,Customer Service,4541,89.13,88.76,11,27,3,1,5494,2.05,78,Critical,Review Required,Scotland
+RID0234,Dec,M104,Loan Approval AI,Sales,2370,69.2,73.59,8,8,15,1,8692,5.32,234,Critical,Review Required,Midlands
+RID0235,Nov,M102,Customer Support Chatbot,Operations,936,72.3,75.49,2,44,19,5,2733,10.62,209,Critical,Violation,London
+RID0236,May,M104,Loan Approval AI,Customer Service,3072,91.6,91.18,5,32,4,4,5587,2.34,53,High,Violation,Scotland
+RID0237,May,M103,Fraud Detection AI,Sales,3968,78.09,80.06,2,56,11,9,8992,2.02,161,Critical,Violation,Scotland
+RID0238,Dec,M105,Inventory Forecast AI,Sales,1591,79.23,81.39,2,43,7,2,13736,5.1,153,High,Review Required,North UK
+RID0239,Jun,M105,Inventory Forecast AI,Operations,1389,69.85,73.79,7,29,24,1,9106,1.5,232,Critical,Review Required,Midlands
+RID0240,Sep,M101,Resume Screening AI,Customer Service,4168,80.46,81.49,9,52,15,1,5358,6.98,148,High,Review Required,Scotland
+RID0241,Apr,M103,Fraud Detection AI,HR,4255,80.03,81.58,0,54,4,4,6438,3.58,150,High,Violation,Scotland
+RID0242,Aug,M105,Inventory Forecast AI,Operations,1886,72.42,76.17,2,44,12,4,9021,3.44,205,Critical,Violation,Midlands
+RID0243,Dec,M105,Inventory Forecast AI,Sales,3469,81.47,82.79,7,46,3,4,14697,3.28,139,High,Violation,Midlands
+RID0244,Jul,M101,Resume Screening AI,HR,3631,67.96,71.51,12,13,1,2,8143,6.17,247,Critical,Review Required,London
+RID0245,Oct,M102,Customer Support Chatbot,Customer Service,1564,79.75,81.72,0,44,19,3,3200,6.7,150,High,Review Required,Midlands
+RID0246,Jan,M102,Customer Support Chatbot,HR,2466,72.95,76.67,6,6,27,4,4745,6.28,202,Critical,Violation,Scotland
+RID0247,Jul,M105,Inventory Forecast AI,Finance,2793,70.92,73.91,4,20,5,1,13710,2.01,221,Critical,Review Required,Midlands
+RID0248,May,M105,Inventory Forecast AI,Customer Service,3773,70.97,75.13,0,33,9,4,11434,5.59,218,Critical,Violation,Scotland
+RID0249,Feb,M105,Inventory Forecast AI,Operations,841,69.08,72.41,5,26,17,3,9740,2.69,238,Critical,Review Required,London
+RID0250,Mar,M102,Customer Support Chatbot,HR,1525,80.5,81.75,0,25,23,2,3763,10.56,143,High,Review Required,North UK
+RID0251,Jul,M105,Inventory Forecast AI,Sales,913,73.5,76.59,6,13,6,5,11026,2.13,198,Critical,Violation,Scotland
+RID0252,Feb,M101,Resume Screening AI,Finance,3758,90.23,89.26,10,46,7,0,2284,6.79,68,High,Compliant,London
+RID0253,Apr,M105,Inventory Forecast AI,Customer Service,2494,93.46,91.97,2,43,25,2,9745,4.22,41,Medium,Review Required,North UK
+RID0254,May,M102,Customer Support Chatbot,Finance,3520,73.45,76.99,3,45,41,4,7780,7.49,197,Critical,Violation,Midlands
+RID0255,Jun,M101,Resume Screening AI,HR,846,77.69,80.08,12,32,13,0,2126,6.99,169,Critical,Compliant,Midlands
+RID0256,Dec,M103,Fraud Detection AI,Customer Service,4829,70.02,74,7,96,20,10,5450,6.99,228,Critical,Violation,London
+RID0257,Nov,M101,Resume Screening AI,Operations,1893,96.87,94.87,12,17,18,0,6286,3.61,15,Critical,Compliant,Midlands
+RID0258,Jul,M102,Customer Support Chatbot,Sales,1910,83.74,84.52,4,35,24,4,6598,5.2,120,High,Violation,London
+RID0259,Sep,M105,Inventory Forecast AI,Operations,3530,90.39,89.23,1,5,8,3,9219,6.36,68,Medium,Review Required,North UK
+RID0260,Jul,M105,Inventory Forecast AI,HR,1379,67.45,71.82,5,51,1,5,9703,2.77,250,Critical,Violation,North UK
+RID0261,Oct,M104,Loan Approval AI,Sales,1119,88.24,88.7,0,45,6,3,3512,6.48,81,Medium,Review Required,Scotland
+RID0262,Aug,M104,Loan Approval AI,Finance,4433,87.53,87.73,3,21,22,5,5050,1.51,86,High,Violation,London
+RID0263,Feb,M104,Loan Approval AI,Sales,2230,72.87,75.72,0,24,19,0,5018,2.98,203,Critical,Compliant,London
+RID0264,Nov,M101,Resume Screening AI,HR,3212,77.91,80.13,7,47,10,0,3854,4.26,164,High,Compliant,Midlands
+RID0265,Jan,M103,Fraud Detection AI,Operations,1637,78.47,80.4,2,79,21,10,2671,2.37,160,Critical,Violation,North UK
+RID0266,Apr,M103,Fraud Detection AI,Sales,3271,74.91,77.65,1,63,25,5,2803,3.92,186,Critical,Violation,Midlands
+RID0267,Aug,M104,Loan Approval AI,HR,3258,90.63,90.61,6,48,11,2,4238,2.85,61,Medium,Review Required,Scotland
+RID0268,Jul,M105,Inventory Forecast AI,Sales,4894,70.3,74.1,2,8,11,5,9886,5.2,224,Critical,Violation,Scotland
+RID0269,Jan,M101,Resume Screening AI,HR,3198,96.11,94.78,14,21,15,3,2805,2.99,17,Critical,Review Required,Scotland
+RID0270,Mar,M102,Customer Support Chatbot,Customer Service,1760,97.69,95.67,5,6,36,4,4089,9.09,10,High,Violation,Scotland
+RID0271,Nov,M104,Loan Approval AI,Sales,3607,72.1,75.42,8,54,15,4,3201,2.17,208,Critical,Violation,Scotland
+RID0272,Jan,M102,Customer Support Chatbot,Operations,1677,78.62,81.16,3,15,33,5,8379,7.21,157,High,Violation,London
+RID0273,Sep,M104,Loan Approval AI,Finance,1677,95.83,94.16,7,13,1,4,2840,6.04,25,High,Violation,North UK
+RID0274,Mar,M103,Fraud Detection AI,Finance,2819,83.29,84.67,6,48,17,4,3178,2.32,120,High,Violation,Midlands
+RID0275,Dec,M102,Customer Support Chatbot,Customer Service,3221,86.8,86.9,2,9,17,0,5945,8.89,92,Medium,Compliant,Midlands
+RID0276,Aug,M101,Resume Screening AI,Operations,1308,76.66,78.9,8,8,10,4,7277,4.94,175,High,Violation,Midlands
+RID0277,Mar,M105,Inventory Forecast AI,Operations,3924,83.12,83.97,0,56,10,4,13821,4.84,121,High,Violation,Midlands
+RID0278,Mar,M105,Inventory Forecast AI,Customer Service,2442,95.2,93.9,1,21,3,2,11998,3.79,27,Medium,Review Required,North UK
+RID0279,Aug,M104,Loan Approval AI,HR,4843,90.8,90.57,3,11,9,2,7872,1.33,61,Medium,Review Required,Midlands
+RID0280,Sep,M105,Inventory Forecast AI,HR,1079,88.31,88.6,1,20,16,5,12723,4.93,84,High,Violation,Midlands
+RID0281,Nov,M105,Inventory Forecast AI,Sales,1296,69.17,72.62,2,17,23,2,12506,1.39,238,Critical,Review Required,Scotland
+RID0282,Oct,M103,Fraud Detection AI,Operations,1810,96.18,94.65,7,99,13,10,6490,4.7,17,Critical,Violation,London
+RID0283,Nov,M104,Loan Approval AI,Finance,3012,78.06,79.92,4,6,3,5,4274,6.42,163,High,Violation,North UK
+RID0284,Dec,M101,Resume Screening AI,Finance,1574,69.61,73.08,12,11,7,1,3391,4.54,230,Critical,Review Required,London
+RID0285,Aug,M101,Resume Screening AI,HR,1471,84.4,85.18,11,42,11,5,6919,1.25,111,Critical,Violation,London
+RID0286,Dec,M105,Inventory Forecast AI,Finance,943,69.99,73.78,4,38,12,1,13134,3.45,230,Critical,Review Required,London
+RID0287,Mar,M105,Inventory Forecast AI,HR,1034,88.43,88.47,1,43,11,1,10696,1.46,83,Medium,Review Required,Scotland
+RID0288,Aug,M103,Fraud Detection AI,Operations,1859,72.61,75.8,1,92,10,7,6897,2.12,210,Critical,Violation,North UK
+RID0289,Sep,M102,Customer Support Chatbot,Operations,1275,92.2,90.75,4,25,39,1,3714,8.6,54,Medium,Review Required,Midlands
+RID0290,Aug,M101,Resume Screening AI,HR,3962,68.54,72.71,9,55,11,1,5208,1.55,239,Critical,Review Required,North UK
+RID0291,Feb,M105,Inventory Forecast AI,Customer Service,2884,95.24,93.91,0,41,0,1,12330,2.38,30,Low,Review Required,North UK
+RID0292,Jun,M102,Customer Support Chatbot,Customer Service,2236,81.64,83.04,1,15,30,1,3209,9.26,136,High,Review Required,London
+RID0293,Aug,M105,Inventory Forecast AI,Finance,2361,91.51,90.1,2,49,0,3,9848,3.4,59,Medium,Review Required,North UK
+RID0294,Oct,M102,Customer Support Chatbot,HR,3010,91.55,90.7,3,38,26,3,4023,7.92,54,Medium,Review Required,Midlands
+RID0295,Dec,M104,Loan Approval AI,Customer Service,4425,83.16,84.27,4,49,23,4,8744,5.95,124,High,Violation,Scotland
+RID0296,May,M103,Fraud Detection AI,HR,2431,70.86,74.47,8,65,6,4,8409,2.94,219,Critical,Violation,Scotland
+RID0297,Oct,M104,Loan Approval AI,Operations,3290,90.15,90.25,4,45,17,5,3857,1.29,66,High,Violation,Scotland
+RID0298,Feb,M103,Fraud Detection AI,Operations,4706,94.82,93.53,6,82,11,10,3039,2.68,31,Critical,Violation,Midlands
+RID0299,Mar,M101,Resume Screening AI,Finance,2866,87.74,87.51,13,54,5,3,8045,6.58,86,Critical,Review Required,Scotland
+RID0300,Mar,M101,Resume Screening AI,Sales,1728,72.45,75.42,10,38,9,0,8072,2.74,207,Critical,Compliant,Scotland
+RID0301,Mar,M105,Inventory Forecast AI,HR,1201,79.66,81.6,3,14,14,1,12834,3.91,150,High,Review Required,London
+RID0302,Nov,M103,Fraud Detection AI,Customer Service,3655,72.71,76.28,1,83,23,4,8900,6.67,205,Critical,Violation,North UK
+RID0303,Oct,M101,Resume Screening AI,Operations,1321,88.26,87.89,15,53,1,5,8358,3.36,82,Critical,Violation,Midlands
+RID0304,Aug,M103,Fraud Detection AI,Sales,3154,84.98,86.24,4,53,5,4,7294,4.61,107,High,Violation,Scotland
+RID0305,Nov,M103,Fraud Detection AI,Customer Service,4755,74.84,78.2,0,99,5,5,4897,6.57,187,Critical,Violation,North UK
+RID0306,Mar,M102,Customer Support Chatbot,Finance,1211,72.77,76.35,6,55,24,4,7558,10.31,204,Critical,Violation,Scotland
+RID0307,Nov,M102,Customer Support Chatbot,Customer Service,3237,90.6,89.35,4,43,45,2,8942,7.69,67,Medium,Review Required,Midlands
+RID0308,Apr,M105,Inventory Forecast AI,Customer Service,4951,96.98,95.21,0,6,20,4,9934,4.75,16,High,Violation,London
+RID0309,Nov,M105,Inventory Forecast AI,Sales,2419,83.49,84.82,1,54,2,0,13361,3.55,119,Medium,Compliant,Scotland
+RID0310,Oct,M102,Customer Support Chatbot,HR,4422,85.3,85.31,4,46,33,0,4671,9.48,107,Medium,Compliant,London
+RID0311,Mar,M102,Customer Support Chatbot,Customer Service,2197,80.08,82.07,6,49,47,3,5874,6.64,148,High,Review Required,North UK
+RID0312,Jul,M104,Loan Approval AI,Finance,4611,78.83,81.14,6,9,13,2,5835,6.51,158,High,Review Required,North UK
+RID0313,Oct,M102,Customer Support Chatbot,Sales,2650,94.98,93.91,1,7,31,4,7270,10.49,28,High,Violation,London
+RID0314,Jun,M105,Inventory Forecast AI,Sales,3782,79.79,81.63,3,16,24,1,11518,1.59,146,High,Review Required,Scotland
+RID0315,Sep,M101,Resume Screening AI,Operations,1251,81.54,82.74,7,7,25,2,8328,1.77,133,High,Review Required,Midlands
+RID0316,Aug,M102,Customer Support Chatbot,Sales,1146,89.19,88.95,3,43,29,0,8619,5.65,78,Medium,Compliant,Scotland
+RID0317,Nov,M101,Resume Screening AI,HR,1435,76.19,79.21,11,60,0,1,3969,3.56,177,Critical,Review Required,North UK
+RID0318,Mar,M105,Inventory Forecast AI,Customer Service,4869,73.84,76.72,2,10,7,1,14637,3.98,197,Critical,Review Required,Scotland
+RID0319,Feb,M104,Loan Approval AI,Customer Service,3994,85.75,86.52,0,31,20,5,2012,3.15,104,High,Violation,Midlands
+RID0320,Oct,M103,Fraud Detection AI,Operations,2572,70.91,74.71,1,48,25,10,6353,5.06,221,Critical,Violation,Scotland
+RID0321,Nov,M105,Inventory Forecast AI,Finance,4129,81.87,82.99,0,52,15,4,14515,3.44,131,High,Violation,London
+RID0322,Sep,M101,Resume Screening AI,Customer Service,856,69.94,73.94,13,8,10,2,2594,6.28,229,Critical,Review Required,Midlands
+RID0323,Feb,M104,Loan Approval AI,Sales,1085,88.37,88.61,5,51,19,3,3117,6.82,80,Medium,Review Required,North UK
+RID0324,Jul,M102,Customer Support Chatbot,HR,2014,71.08,74.89,8,23,35,1,2143,7.92,220,Critical,Review Required,London
+RID0325,Mar,M102,Customer Support Chatbot,Operations,3403,93.98,92.46,3,34,50,2,6127,10.26,38,Medium,Review Required,North UK
+RID0326,Mar,M102,Customer Support Chatbot,Finance,817,77.62,80.15,5,14,45,4,6161,8.47,167,High,Violation,London
+RID0327,Jun,M101,Resume Screening AI,Customer Service,3895,77.53,79.56,5,50,1,1,5396,4.91,169,High,Review Required,Scotland
+RID0328,May,M105,Inventory Forecast AI,Operations,4085,71.4,75.29,2,35,7,3,14838,5,216,Critical,Review Required,North UK
+RID0329,Mar,M104,Loan Approval AI,Customer Service,4924,69.1,72.86,6,53,17,5,4407,4.03,232,Critical,Violation,Midlands
+RID0330,Jun,M101,Resume Screening AI,Finance,3120,69.49,73.37,8,11,11,4,3223,3.77,234,Critical,Violation,Midlands
+RID0331,Sep,M104,Loan Approval AI,HR,4581,75.39,78.7,2,57,2,4,5319,4.01,182,Critical,Violation,North UK
+RID0332,Mar,M101,Resume Screening AI,Finance,1187,96.5,94.72,15,39,25,3,8566,5.33,18,Critical,Review Required,Scotland
+RID0333,Feb,M101,Resume Screening AI,Operations,3261,80.32,82.09,13,58,3,2,6349,2.28,146,Critical,Review Required,Scotland
+RID0334,Dec,M105,Inventory Forecast AI,Sales,1999,74.43,77.36,1,56,14,3,12998,6.43,189,Critical,Review Required,Scotland
+RID0335,Jul,M104,Loan Approval AI,Finance,3305,74.98,78.11,3,50,20,3,2448,1.8,187,Critical,Review Required,North UK
+RID0336,Oct,M105,Inventory Forecast AI,Operations,1952,95.72,93.86,7,14,24,1,9593,3.63,25,High,Review Required,Midlands
+RID0337,Nov,M101,Resume Screening AI,Finance,2651,84.82,85.69,9,42,5,1,2056,4.85,109,High,Review Required,Scotland
+RID0338,Sep,M104,Loan Approval AI,Finance,3445,79.13,81.59,4,58,0,2,6557,5.23,154,High,Review Required,London
+RID0339,Jan,M104,Loan Approval AI,Sales,1840,70.73,74.75,4,7,12,0,6404,3.83,221,Critical,Compliant,North UK
+RID0340,Feb,M104,Loan Approval AI,HR,2893,77.13,80.13,3,44,10,5,7575,5.23,168,High,Violation,Scotland
+RID0341,Aug,M104,Loan Approval AI,Finance,3119,80.99,82.75,8,53,15,4,3606,6.05,140,High,Violation,Midlands
+RID0342,Apr,M105,Inventory Forecast AI,Sales,2954,74.07,77.18,0,14,17,5,14687,3.28,195,Critical,Violation,Scotland
+RID0343,May,M104,Loan Approval AI,Operations,4792,95.73,95.09,1,10,17,0,7962,6.98,19,Low,Compliant,North UK
+RID0344,Apr,M104,Loan Approval AI,Finance,1334,84,85.05,1,41,23,3,8754,4.29,112,Medium,Review Required,Scotland
+RID0345,Oct,M102,Customer Support Chatbot,Customer Service,3938,94.85,93.62,6,22,34,3,6067,7.72,29,Medium,Review Required,Midlands
+RID0346,Jan,M102,Customer Support Chatbot,Sales,1276,79.2,81.19,2,8,38,0,3828,8.18,157,High,Compliant,Scotland
+RID0347,Mar,M105,Inventory Forecast AI,Customer Service,2776,84.1,85.27,5,60,9,0,9856,6.98,112,Medium,Compliant,Midlands
+RID0348,Jul,M105,Inventory Forecast AI,Sales,4051,77.58,80.18,7,54,13,4,14658,4.51,164,High,Violation,Scotland
+RID0349,Nov,M101,Resume Screening AI,Customer Service,1228,69.07,72.21,9,43,7,1,3771,5.87,239,Critical,Review Required,North UK
+RID0350,Apr,M101,Resume Screening AI,HR,1700,95.3,93.79,14,45,21,4,2693,1.96,27,Critical,Violation,London
+RID0351,May,M105,Inventory Forecast AI,Customer Service,1623,70.45,74.05,8,5,9,1,10773,5.14,228,Critical,Review Required,Scotland
+RID0352,May,M104,Loan Approval AI,HR,4264,78.41,80.47,6,17,15,3,3966,2.84,163,High,Review Required,London
+RID0353,Sep,M105,Inventory Forecast AI,Sales,2168,69.04,73.18,6,26,6,2,9249,1.84,234,Critical,Review Required,Scotland
+RID0354,Apr,M105,Inventory Forecast AI,Customer Service,1687,78.12,80.73,1,13,17,5,14781,4.12,161,High,Violation,North UK
+RID0355,Dec,M104,Loan Approval AI,Customer Service,4755,68.22,71.89,4,40,4,5,4525,4.11,242,Critical,Violation,Midlands
+RID0356,May,M103,Fraud Detection AI,Sales,4100,72.42,75.23,8,60,19,5,8535,5.64,208,Critical,Violation,London
+RID0357,Jun,M101,Resume Screening AI,Finance,1251,73.41,76.62,8,24,16,0,7198,2.29,202,Critical,Compliant,North UK
+RID0358,Mar,M104,Loan Approval AI,HR,2154,67.74,71.79,2,25,25,0,7098,4.74,248,Critical,Compliant,Scotland
+RID0359,May,M103,Fraud Detection AI,Operations,2572,67.74,72.39,7,60,12,5,4132,5.13,244,Critical,Violation,London
+RID0360,Dec,M101,Resume Screening AI,HR,1681,82.96,84.35,10,20,1,0,5769,2.46,123,High,Compliant,London
+RID0361,Jun,M105,Inventory Forecast AI,HR,4467,77.66,79.45,4,19,8,3,9773,4.41,168,High,Review Required,London
+RID0362,Nov,M103,Fraud Detection AI,Customer Service,1204,67.61,71.6,0,58,22,9,2484,5.62,245,Critical,Violation,North UK
+RID0363,Apr,M102,Customer Support Chatbot,Sales,2541,70.77,74.58,5,38,22,5,8137,9.38,221,Critical,Violation,Midlands
+RID0364,Mar,M102,Customer Support Chatbot,Customer Service,4526,77.12,79.12,8,48,36,1,4211,6.36,175,High,Review Required,London
+RID0365,Oct,M103,Fraud Detection AI,Operations,3395,68.2,72.36,2,76,25,8,7487,1.13,240,Critical,Violation,London
+RID0366,Jul,M105,Inventory Forecast AI,Finance,4492,95.71,93.86,0,34,17,0,13709,2.71,23,Low,Compliant,Midlands
+RID0367,Feb,M102,Customer Support Chatbot,Sales,1307,71.65,75.61,1,18,38,5,3772,9.29,213,Critical,Violation,Scotland
+RID0368,Jun,M105,Inventory Forecast AI,Operations,2694,90.11,89.51,8,41,14,4,11951,4.34,67,High,Violation,Scotland
+RID0369,Mar,M103,Fraud Detection AI,Customer Service,2828,76,79.07,3,71,23,9,3524,2.22,179,Critical,Violation,Midlands
+RID0370,Dec,M103,Fraud Detection AI,Operations,2932,88.47,87.9,0,58,19,7,8006,6.43,83,Critical,Violation,London
+RID0371,Feb,M105,Inventory Forecast AI,Operations,4980,88.53,88.17,6,23,17,3,11656,4.83,82,Medium,Review Required,North UK
+RID0372,Aug,M105,Inventory Forecast AI,Sales,3071,89.32,89.47,0,17,0,3,9287,1.5,70,Medium,Review Required,Scotland
+RID0373,Mar,M103,Fraud Detection AI,Customer Service,3004,88.09,88.46,8,52,5,5,6480,2.66,84,High,Violation,Midlands
+RID0374,Jan,M102,Customer Support Chatbot,Customer Service,1343,77.21,79.74,8,9,37,4,3030,8.62,172,High,Violation,Midlands
+RID0375,Jan,M103,Fraud Detection AI,Sales,2344,70.4,73.62,3,81,20,8,3057,1.21,227,Critical,Violation,London
+RID0376,Mar,M103,Fraud Detection AI,Customer Service,1570,95.77,94.17,2,44,25,10,2220,1.76,21,Critical,Violation,Scotland
+RID0377,Dec,M105,Inventory Forecast AI,Customer Service,3700,68.42,73.05,8,53,14,0,11825,4.58,238,Critical,Compliant,London
+RID0378,Nov,M104,Loan Approval AI,Operations,3790,76.42,79.12,5,30,9,2,6681,6.13,174,High,Review Required,Midlands
+RID0379,Nov,M103,Fraud Detection AI,Sales,2921,88.24,88.33,5,63,10,5,7466,5.53,85,High,Violation,Midlands
+RID0380,Feb,M103,Fraud Detection AI,HR,1310,70.76,73.83,0,62,11,6,6347,3.44,225,Critical,Violation,Scotland
+RID0381,Sep,M102,Customer Support Chatbot,Operations,2296,68.09,72.88,1,12,42,5,3302,10.57,241,Critical,Violation,London
+RID0382,Apr,M104,Loan Approval AI,Customer Service,2924,69.26,72.79,2,41,18,1,5718,4.45,237,Critical,Review Required,Scotland
+RID0383,Dec,M104,Loan Approval AI,Operations,2380,84.2,84.48,5,43,0,5,5581,1.27,116,High,Violation,London
+RID0384,Jan,M105,Inventory Forecast AI,Sales,2447,78.08,79.51,4,7,2,0,12816,4.01,167,High,Compliant,Midlands
+RID0385,Dec,M104,Loan Approval AI,Finance,4636,72.97,76.36,3,59,22,4,4532,3.33,206,Critical,Violation,North UK
+RID0386,Nov,M105,Inventory Forecast AI,Customer Service,2681,91.84,91.96,0,35,20,5,13326,2.73,50,High,Violation,Scotland
+RID0387,Aug,M101,Resume Screening AI,Sales,1934,78.56,80.43,13,50,15,0,8686,1.67,159,Critical,Compliant,North UK
+RID0388,Jan,M103,Fraud Detection AI,HR,3259,67.84,71.61,5,51,21,3,3418,4.67,249,Critical,Review Required,Scotland
+RID0389,Nov,M105,Inventory Forecast AI,Operations,4127,90.19,89.98,5,42,8,0,14149,4.96,66,Medium,Compliant,Scotland
+RID0390,Mar,M105,Inventory Forecast AI,HR,1867,76.51,79.02,4,13,25,2,9595,4.19,177,High,Review Required,North UK
+RID0391,Jun,M103,Fraud Detection AI,Customer Service,3288,81.36,82.86,4,61,16,5,6931,2.44,139,High,Violation,Scotland
+RID0392,Jun,M104,Loan Approval AI,Operations,4400,68.2,72.51,2,28,17,0,7928,2.75,242,Critical,Compliant,North UK
+RID0393,Sep,M103,Fraud Detection AI,Operations,818,74.13,77.55,1,91,2,5,8428,2.16,192,Critical,Violation,Scotland
+RID0394,Jul,M101,Resume Screening AI,Sales,3895,72.15,75.49,8,48,1,3,3186,1.78,214,Critical,Review Required,London
+RID0395,Sep,M102,Customer Support Chatbot,HR,3410,89.67,89.4,6,13,21,5,3496,7.24,69,High,Violation,North UK
+RID0396,Sep,M101,Resume Screening AI,Sales,4807,79.11,80.77,15,48,20,0,4562,2,159,Critical,Compliant,Scotland
+RID0397,Dec,M101,Resume Screening AI,Finance,3955,77.77,79.99,11,56,25,4,6131,5.26,168,Critical,Violation,London
+RID0398,Dec,M103,Fraud Detection AI,Operations,3782,69.73,73.75,2,80,7,3,4801,5.44,228,Critical,Review Required,London
+RID0399,Aug,M105,Inventory Forecast AI,Finance,3886,88.91,89.04,7,6,14,2,13970,5.98,77,High,Review Required,Scotland
+RID0400,Jan,M101,Resume Screening AI,HR,1725,82.3,83.05,10,22,3,5,5201,5.21,130,High,Violation,Midlands
+RID0401,Aug,M104,Loan Approval AI,HR,4571,88.69,88.11,6,56,22,0,3981,4.97,82,Medium,Compliant,Scotland
+RID0402,Oct,M105,Inventory Forecast AI,Customer Service,3686,73.53,76.27,8,52,21,2,9888,6.54,202,Critical,Review Required,North UK
+RID0403,Mar,M105,Inventory Forecast AI,Sales,3491,94.41,93.95,8,21,23,0,11783,1.82,30,High,Compliant,Scotland
+RID0404,Feb,M105,Inventory Forecast AI,Operations,4148,76.12,78.78,0,32,10,4,10334,3.89,176,High,Violation,London
+RID0405,Dec,M105,Inventory Forecast AI,HR,1423,90.03,89.74,7,13,24,3,11761,1.08,67,High,Review Required,London
+RID0406,Jan,M102,Customer Support Chatbot,Customer Service,2797,93.74,92.94,1,53,35,1,5615,9.19,38,Low,Review Required,London
+RID0407,Jun,M105,Inventory Forecast AI,Sales,2656,87.06,87.66,7,29,9,3,11327,6.42,90,High,Review Required,North UK
+RID0408,Oct,M102,Customer Support Chatbot,Customer Service,4994,84.27,84.41,1,55,28,0,4482,8.77,116,Medium,Compliant,Scotland
+RID0409,Jul,M101,Resume Screening AI,Sales,3170,91.7,90.96,10,52,22,1,5073,6.59,55,High,Review Required,North UK
+RID0410,Mar,M104,Loan Approval AI,Operations,3612,79.47,81.29,1,38,10,2,7624,5.57,152,High,Review Required,North UK
+RID0411,Sep,M105,Inventory Forecast AI,Operations,4740,90.95,89.89,5,18,19,1,13708,1.88,64,Medium,Review Required,Scotland
+RID0412,Jan,M104,Loan Approval AI,Finance,1484,88.4,88.55,3,8,24,1,2157,3.43,81,Medium,Review Required,Scotland
+RID0413,Jun,M104,Loan Approval AI,Sales,3607,78.35,80.75,0,11,19,4,2138,1.98,161,High,Violation,Midlands
+RID0414,May,M102,Customer Support Chatbot,Sales,813,82.79,84.28,6,27,44,3,5846,8.42,127,High,Review Required,Scotland
+RID0415,Jun,M101,Resume Screening AI,Customer Service,2644,68.98,73.04,13,35,16,3,4180,3.33,237,Critical,Review Required,Midlands
+RID0416,Mar,M103,Fraud Detection AI,Sales,1222,68.82,72.55,7,79,14,10,3469,1.4,241,Critical,Violation,North UK
+RID0417,Aug,M101,Resume Screening AI,Finance,3953,88.46,88.6,9,50,25,1,3387,1.56,82,High,Review Required,Midlands
+RID0418,Jun,M103,Fraud Detection AI,Finance,2888,91.53,90.41,4,82,19,4,6032,3.4,56,High,Violation,Midlands
+RID0419,Dec,M101,Resume Screening AI,Finance,2881,81.89,83.51,10,40,4,1,6509,4.18,129,High,Review Required,Scotland
+RID0420,Mar,M105,Inventory Forecast AI,HR,3494,92.77,92.59,4,13,18,0,12266,2.4,43,Medium,Compliant,North UK
+RID0421,Dec,M103,Fraud Detection AI,Customer Service,1435,96.21,94.54,7,98,25,4,5701,4.26,18,High,Violation,Midlands
+RID0422,Jun,M102,Customer Support Chatbot,HR,2221,79.76,82.39,5,16,37,3,7750,5.93,146,High,Review Required,North UK
+RID0423,Apr,M101,Resume Screening AI,Finance,2400,72.33,76.1,7,23,16,4,2649,5.46,207,Critical,Violation,London
+RID0424,Oct,M104,Loan Approval AI,HR,3628,95.54,94.47,3,43,3,4,5184,1.57,21,High,Violation,Scotland
+RID0425,May,M104,Loan Approval AI,Operations,1756,86.92,87.35,7,36,11,4,7605,6.17,90,High,Violation,North UK
+RID0426,Nov,M102,Customer Support Chatbot,HR,2827,85.25,85.42,7,27,36,5,3608,7.67,110,High,Violation,Scotland
+RID0427,Nov,M102,Customer Support Chatbot,HR,4425,79.42,80.56,2,29,25,2,7088,9.75,155,High,Review Required,Scotland
+RID0428,Mar,M104,Loan Approval AI,HR,2920,90.01,89.84,6,23,6,1,7825,4.02,71,Medium,Review Required,North UK
+RID0429,Jan,M101,Resume Screening AI,Sales,2667,67.56,71.36,9,44,10,2,5971,5.58,247,Critical,Review Required,Midlands
+RID0430,Mar,M101,Resume Screening AI,Operations,907,96.21,94.62,15,37,11,4,4949,2.9,15,Critical,Violation,Scotland
+RID0431,May,M104,Loan Approval AI,Customer Service,4092,81.54,82.61,3,60,4,1,2654,2.66,136,High,Review Required,London
+RID0432,May,M104,Loan Approval AI,Customer Service,2207,96.32,94.82,8,39,22,0,3665,6.89,17,High,Compliant,Midlands
+RID0433,Jan,M105,Inventory Forecast AI,Customer Service,2964,83.02,84.35,2,44,13,5,13326,6.63,120,High,Violation,London
+RID0434,May,M104,Loan Approval AI,Sales,2929,88.86,89.28,7,32,14,3,4700,4.25,77,High,Review Required,London
+RID0435,Mar,M101,Resume Screening AI,Operations,1812,74.12,77.58,14,22,15,1,5721,3.86,192,Critical,Review Required,North UK
+RID0436,Feb,M103,Fraud Detection AI,HR,1290,81.81,83.11,3,91,23,9,2730,2.78,131,Critical,Violation,London
+RID0437,Apr,M105,Inventory Forecast AI,Operations,4203,89.26,89,8,16,11,0,13500,3.64,71,High,Compliant,North UK
+RID0438,Apr,M104,Loan Approval AI,Finance,2618,73.25,76.41,2,16,25,2,8841,1.72,203,Critical,Review Required,North UK
+RID0439,Jun,M101,Resume Screening AI,Sales,3757,86.66,86.98,14,12,4,3,4037,6.11,91,Critical,Review Required,North UK
+RID0440,Feb,M105,Inventory Forecast AI,Operations,1300,84.25,85.27,6,41,16,2,10802,2.29,110,Medium,Review Required,London
+RID0441,Jan,M103,Fraud Detection AI,Operations,2112,83.69,84.69,5,42,16,5,5719,1.58,116,High,Violation,North UK
+RID0442,Dec,M101,Resume Screening AI,Customer Service,2796,69.49,73.17,10,47,19,5,5941,3.89,235,Critical,Violation,Midlands
+RID0443,Aug,M104,Loan Approval AI,HR,1780,73.45,75.86,4,22,25,1,3069,1.69,203,Critical,Review Required,London
+RID0444,Feb,M105,Inventory Forecast AI,HR,1010,82.98,84.75,8,26,19,5,14383,2.95,122,High,Violation,London
+RID0445,Jul,M102,Customer Support Chatbot,Customer Service,1816,78.87,81.33,1,8,27,1,5581,10.64,154,High,Review Required,Midlands
+RID0446,Jul,M101,Resume Screening AI,HR,4991,81.75,82.6,15,54,17,0,7455,3.64,136,Critical,Compliant,Midlands
+RID0447,Feb,M102,Customer Support Chatbot,Sales,1121,76.07,78.72,7,54,37,0,2049,5.4,178,High,Compliant,London
+RID0448,Oct,M102,Customer Support Chatbot,Operations,3701,72.09,74.86,0,15,30,3,8759,10.93,214,Critical,Review Required,North UK
+RID0449,Jan,M101,Resume Screening AI,Finance,1220,68.92,72.48,7,44,10,2,8422,4.52,239,Critical,Review Required,North UK
+RID0450,Nov,M101,Resume Screening AI,HR,4119,67.04,71.15,11,33,18,4,8863,1.93,249,Critical,Violation,North UK
+RID0451,Nov,M103,Fraud Detection AI,Operations,2105,95.36,94.26,6,49,9,10,8320,1.9,27,Critical,Violation,Midlands
+RID0452,Mar,M101,Resume Screening AI,HR,3348,75.35,77.82,10,38,21,0,7302,1.12,185,Critical,Compliant,Scotland
+RID0453,Sep,M105,Inventory Forecast AI,Finance,2007,93.51,92.37,6,11,4,0,10140,3.95,40,Medium,Compliant,Midlands
+RID0454,May,M104,Loan Approval AI,Finance,1418,95.82,94.43,5,37,1,5,6454,1.51,23,High,Violation,Midlands
+RID0455,Sep,M103,Fraud Detection AI,Sales,4460,77.31,79.96,4,40,10,3,4808,1.91,167,High,Review Required,London
+RID0456,May,M102,Customer Support Chatbot,Customer Service,3547,89.37,89.41,3,20,48,3,6756,5.61,70,Medium,Review Required,North UK
+RID0457,Dec,M102,Customer Support Chatbot,Customer Service,3501,97.62,95.83,8,41,39,3,3369,8.77,10,High,Review Required,Scotland
+RID0458,May,M105,Inventory Forecast AI,Finance,3830,84,85.04,2,19,16,5,12744,1.37,115,High,Violation,North UK
+RID0459,Oct,M104,Loan Approval AI,Sales,1902,79.37,80.49,3,16,25,2,6802,1.92,157,High,Review Required,Scotland
+RID0460,Aug,M101,Resume Screening AI,HR,3651,75.48,78.56,5,37,4,2,2393,6.53,182,Critical,Review Required,London
+RID0461,Feb,M105,Inventory Forecast AI,Finance,1724,86.37,86.78,8,17,17,3,14262,3.35,100,High,Review Required,London
+RID0462,Jul,M101,Resume Screening AI,HR,4575,80.02,82.19,8,39,25,3,2646,4.48,147,High,Review Required,Scotland
+RID0463,Dec,M105,Inventory Forecast AI,Customer Service,2804,67.76,72.11,5,42,23,4,13596,3,247,Critical,Violation,North UK
+RID0464,Oct,M102,Customer Support Chatbot,Finance,866,82.21,83.06,6,59,49,5,7586,5.98,130,High,Violation,Scotland
+RID0465,Jan,M102,Customer Support Chatbot,Operations,2310,73.91,77.36,1,36,21,1,8502,5.28,195,Critical,Review Required,North UK
+RID0466,Mar,M104,Loan Approval AI,Operations,4160,83.22,84.13,3,33,6,1,4333,1.11,119,Medium,Review Required,Midlands
+RID0467,Jun,M101,Resume Screening AI,Sales,1547,83.98,84.95,8,48,23,5,3999,5.21,114,High,Violation,London
+RID0468,Nov,M104,Loan Approval AI,Customer Service,1405,80.33,82.24,8,58,5,4,7137,6.35,144,High,Violation,London
+RID0469,Jun,M102,Customer Support Chatbot,Customer Service,3594,82.29,83.34,0,36,19,1,7327,8.6,129,High,Review Required,Scotland
+RID0470,May,M102,Customer Support Chatbot,HR,2450,80.4,81.89,6,41,38,1,8192,10.77,146,High,Review Required,North UK
+RID0471,Jun,M105,Inventory Forecast AI,Customer Service,4902,69.68,72.83,1,19,21,5,14447,1.51,232,Critical,Violation,North UK
+RID0472,Jan,M103,Fraud Detection AI,Customer Service,1314,93.41,93.16,2,62,19,10,5911,1.19,38,Critical,Violation,North UK
+RID0473,Jun,M103,Fraud Detection AI,Finance,4106,89.23,88.4,2,59,8,3,5418,1.97,78,Medium,Review Required,London
+RID0474,Oct,M102,Customer Support Chatbot,Finance,3389,72.31,75.12,0,11,28,1,8382,6.55,209,Critical,Review Required,North UK
+RID0475,Apr,M103,Fraud Detection AI,Operations,3915,68.19,72.41,2,69,4,5,8808,2.14,241,Critical,Violation,London
+RID0476,Aug,M103,Fraud Detection AI,Finance,1796,77.97,80.21,3,72,3,6,2325,3.71,163,High,Violation,Scotland
+RID0477,Oct,M104,Loan Approval AI,Operations,891,94.4,92.61,7,43,17,1,8531,6.62,34,High,Review Required,Midlands
+RID0478,Dec,M102,Customer Support Chatbot,Operations,4429,78.76,81.14,8,36,17,2,7372,10.34,158,High,Review Required,London
+RID0479,Apr,M101,Resume Screening AI,Customer Service,1709,79.66,81.75,8,19,10,5,3041,5.1,150,High,Violation,North UK
+RID0480,Nov,M102,Customer Support Chatbot,Finance,3476,70.16,73.77,1,17,36,1,5020,6.33,230,Critical,Review Required,Scotland
+RID0481,Jun,M105,Inventory Forecast AI,Customer Service,3367,78.34,80.09,0,39,15,0,12962,5.91,164,High,Compliant,Midlands
+RID0482,May,M104,Loan Approval AI,Sales,3537,73.83,76.89,0,48,1,3,5578,1.32,198,Critical,Review Required,Midlands
+RID0483,May,M105,Inventory Forecast AI,Customer Service,4462,72.26,75.89,1,45,15,1,9580,6.89,209,Critical,Review Required,London
+RID0484,Dec,M105,Inventory Forecast AI,HR,3259,74.66,76.93,6,60,9,1,12783,1.85,193,Critical,Review Required,North UK
+RID0485,Dec,M103,Fraud Detection AI,Customer Service,1972,78.49,79.92,8,43,13,4,8161,5.87,163,High,Violation,London
+RID0486,Oct,M101,Resume Screening AI,HR,4168,72.2,75.3,12,25,5,1,2605,6.68,210,Critical,Review Required,North UK
+RID0487,Jun,M105,Inventory Forecast AI,Customer Service,4335,80.36,81.91,7,27,22,1,13412,3.88,146,High,Review Required,Scotland
+RID0488,Sep,M101,Resume Screening AI,Operations,2365,81.99,83.13,13,37,14,2,4005,3.35,134,Critical,Review Required,Scotland
+RID0489,Mar,M103,Fraud Detection AI,Sales,4928,73.24,76.35,4,59,15,5,6504,5.04,205,Critical,Violation,North UK
+RID0490,Feb,M101,Resume Screening AI,Customer Service,885,85.68,85.95,8,42,12,0,7605,2.39,104,High,Compliant,London
+RID0491,Nov,M102,Customer Support Chatbot,Finance,4988,76.45,78.84,4,37,40,4,6000,7.92,177,High,Violation,London
+RID0492,Dec,M103,Fraud Detection AI,Finance,4390,90.59,90.72,7,75,20,4,5140,3.8,60,High,Violation,North UK
+RID0493,Nov,M103,Fraud Detection AI,HR,1130,86.05,87,0,88,4,7,2957,5.48,99,Critical,Violation,London
+RID0494,Jun,M104,Loan Approval AI,Sales,2090,87.35,87.61,7,42,4,4,7097,4.49,86,High,Violation,London
+RID0495,Oct,M105,Inventory Forecast AI,Sales,3712,85.63,86.82,3,29,4,1,13127,5.9,100,Medium,Review Required,North UK
+RID0496,Jul,M103,Fraud Detection AI,Sales,994,90.27,90.08,3,48,2,8,2520,4.82,69,Critical,Violation,Midlands
+RID0497,Jul,M101,Resume Screening AI,HR,1212,92.16,91.62,14,42,15,0,2252,6.78,50,Critical,Compliant,North UK
+RID0498,Jan,M105,Inventory Forecast AI,Finance,1863,68.7,72.65,3,10,2,0,13006,4.31,237,Critical,Compliant,North UK
+RID0499,Nov,M101,Resume Screening AI,Customer Service,2887,75.63,77.85,14,38,8,2,4869,4.59,184,Critical,Review Required,Scotland
+RID0500,Jul,M105,Inventory Forecast AI,Customer Service,1613,67.51,71.41,8,53,14,4,11624,4.35,249,Critical,Violation,Scotland
+RID0501,May,M103,Fraud Detection AI,Sales,1288,85.9,85.92,5,91,16,3,7738,2.46,101,Medium,Review Required,Midlands
+RID0502,Sep,M105,Inventory Forecast AI,Sales,4571,94.5,92.82,8,37,25,0,10946,1.49,35,High,Compliant,North UK
+RID0503,Sep,M103,Fraud Detection AI,Finance,1814,81.59,83.07,2,48,1,4,4636,6.9,135,High,Violation,London
+RID0504,Jun,M101,Resume Screening AI,HR,1949,74.53,77.81,14,39,1,0,8693,5.02,189,Critical,Compliant,Scotland
+RID0505,Jan,M101,Resume Screening AI,Customer Service,1887,88.86,89.08,12,28,21,4,6622,4.05,78,Critical,Violation,Scotland
+RID0506,Jun,M102,Customer Support Chatbot,Finance,2903,70.32,73.92,5,55,17,1,5209,6.82,226,Critical,Review Required,Scotland
+RID0507,Feb,M101,Resume Screening AI,Customer Service,1213,70.43,74.77,11,22,20,2,7072,3.24,222,Critical,Review Required,Scotland
+RID0508,Jan,M105,Inventory Forecast AI,Sales,4662,93.47,92.6,7,23,12,5,14515,4.48,43,High,Violation,North UK
+RID0509,Jul,M104,Loan Approval AI,Operations,1772,95.98,94.2,2,43,7,4,2109,2.72,23,High,Violation,London
+RID0510,Sep,M101,Resume Screening AI,Sales,1913,87.76,88.02,5,53,0,3,7900,6.08,87,Medium,Review Required,North UK
+RID0511,Aug,M101,Resume Screening AI,Operations,4798,80.83,82.69,8,41,16,4,4526,2.89,141,High,Violation,North UK
+RID0512,Jan,M101,Resume Screening AI,Operations,2347,87.53,87.64,11,6,23,1,2544,3.98,90,Critical,Review Required,North UK
+RID0513,Jul,M101,Resume Screening AI,Operations,4546,77.04,79.28,10,29,4,1,4244,5.34,171,High,Review Required,Midlands
+RID0514,Dec,M105,Inventory Forecast AI,Sales,4092,89.06,89.13,0,55,12,1,9069,6.61,73,Medium,Review Required,London
+RID0515,Feb,M103,Fraud Detection AI,Customer Service,1888,88.88,88.99,7,76,7,7,7959,5.35,78,Critical,Violation,Midlands
+RID0516,Sep,M102,Customer Support Chatbot,Operations,1361,72.3,75.55,6,10,32,1,2691,7.04,207,Critical,Review Required,London
+RID0517,Jan,M102,Customer Support Chatbot,Sales,4093,95.11,93.89,3,36,23,5,3735,8.22,28,High,Violation,Midlands
+RID0518,Jun,M102,Customer Support Chatbot,HR,3904,78.84,81.26,8,45,21,4,8569,10.2,155,High,Violation,Scotland
+RID0519,Jun,M101,Resume Screening AI,Customer Service,3981,86.94,87.58,13,6,6,0,3914,3.11,89,Critical,Compliant,Midlands
+RID0520,May,M104,Loan Approval AI,Customer Service,4004,96.65,94.31,6,23,18,4,5003,5.88,18,High,Violation,Midlands
+RID0521,Jan,M102,Customer Support Chatbot,HR,1829,84.08,85.25,1,38,45,3,7919,5.07,117,Medium,Review Required,North UK
+RID0522,Sep,M101,Resume Screening AI,Operations,1521,79.68,80.78,14,31,7,2,8909,2.46,154,Critical,Review Required,North UK
+RID0523,Jun,M104,Loan Approval AI,Finance,4260,94.5,93.27,7,54,20,2,5527,5.38,33,High,Review Required,North UK
+RID0524,Feb,M105,Inventory Forecast AI,Operations,1705,78.2,79.84,2,10,0,3,10242,4.02,164,High,Review Required,Scotland
+RID0525,Dec,M104,Loan Approval AI,HR,1495,71.5,75.26,1,47,13,1,5441,6.78,216,Critical,Review Required,Scotland
+RID0526,Oct,M104,Loan Approval AI,Finance,2744,97.08,94.9,6,42,21,5,6894,4.93,12,High,Violation,London
+RID0527,May,M105,Inventory Forecast AI,Finance,949,87.53,88,7,45,0,2,13727,4.71,88,High,Review Required,North UK
+RID0528,Sep,M103,Fraud Detection AI,Finance,1292,77.04,79.72,3,80,25,8,5340,3.28,170,Critical,Violation,London
+RID0529,Dec,M105,Inventory Forecast AI,HR,3891,91.7,91.05,7,45,10,2,9044,6.06,54,High,Review Required,North UK
+RID0530,Nov,M101,Resume Screening AI,Customer Service,876,68.14,72.25,6,25,16,5,3724,1.43,244,Critical,Violation,Scotland
+RID0531,Jan,M101,Resume Screening AI,Operations,2866,71.39,74.31,5,12,22,2,2877,6.5,219,Critical,Review Required,London
+RID0532,Mar,M101,Resume Screening AI,Sales,2379,84.79,86.09,12,30,25,0,2775,1.92,108,Critical,Compliant,Midlands
+RID0533,Sep,M103,Fraud Detection AI,HR,3068,71.38,74.6,3,41,18,10,5234,2.18,219,Critical,Violation,North UK
+RID0534,Jul,M102,Customer Support Chatbot,HR,3040,69.64,73.54,4,23,37,2,6631,7.43,233,Critical,Review Required,London
+RID0535,Aug,M102,Customer Support Chatbot,HR,3987,76.69,79.58,1,23,28,1,8671,6.8,174,High,Review Required,Midlands
+RID0536,Mar,M105,Inventory Forecast AI,Finance,2618,82.39,83.73,7,35,10,4,12115,1.81,130,High,Violation,Scotland
+RID0537,Jan,M105,Inventory Forecast AI,Finance,1532,86.89,86.46,5,60,13,4,10032,5.28,96,High,Violation,North UK
+RID0538,Feb,M105,Inventory Forecast AI,Sales,3448,82.08,83.02,4,58,2,4,10720,2.58,132,High,Violation,London
+RID0539,Jun,M101,Resume Screening AI,Operations,4478,90.3,90.68,10,11,22,5,7877,4.03,62,High,Violation,London
+RID0540,Dec,M104,Loan Approval AI,Finance,3827,92.64,91.55,0,9,2,2,5185,5.8,50,Medium,Review Required,North UK
+RID0541,Nov,M101,Resume Screening AI,Sales,1494,84.4,85.39,12,49,5,1,3033,4.86,112,Critical,Review Required,Scotland
+RID0542,May,M104,Loan Approval AI,Sales,3346,75.75,77.55,2,58,24,2,3586,3.52,186,Critical,Review Required,Scotland
+RID0543,Mar,M105,Inventory Forecast AI,Operations,3835,86.17,86.71,7,53,24,1,11579,4.34,99,High,Review Required,Midlands
+RID0544,Jan,M105,Inventory Forecast AI,HR,3893,85.85,86.03,4,30,20,2,14657,1.69,104,Medium,Review Required,Midlands
+RID0545,May,M103,Fraud Detection AI,Finance,2190,91.76,90.88,2,51,15,6,7405,2.64,52,High,Violation,North UK
+RID0546,Jun,M104,Loan Approval AI,HR,809,85.02,85.56,7,54,10,0,8881,3.65,108,High,Compliant,Scotland
+RID0547,Aug,M104,Loan Approval AI,Customer Service,1597,89.86,88.77,8,59,21,2,6682,2.9,73,High,Review Required,North UK
+RID0548,Oct,M105,Inventory Forecast AI,Sales,2945,85.52,86.2,0,36,13,4,12914,3.44,102,High,Violation,Midlands
+RID0549,Dec,M105,Inventory Forecast AI,Operations,4547,74.1,76.89,7,29,23,1,13873,5.82,193,Critical,Review Required,London
+RID0550,Feb,M102,Customer Support Chatbot,Customer Service,3857,90.89,90.67,0,16,49,3,7983,5.59,62,Medium,Review Required,Midlands
+RID0551,Apr,M104,Loan Approval AI,Operations,863,74.24,77.02,1,26,1,0,4914,6.27,192,Critical,Compliant,Scotland
+RID0552,Dec,M103,Fraud Detection AI,HR,1433,86.53,86.93,3,86,10,7,7853,2.6,92,Critical,Violation,Scotland
+RID0553,Apr,M102,Customer Support Chatbot,Finance,3223,76.68,79.5,1,34,46,5,8678,7.24,174,High,Violation,Scotland
+RID0554,May,M104,Loan Approval AI,Sales,2868,79.37,81.78,7,38,2,2,2997,2.3,151,High,Review Required,London
+RID0555,Dec,M101,Resume Screening AI,HR,4386,90.31,89.94,11,39,20,3,8475,3.62,66,Critical,Review Required,Midlands
+RID0556,Mar,M105,Inventory Forecast AI,Operations,3159,81.93,83.26,6,47,20,3,10722,4.06,130,High,Review Required,Midlands
+RID0557,May,M105,Inventory Forecast AI,Customer Service,3672,81.07,83.2,2,38,17,2,14609,1.3,137,High,Review Required,Midlands
+RID0558,Apr,M102,Customer Support Chatbot,Finance,2441,97.13,95.4,2,31,35,2,6672,10.28,13,Medium,Review Required,North UK
+RID0559,Sep,M105,Inventory Forecast AI,Customer Service,1378,88.99,89.08,7,41,21,4,10763,1.52,73,High,Violation,Scotland
+RID0560,Oct,M101,Resume Screening AI,HR,2573,70.32,74.21,13,56,0,3,6489,4.51,222,Critical,Review Required,Midlands
+RID0561,Dec,M103,Fraud Detection AI,HR,3163,83.67,84.8,3,43,5,6,8963,1.45,119,High,Violation,London
+RID0562,Feb,M101,Resume Screening AI,Finance,3202,88.99,88.8,8,21,4,2,6375,6.26,76,High,Review Required,North UK
+RID0563,Apr,M105,Inventory Forecast AI,Customer Service,3083,92.51,91.53,5,18,6,4,14601,2.45,48,High,Violation,London
+RID0564,Oct,M104,Loan Approval AI,Finance,4890,88.45,87.98,0,8,24,1,7265,6.34,84,Medium,Review Required,London
+RID0565,Jul,M102,Customer Support Chatbot,Operations,1908,96.07,94.36,7,48,44,0,7717,9.53,17,High,Compliant,Scotland
+RID0566,May,M105,Inventory Forecast AI,HR,1090,81.04,82.2,7,33,10,3,11024,4.29,140,High,Review Required,London
+RID0567,Jan,M104,Loan Approval AI,HR,2626,96.72,95.48,6,17,22,5,3979,6.35,11,High,Violation,Scotland
+RID0568,Mar,M101,Resume Screening AI,Sales,1696,71.57,75.65,15,27,10,5,7523,6.83,212,Critical,Violation,London
+RID0569,Oct,M103,Fraud Detection AI,HR,1493,87.81,88.36,6,88,1,9,4367,4.53,86,Critical,Violation,Scotland
+RID0570,May,M104,Loan Approval AI,Sales,900,90.14,89.79,1,19,14,5,2232,3.09,68,High,Violation,London
+RID0571,Feb,M104,Loan Approval AI,Customer Service,2812,80.85,82.43,3,57,7,2,5520,6.95,141,High,Review Required,London
+RID0572,Sep,M103,Fraud Detection AI,Operations,3460,73.83,76.67,2,88,16,3,3261,3.85,200,Critical,Review Required,Midlands
+RID0573,Aug,M104,Loan Approval AI,HR,1757,72.78,76.19,5,13,15,4,7744,3.26,206,Critical,Violation,Scotland
+RID0574,May,M103,Fraud Detection AI,Operations,3905,91,90.3,3,78,2,7,4752,4.13,63,Critical,Violation,Midlands
+RID0575,Mar,M103,Fraud Detection AI,Operations,3931,78.1,80.11,3,56,17,6,6481,3.41,166,High,Violation,Midlands
+RID0576,May,M102,Customer Support Chatbot,Finance,3894,89.36,88.81,4,53,23,1,5555,10.43,77,Medium,Review Required,Scotland
+RID0577,Jul,M102,Customer Support Chatbot,HR,1508,74.37,77.87,1,15,28,5,4420,8.19,190,Critical,Violation,London
+RID0578,Oct,M105,Inventory Forecast AI,Customer Service,1735,82.02,82.81,2,36,22,3,10360,1.87,133,High,Review Required,London
+RID0579,Jul,M104,Loan Approval AI,Sales,4916,84.98,85.18,6,14,4,4,7586,4.79,112,High,Violation,Scotland
+RID0580,Jul,M104,Loan Approval AI,Operations,1554,85.52,86.05,4,37,25,0,8943,6.81,105,Medium,Compliant,Midlands
+RID0581,Feb,M105,Inventory Forecast AI,HR,1751,83.5,84.36,8,47,15,2,11819,4.43,119,High,Review Required,Scotland
+RID0582,May,M104,Loan Approval AI,Finance,1375,68.25,71.85,3,18,11,1,4223,3.95,244,Critical,Review Required,Scotland
+RID0583,May,M105,Inventory Forecast AI,Sales,2628,74.11,77.33,5,45,18,2,10118,5.24,196,Critical,Review Required,Scotland
+RID0584,Feb,M105,Inventory Forecast AI,Operations,3058,77.01,79.64,7,17,15,3,10505,5.08,170,High,Review Required,Midlands
+RID0585,Feb,M103,Fraud Detection AI,Operations,2519,95.18,93.68,0,70,3,3,2783,4.51,26,Medium,Review Required,Scotland
+RID0586,Mar,M103,Fraud Detection AI,Sales,2359,76.87,78.65,8,91,1,4,3144,6.43,176,High,Violation,Scotland
+RID0587,Nov,M103,Fraud Detection AI,Finance,3216,89.04,89.47,7,85,21,6,5697,4.99,75,High,Violation,London
+RID0588,Sep,M102,Customer Support Chatbot,Customer Service,2371,67.86,71.68,2,22,48,0,6351,5.32,246,Critical,Compliant,London
+RID0589,Apr,M103,Fraud Detection AI,Finance,1057,78.27,80.81,6,66,25,5,8157,1.55,159,High,Violation,Midlands
+RID0590,Apr,M103,Fraud Detection AI,Operations,3983,90.75,89.97,2,94,11,6,2500,1.25,61,High,Violation,Scotland
+RID0591,Nov,M105,Inventory Forecast AI,HR,1723,82.19,83,3,48,8,2,10165,6.5,132,High,Review Required,North UK
+RID0592,Apr,M103,Fraud Detection AI,Finance,2903,77.57,80,0,41,13,9,4988,4.78,166,Critical,Violation,Midlands
+RID0593,Apr,M102,Customer Support Chatbot,Operations,2266,82.69,83.89,1,13,43,0,8582,7.89,129,High,Compliant,London
+RID0594,Oct,M101,Resume Screening AI,Operations,4270,89.33,89.21,9,17,22,0,7765,3.58,77,High,Compliant,North UK
+RID0595,Jan,M101,Resume Screening AI,Operations,1664,79.92,81.87,7,37,15,1,6264,4.29,148,High,Review Required,Scotland
+RID0596,Oct,M101,Resume Screening AI,Operations,1085,73.44,76.77,12,19,4,4,3696,1.82,199,Critical,Violation,London
+RID0597,Aug,M102,Customer Support Chatbot,Operations,4142,72.75,75.37,0,49,37,3,3674,6.31,207,Critical,Review Required,North UK
+RID0598,Mar,M102,Customer Support Chatbot,Finance,4376,68.94,73.07,0,48,30,3,8427,10.74,233,Critical,Review Required,Scotland
+RID0599,Nov,M105,Inventory Forecast AI,Customer Service,2647,87.54,88.22,8,56,6,2,14564,5.52,85,High,Review Required,North UK
+RID0600,Jul,M102,Customer Support Chatbot,Finance,2426,69.04,73.64,5,10,22,0,4681,7.37,233,Critical,Compliant,London
+RID0601,Jan,M102,Customer Support Chatbot,Finance,2088,76.32,79.48,3,19,38,0,4295,6.41,175,High,Compliant,North UK
+RID0602,Nov,M104,Loan Approval AI,Finance,4534,78.02,79.51,6,56,17,5,3522,2.81,167,High,Violation,Scotland
+RID0603,Feb,M105,Inventory Forecast AI,Finance,2056,94.84,94.06,7,7,12,3,13267,2.05,28,High,Review Required,Scotland
+RID0604,Aug,M101,Resume Screening AI,Sales,1662,91.91,91.26,15,38,5,2,5860,1.16,51,Critical,Review Required,Scotland
+RID0605,Jul,M103,Fraud Detection AI,Sales,1738,86.73,87.3,8,83,7,3,4272,6.8,91,High,Review Required,North UK
+RID0606,Aug,M102,Customer Support Chatbot,Finance,4651,83.1,83.87,2,35,23,0,6754,9.07,122,High,Compliant,London
+RID0607,Jul,M103,Fraud Detection AI,Sales,3720,96.17,94.29,6,79,7,10,4533,4.75,19,Critical,Violation,Midlands
+RID0608,Feb,M103,Fraud Detection AI,Finance,2805,94.12,93.42,0,57,24,10,7773,6.15,35,Critical,Violation,Midlands
+RID0609,Oct,M101,Resume Screening AI,Sales,4233,87.9,87.36,5,46,8,5,5904,4.1,87,High,Violation,Scotland
+RID0610,May,M103,Fraud Detection AI,HR,3713,82.6,83.98,3,49,5,10,7147,2.05,130,Critical,Violation,London
+RID0611,Nov,M104,Loan Approval AI,Operations,3974,96.24,94.85,5,10,12,2,4456,6.26,19,Medium,Review Required,Scotland
+RID0612,Jun,M102,Customer Support Chatbot,Operations,3144,94.95,93.17,8,59,30,1,8559,5.76,29,High,Review Required,North UK
+RID0613,Jun,M105,Inventory Forecast AI,Operations,2050,87.76,88.13,5,37,2,2,10535,1.98,82,Medium,Review Required,London
+RID0614,May,M102,Customer Support Chatbot,Customer Service,2692,91.87,91.17,0,54,39,1,7610,10.7,57,Low,Review Required,North UK
+RID0615,Apr,M104,Loan Approval AI,Finance,820,76.06,78.58,2,60,1,2,8141,6.43,179,High,Review Required,North UK
+RID0616,Oct,M102,Customer Support Chatbot,Sales,1352,81.75,82.4,1,58,45,2,2833,5.8,138,High,Review Required,Scotland
+RID0617,Jun,M103,Fraud Detection AI,HR,4329,70.81,74.11,5,95,4,4,3706,2.68,222,Critical,Violation,Midlands
+RID0618,Jan,M105,Inventory Forecast AI,Operations,1076,69.44,73.6,6,56,2,3,11022,2.91,232,Critical,Review Required,North UK
+RID0619,Dec,M103,Fraud Detection AI,Operations,1345,67.95,72.08,7,57,14,10,5075,4.09,243,Critical,Violation,London
+RID0620,Jul,M101,Resume Screening AI,Sales,1337,86.26,86.99,7,15,0,1,6131,5.42,96,High,Review Required,London
+RID0621,Dec,M102,Customer Support Chatbot,Finance,2330,70.87,73.92,3,36,34,1,8861,5.82,223,Critical,Review Required,Scotland
+RID0622,Mar,M103,Fraud Detection AI,Finance,4802,92.79,91.58,0,43,16,4,8035,5.6,46,High,Violation,Scotland
+RID0623,Jan,M105,Inventory Forecast AI,HR,4556,77.22,79.06,7,16,24,2,14699,4.08,171,High,Review Required,Midlands
+RID0624,Oct,M103,Fraud Detection AI,Finance,2207,82.33,83.18,2,60,0,3,3193,3.18,132,High,Review Required,London
+RID0625,Sep,M103,Fraud Detection AI,Customer Service,4129,76.39,78.44,2,59,7,7,5000,1.29,177,Critical,Violation,Midlands
+RID0626,Sep,M104,Loan Approval AI,Customer Service,2851,81.18,82.67,2,24,12,2,4396,1.89,139,High,Review Required,London
+RID0627,Feb,M103,Fraud Detection AI,Finance,3080,76.95,79.85,2,54,2,5,5106,3.47,171,High,Violation,Midlands
+RID0628,Jan,M101,Resume Screening AI,Operations,2538,83.96,84.36,11,12,22,4,4652,6.28,120,Critical,Violation,North UK
+RID0629,Aug,M104,Loan Approval AI,Operations,2057,94.24,93.21,2,42,8,5,3368,1.67,36,High,Violation,Scotland
+RID0630,Nov,M103,Fraud Detection AI,Customer Service,2663,90.78,90.25,1,77,7,10,4744,5.17,65,Critical,Violation,Scotland
+RID0631,Aug,M101,Resume Screening AI,Customer Service,1120,94.98,93.15,13,22,8,0,2962,4.42,30,Critical,Compliant,Midlands
+RID0632,Dec,M101,Resume Screening AI,Finance,3084,86.84,87.14,12,13,9,2,7670,4.54,93,Critical,Review Required,North UK
+RID0633,Sep,M104,Loan Approval AI,Customer Service,3439,73.62,76.75,7,15,11,3,2562,3.53,199,Critical,Review Required,Scotland
+RID0634,Feb,M101,Resume Screening AI,HR,3094,90.5,89.84,9,25,9,5,7742,4.12,67,High,Violation,Midlands
+RID0635,Jul,M103,Fraud Detection AI,Sales,1258,78.2,79.99,8,76,5,8,6042,5.33,162,Critical,Violation,North UK
+RID0636,Nov,M101,Resume Screening AI,Finance,4917,94.09,93.37,9,28,5,3,5859,4.42,36,High,Review Required,Midlands
+RID0637,Jun,M104,Loan Approval AI,Customer Service,4566,76.6,78.74,0,13,3,4,6870,1.25,178,High,Violation,Scotland
+RID0638,Dec,M103,Fraud Detection AI,Finance,4982,75.15,78.04,3,82,12,9,3016,5.91,183,Critical,Violation,London
+RID0639,Feb,M102,Customer Support Chatbot,Finance,3469,75.47,77.36,4,30,32,1,8213,6.95,188,Critical,Review Required,London
+RID0640,Jul,M104,Loan Approval AI,Finance,2480,91.4,91.04,7,59,21,5,8230,3.58,55,High,Violation,Scotland
+RID0641,Apr,M104,Loan Approval AI,Finance,2622,88.19,88.87,5,52,25,1,2608,5.59,81,Medium,Review Required,North UK
+RID0642,Apr,M101,Resume Screening AI,Operations,2833,83.78,84.47,8,53,15,4,7838,2.15,119,High,Violation,Midlands
+RID0643,Nov,M101,Resume Screening AI,HR,4646,97.73,95.38,14,5,2,1,6702,2.81,10,Critical,Review Required,Scotland
+RID0644,May,M105,Inventory Forecast AI,Operations,884,97.73,95.81,1,24,16,5,12501,5.47,10,High,Violation,Midlands
+RID0645,Jun,M104,Loan Approval AI,Customer Service,1243,67.79,72.11,2,45,17,3,4456,4.89,247,Critical,Review Required,London
+RID0646,Jan,M104,Loan Approval AI,HR,945,94.18,93.34,7,51,8,2,3369,1.39,34,High,Review Required,North UK
+RID0647,May,M103,Fraud Detection AI,Customer Service,4463,72.34,75.57,2,49,17,4,8672,6.97,213,Critical,Violation,London
+RID0648,Jan,M103,Fraud Detection AI,Sales,1345,79.64,81.41,3,42,10,8,5696,6.94,152,Critical,Violation,Midlands
+RID0649,Jul,M104,Loan Approval AI,Customer Service,1926,87.47,88.09,8,60,13,0,2662,5.73,88,High,Compliant,Midlands
+RID0650,Apr,M103,Fraud Detection AI,Finance,3960,95.16,94.05,7,88,11,4,2314,4.17,27,High,Violation,North UK
+RID0651,Jan,M103,Fraud Detection AI,HR,4311,74.38,77.11,2,98,24,7,6532,1.1,191,Critical,Violation,Scotland
+RID0652,Jun,M103,Fraud Detection AI,Operations,4396,78.18,80.78,8,58,2,6,7176,5.05,160,High,Violation,London
+RID0653,Apr,M103,Fraud Detection AI,HR,4847,72.44,75.97,4,70,23,7,3420,1.44,208,Critical,Violation,Scotland
+RID0654,Jul,M101,Resume Screening AI,Operations,2542,84.65,85.1,11,59,14,0,5411,2.91,111,Critical,Compliant,London
+RID0655,Sep,M103,Fraud Detection AI,Sales,1725,89.39,90.07,4,90,4,10,5193,6.34,69,Critical,Violation,London
+RID0656,Oct,M104,Loan Approval AI,Operations,3709,91.33,90.85,8,55,17,2,3303,1.48,57,High,Review Required,Midlands
+RID0657,Mar,M104,Loan Approval AI,Customer Service,1701,80.33,81.81,1,38,3,4,7528,2.72,145,High,Violation,Midlands
+RID0658,Dec,M105,Inventory Forecast AI,Sales,3625,85.84,86.48,2,43,25,1,11578,2.25,100,Medium,Review Required,Scotland
+RID0659,May,M103,Fraud Detection AI,Finance,3807,74.1,77.44,1,74,4,8,7172,1.32,192,Critical,Violation,London
+RID0660,Mar,M103,Fraud Detection AI,Finance,3181,77.35,79.95,2,71,21,9,3101,1.15,169,Critical,Violation,London
+RID0661,Jan,M101,Resume Screening AI,Operations,2157,67.44,71.72,14,47,9,2,4770,1.38,249,Critical,Review Required,Midlands
+RID0662,Oct,M103,Fraud Detection AI,Sales,2980,75.62,78.45,6,71,22,10,7024,1.46,185,Critical,Violation,London
+RID0663,Sep,M104,Loan Approval AI,Operations,4571,93.43,92.44,4,33,10,1,8149,4.59,41,Medium,Review Required,London
+RID0664,Aug,M104,Loan Approval AI,Customer Service,4985,94.47,93.24,2,53,20,4,5728,2.03,30,High,Violation,Scotland
+RID0665,Sep,M105,Inventory Forecast AI,Customer Service,4451,95.74,94.42,1,52,12,2,11817,6.75,24,Medium,Review Required,Midlands
+RID0666,May,M101,Resume Screening AI,Sales,3325,76.48,78.78,11,44,8,0,2791,3.15,173,Critical,Compliant,Midlands
+RID0667,Feb,M101,Resume Screening AI,Customer Service,3806,71.68,75,9,29,20,3,8207,5.97,214,Critical,Review Required,Midlands
+RID0668,Jul,M102,Customer Support Chatbot,Customer Service,1571,74.81,77.87,6,58,23,2,5729,6.25,189,Critical,Review Required,London
+RID0669,Sep,M104,Loan Approval AI,Operations,3835,80.85,81.95,0,52,21,1,8382,4.58,144,High,Review Required,Midlands
+RID0670,Mar,M103,Fraud Detection AI,Operations,4545,87.98,87.64,0,46,15,8,6799,4.41,87,Critical,Violation,Scotland
+RID0671,Sep,M105,Inventory Forecast AI,Finance,1632,88.88,89.03,6,17,2,0,12111,2.85,73,Medium,Compliant,North UK
+RID0672,Mar,M105,Inventory Forecast AI,Customer Service,3941,79,81.14,6,9,17,1,10636,5.96,154,High,Review Required,North UK
+RID0673,Nov,M105,Inventory Forecast AI,Sales,3909,69.33,72.73,5,29,14,4,9013,1.21,235,Critical,Violation,London
+RID0674,Jan,M105,Inventory Forecast AI,Sales,1715,84.58,84.99,5,60,6,3,12437,6.02,115,Medium,Review Required,London
+RID0675,Apr,M101,Resume Screening AI,Sales,4340,93.25,92.82,9,24,13,4,8684,4.42,40,High,Violation,Scotland
+RID0676,Jan,M101,Resume Screening AI,Sales,1415,85.94,86.07,5,45,4,4,6970,5.54,102,High,Violation,North UK
+RID0677,Jun,M103,Fraud Detection AI,HR,4964,92.54,91.93,4,96,18,6,4382,5.36,44,High,Violation,London
+RID0678,Apr,M103,Fraud Detection AI,Customer Service,1447,72.36,76.16,4,83,11,9,5344,2.46,207,Critical,Violation,Midlands
+RID0679,Jun,M105,Inventory Forecast AI,Finance,3267,89.75,89.59,1,38,16,5,10190,5.11,73,High,Violation,Midlands
+RID0680,Nov,M102,Customer Support Chatbot,HR,3954,75.73,78.57,2,51,26,2,4760,8.16,183,Critical,Review Required,Midlands
+RID0681,Jun,M105,Inventory Forecast AI,Finance,1964,67.99,72.72,0,8,8,0,12124,2.02,242,Critical,Compliant,London
+RID0682,Jan,M104,Loan Approval AI,Customer Service,4251,94.88,93.44,7,15,24,2,7029,3.72,28,High,Review Required,London
+RID0683,Dec,M101,Resume Screening AI,HR,4844,94.38,93.18,11,22,16,5,6797,4.05,29,Critical,Violation,Midlands
+RID0684,Sep,M101,Resume Screening AI,Operations,4844,87.46,87.29,14,14,12,2,7265,6.74,92,Critical,Review Required,North UK
+RID0685,Oct,M105,Inventory Forecast AI,Sales,2680,92.4,91.61,2,9,23,3,9892,2.08,48,Medium,Review Required,Midlands
+RID0686,Apr,M102,Customer Support Chatbot,Operations,1690,88.71,87.92,5,27,20,0,2891,10.35,81,Medium,Compliant,Midlands
+RID0687,Jul,M104,Loan Approval AI,Customer Service,846,82.59,84.12,0,58,14,1,3786,6.2,127,High,Review Required,North UK
+RID0688,Dec,M104,Loan Approval AI,Customer Service,3835,88.39,88.04,6,30,7,4,5613,5.86,82,High,Violation,Scotland
+RID0689,Aug,M103,Fraud Detection AI,Finance,2924,89.2,88.76,8,41,20,8,5155,5.79,76,Critical,Violation,Midlands
+RID0690,Aug,M101,Resume Screening AI,Operations,3987,71.68,74.97,6,13,1,5,6184,6.05,212,Critical,Violation,Scotland
+RID0691,Nov,M105,Inventory Forecast AI,Customer Service,4245,89.25,88.6,3,18,18,5,12293,3.34,76,High,Violation,North UK
+RID0692,Sep,M101,Resume Screening AI,Customer Service,1885,70.76,74.19,13,44,4,0,4125,6.11,224,Critical,Compliant,London
+RID0693,Feb,M104,Loan Approval AI,Operations,4066,87.32,87.63,1,30,8,5,3245,3.09,87,High,Violation,Scotland
+RID0694,Dec,M104,Loan Approval AI,Customer Service,805,97.34,95.61,7,25,3,2,6355,5.83,13,High,Review Required,London
+RID0695,Sep,M102,Customer Support Chatbot,HR,1119,81.55,82.6,1,28,23,3,2723,5.25,137,High,Review Required,Scotland
+RID0696,Mar,M103,Fraud Detection AI,Finance,4747,74.79,77.77,6,82,9,5,3968,4.92,190,Critical,Violation,London
+RID0697,Nov,M105,Inventory Forecast AI,Operations,2860,78.38,80.01,5,12,11,2,13314,4.52,161,High,Review Required,Midlands
+RID0698,Feb,M105,Inventory Forecast AI,Customer Service,2342,87.41,88.22,1,31,24,1,13424,1.55,85,Medium,Review Required,Scotland
+RID0699,May,M101,Resume Screening AI,Customer Service,4402,78.69,80.1,11,25,8,0,8315,2.64,161,Critical,Compliant,London
+RID0700,Dec,M103,Fraud Detection AI,Operations,3588,79.3,81.18,2,90,3,10,4195,1.02,156,Critical,Violation,North UK
+RID0701,Apr,M103,Fraud Detection AI,Operations,4774,93.22,92.35,2,52,23,9,4367,2.22,41,Critical,Violation,London
+RID0702,Aug,M105,Inventory Forecast AI,HR,1990,83.05,84.54,1,46,8,2,11332,3.35,123,High,Review Required,Scotland
+RID0703,Nov,M103,Fraud Detection AI,Operations,867,85.65,86.37,2,51,21,5,8319,5.81,105,High,Violation,Scotland
+RID0704,Oct,M102,Customer Support Chatbot,Operations,2004,69.23,73.86,4,38,50,5,8922,10.86,231,Critical,Violation,North UK
+RID0705,Mar,M103,Fraud Detection AI,HR,1200,97.31,95.25,2,70,22,4,3681,1.15,10,High,Violation,North UK
+RID0706,Apr,M101,Resume Screening AI,Sales,1047,81.88,82.93,10,12,2,4,4576,2.26,133,High,Violation,Midlands
+RID0707,Nov,M102,Customer Support Chatbot,Operations,4441,78.35,79.91,4,11,22,5,2789,7.91,164,High,Violation,Midlands
+RID0708,Mar,M104,Loan Approval AI,Sales,1748,77.97,79.33,4,13,25,5,5047,6.71,167,High,Violation,Scotland
+RID0709,Oct,M105,Inventory Forecast AI,Customer Service,3912,96.47,94.41,3,11,21,5,13341,2.59,19,High,Violation,North UK
+RID0710,Nov,M101,Resume Screening AI,Operations,1808,73.97,76.83,11,40,9,0,6449,5.04,196,Critical,Compliant,North UK
+RID0711,Mar,M103,Fraud Detection AI,Sales,3315,71.14,74.58,1,99,10,6,2817,3.39,215,Critical,Violation,Scotland
+RID0712,May,M101,Resume Screening AI,HR,2974,86.42,86.71,13,24,2,3,8322,2.38,97,Critical,Review Required,North UK
+RID0713,Jun,M104,Loan Approval AI,HR,4029,83.95,85.52,5,48,17,5,2206,1.62,114,High,Violation,North UK
+RID0714,Jun,M103,Fraud Detection AI,HR,2597,78.91,80.8,5,61,0,5,2289,6.03,160,High,Violation,North UK
+RID0715,May,M102,Customer Support Chatbot,Sales,3976,67.2,71.2,7,59,30,0,5921,9.07,250,Critical,Compliant,Midlands
+RID0716,Dec,M101,Resume Screening AI,Customer Service,2004,73.74,76.4,14,15,10,0,6673,6.62,200,Critical,Compliant,Scotland
+RID0717,Jan,M103,Fraud Detection AI,Operations,4122,80.3,82.04,7,93,22,10,6357,5.02,145,Critical,Violation,London
+RID0718,Aug,M102,Customer Support Chatbot,Sales,4463,77.82,80.49,5,52,30,1,3269,8.46,165,High,Review Required,North UK
+RID0719,Dec,M103,Fraud Detection AI,HR,2430,81.21,82.5,5,43,14,10,8980,5.76,139,Critical,Violation,London
+RID0720,Jul,M103,Fraud Detection AI,HR,4160,92.02,91.67,0,62,6,4,8525,4.72,50,High,Violation,London
+RID0721,Sep,M104,Loan Approval AI,Sales,2156,85.3,86,7,6,25,5,5777,6.84,105,High,Violation,London
+RID0722,Jul,M101,Resume Screening AI,Sales,2917,71.64,75.3,11,51,20,3,4725,1.76,214,Critical,Review Required,North UK
+RID0723,Aug,M104,Loan Approval AI,Customer Service,4883,84.09,84.9,5,39,17,2,6718,1.47,117,Medium,Review Required,Scotland
+RID0724,Jun,M104,Loan Approval AI,HR,892,83.04,84.21,8,23,7,3,2394,6.91,125,High,Review Required,London
+RID0725,May,M105,Inventory Forecast AI,Customer Service,1478,82.56,84.01,7,44,6,5,9854,3.67,129,High,Violation,Midlands
+RID0726,Mar,M105,Inventory Forecast AI,Finance,2718,83.12,83.9,2,13,4,5,12888,1.52,123,High,Violation,North UK
+RID0727,Jul,M105,Inventory Forecast AI,Customer Service,884,72.35,75.92,7,40,2,2,10671,3.61,207,Critical,Review Required,Midlands
+RID0728,Feb,M102,Customer Support Chatbot,Finance,4400,96.78,94.72,2,57,28,4,6324,9.43,16,High,Violation,North UK
+RID0729,Jun,M102,Customer Support Chatbot,HR,4712,93.78,92.72,1,14,48,0,2472,9.12,39,Low,Compliant,Midlands
+RID0730,May,M102,Customer Support Chatbot,Finance,3063,69.91,73.76,5,31,47,3,2231,10.25,226,Critical,Review Required,Scotland
+RID0731,May,M101,Resume Screening AI,Sales,2293,70.81,74.64,9,30,10,4,4942,5.79,221,Critical,Violation,Scotland
+RID0732,Jan,M104,Loan Approval AI,HR,1131,72.07,76.1,4,10,11,1,5652,4.57,208,Critical,Review Required,North UK
+RID0733,Aug,M102,Customer Support Chatbot,Customer Service,4466,96.33,94.8,3,11,49,5,4977,7.37,19,High,Violation,Scotland
+RID0734,Feb,M103,Fraud Detection AI,Operations,3179,90.31,89.91,0,86,3,8,3032,1.24,64,Critical,Violation,Scotland
+RID0735,Jul,M102,Customer Support Chatbot,Operations,2486,83.2,84.37,3,23,33,3,6345,5.97,122,High,Review Required,Scotland
+RID0736,Jul,M102,Customer Support Chatbot,Operations,1952,88.04,88.57,1,41,27,1,6399,5.93,81,Medium,Review Required,Midlands
+RID0737,Oct,M103,Fraud Detection AI,Operations,4225,78.31,80.1,0,89,15,7,4329,2.51,159,Critical,Violation,London
+RID0738,Aug,M103,Fraud Detection AI,Operations,4778,95.38,93.78,3,76,0,8,8252,1.93,26,Critical,Violation,London
+RID0739,Apr,M102,Customer Support Chatbot,Customer Service,2793,67.85,71.69,2,16,45,0,8265,9.16,248,Critical,Compliant,Scotland
+RID0740,May,M103,Fraud Detection AI,Finance,824,88.94,88.65,2,88,12,10,2881,2.66,78,Critical,Violation,Scotland
+RID0741,Feb,M104,Loan Approval AI,Finance,4735,83.57,84.56,6,12,6,2,6707,2.15,122,High,Review Required,Scotland
+RID0742,Oct,M105,Inventory Forecast AI,Customer Service,2499,90.85,89.8,7,52,2,3,14047,4.74,65,High,Review Required,North UK
+RID0743,Feb,M104,Loan Approval AI,Customer Service,4971,78.09,80.68,6,10,3,2,6065,2,162,High,Review Required,North UK
+RID0744,Dec,M103,Fraud Detection AI,Customer Service,4111,93.5,92.27,2,45,9,4,3371,6.56,43,High,Violation,Midlands
+RID0745,Apr,M103,Fraud Detection AI,HR,2259,85.67,86.89,2,92,18,8,5988,6.6,99,Critical,Violation,Midlands
+RID0746,Apr,M103,Fraud Detection AI,Sales,2003,96.14,94.63,7,54,9,7,4834,2.21,15,Critical,Violation,Scotland
+RID0747,Jun,M104,Loan Approval AI,Operations,3789,67.02,71.31,7,13,25,4,8540,2.73,248,Critical,Violation,London
+RID0748,Apr,M101,Resume Screening AI,Operations,2542,87.01,87.31,8,14,6,4,4454,1.2,92,High,Violation,Midlands
+RID0749,Dec,M101,Resume Screening AI,Customer Service,4014,77.78,80.53,11,53,21,1,5190,1.42,162,Critical,Review Required,North UK
+RID0750,Nov,M104,Loan Approval AI,Sales,2731,95.57,94.67,3,59,5,5,2008,1.96,23,High,Violation,North UK
+RID0751,Jan,M102,Customer Support Chatbot,Sales,3270,73.56,76.47,8,52,47,2,3067,5.56,197,Critical,Review Required,North UK
+RID0752,Sep,M103,Fraud Detection AI,Customer Service,3406,95.68,93.77,6,46,23,9,3302,3.44,24,Critical,Violation,Scotland
+RID0753,Jun,M104,Loan Approval AI,Finance,3048,69.63,74.16,3,11,2,1,7155,3.29,228,Critical,Review Required,Midlands
+RID0754,Oct,M103,Fraud Detection AI,Operations,2488,78.03,80.53,6,84,24,8,4761,6.75,164,Critical,Violation,Scotland
+RID0755,Jun,M101,Resume Screening AI,Sales,3511,91.64,90.71,13,24,23,0,8330,1.37,54,Critical,Compliant,North UK
+RID0756,Jun,M105,Inventory Forecast AI,HR,1090,81.29,82.79,2,26,17,3,10195,4.14,140,High,Review Required,London
+RID0757,Nov,M104,Loan Approval AI,Operations,976,82.05,83.38,2,40,24,3,2244,5.41,130,High,Review Required,London
+RID0758,Sep,M105,Inventory Forecast AI,Finance,3891,68.7,72.43,8,44,17,1,11711,1.66,242,Critical,Review Required,Scotland
+RID0759,Dec,M101,Resume Screening AI,Finance,1824,85.17,86.1,14,34,3,3,3104,1.16,107,Critical,Review Required,North UK
+RID0760,Dec,M104,Loan Approval AI,Sales,1545,84.1,85.49,3,38,13,0,7236,6.72,112,Medium,Compliant,Scotland
+RID0761,Sep,M101,Resume Screening AI,Sales,1300,74.94,77.94,13,59,2,3,6785,1.96,189,Critical,Review Required,North UK
+RID0762,Jul,M104,Loan Approval AI,Finance,1279,80.27,82.24,1,5,16,4,6332,5.27,145,High,Violation,Scotland
+RID0763,Feb,M101,Resume Screening AI,Operations,2947,83.54,84.87,15,46,0,3,2537,6.9,116,Critical,Review Required,Midlands
+RID0764,Apr,M101,Resume Screening AI,Customer Service,2208,77.74,79.74,10,50,5,5,3324,1.04,166,High,Violation,Scotland
+RID0765,Sep,M103,Fraud Detection AI,HR,2515,84.83,85.08,0,92,6,9,6577,4.23,111,Critical,Violation,Scotland
+RID0766,Sep,M102,Customer Support Chatbot,Sales,1041,73.63,75.94,7,58,18,1,5636,9.18,201,Critical,Review Required,London
+RID0767,Jan,M105,Inventory Forecast AI,HR,1969,72.63,75.46,7,29,8,0,9140,6.58,207,Critical,Compliant,Scotland
+RID0768,Jul,M103,Fraud Detection AI,Customer Service,3656,75.88,78.32,6,97,18,7,7116,4.74,182,Critical,Violation,Midlands
+RID0769,Apr,M104,Loan Approval AI,Customer Service,3935,84.48,84.52,5,42,25,2,4690,6.57,115,Medium,Review Required,London
+RID0770,Aug,M101,Resume Screening AI,Finance,1148,86.54,86.71,11,18,19,1,3549,2.38,93,Critical,Review Required,London
+RID0771,Apr,M104,Loan Approval AI,HR,4050,72.08,74.98,2,14,15,4,3784,5.45,213,Critical,Violation,North UK
+RID0772,Aug,M103,Fraud Detection AI,HR,3712,71.99,75.41,4,50,18,7,5870,2.83,212,Critical,Violation,Midlands
+RID0773,Jul,M105,Inventory Forecast AI,HR,3156,69.09,73.09,4,30,9,2,9239,5.16,232,Critical,Review Required,Scotland
+RID0774,Feb,M103,Fraud Detection AI,Operations,1677,93.22,92.29,2,93,15,9,8109,6.38,44,Critical,Violation,Midlands
+RID0775,Jul,M102,Customer Support Chatbot,Operations,2860,87.13,87.28,4,18,18,0,7117,10.02,88,Medium,Compliant,London
+RID0776,Jan,M104,Loan Approval AI,Customer Service,3064,77.01,79.08,3,13,21,3,4166,4.52,172,High,Review Required,North UK
+RID0777,Aug,M102,Customer Support Chatbot,Customer Service,4805,77.95,80.74,5,57,26,3,5998,10.27,162,High,Review Required,Midlands
+RID0778,Jan,M103,Fraud Detection AI,Operations,3832,87.95,87.98,2,79,18,9,6280,3.87,81,Critical,Violation,Scotland
+RID0779,May,M101,Resume Screening AI,Customer Service,1216,95.11,93.97,13,28,21,3,5890,1.26,27,Critical,Review Required,North UK
+RID0780,Mar,M105,Inventory Forecast AI,Sales,1832,95.28,93.9,8,16,14,3,10272,4.17,27,High,Review Required,Scotland
+RID0781,Sep,M103,Fraud Detection AI,Finance,3352,93.74,92.74,0,61,9,4,6043,5.63,41,High,Violation,Scotland
+RID0782,Jul,M101,Resume Screening AI,Customer Service,4609,90.86,90.26,7,13,8,5,8146,2.49,63,High,Violation,Midlands
+RID0783,Aug,M102,Customer Support Chatbot,Sales,872,83.33,84.71,0,38,16,3,8819,7.87,121,High,Review Required,North UK
+RID0784,Aug,M105,Inventory Forecast AI,Sales,3085,79.78,81.85,0,47,0,5,12068,5.17,146,High,Violation,London
+RID0785,May,M102,Customer Support Chatbot,Sales,4666,83.14,84.24,6,56,44,0,4640,6.88,119,Medium,Compliant,Midlands
+RID0786,Nov,M103,Fraud Detection AI,HR,2035,84.76,85.08,2,73,5,3,5622,1.03,110,Medium,Review Required,North UK
+RID0787,Jun,M101,Resume Screening AI,Customer Service,1888,90.6,89.62,6,12,1,3,5584,5.72,67,Medium,Review Required,Midlands
+RID0788,Aug,M102,Customer Support Chatbot,HR,2546,92.5,92.05,0,47,32,5,4400,8.99,49,High,Violation,Scotland
+RID0789,Sep,M101,Resume Screening AI,HR,4075,92.07,90.53,8,40,19,0,8163,6.39,55,High,Compliant,Midlands
+RID0790,Oct,M101,Resume Screening AI,Sales,4433,73.74,75.86,11,60,10,4,4462,6.01,202,Critical,Violation,Midlands
+RID0791,Dec,M104,Loan Approval AI,Sales,2835,89.73,89.8,7,39,23,2,7644,4.89,70,High,Review Required,North UK
+RID0792,Feb,M101,Resume Screening AI,Sales,1568,90.8,90.86,8,39,24,2,6107,5.66,61,High,Review Required,Scotland
+RID0793,Oct,M105,Inventory Forecast AI,Customer Service,1758,79.1,81.31,8,35,4,2,13985,4.84,156,High,Review Required,North UK
+RID0794,May,M105,Inventory Forecast AI,Customer Service,3186,95.39,93.89,5,22,10,5,10317,3.49,27,High,Violation,North UK
+RID0795,May,M105,Inventory Forecast AI,Sales,3979,87.02,87.26,2,12,15,4,14414,1.79,89,High,Violation,London
+RID0796,Sep,M101,Resume Screening AI,Finance,1963,91.27,90.16,8,9,15,5,6183,2.63,60,High,Violation,London
+RID0797,Apr,M103,Fraud Detection AI,HR,4368,88.53,88.77,3,45,8,8,7120,1.36,76,Critical,Violation,Midlands
+RID0798,May,M104,Loan Approval AI,Operations,2683,96.36,94.78,2,30,0,2,7863,4.56,18,Medium,Review Required,North UK
+RID0799,May,M102,Customer Support Chatbot,HR,2322,79.54,82.17,8,40,41,4,4228,9.24,148,High,Violation,London
+RID0800,Jan,M101,Resume Screening AI,Operations,3549,81.74,82.95,13,27,4,3,4877,6.47,138,Critical,Review Required,London
+RID0801,Oct,M104,Loan Approval AI,Customer Service,1154,67.26,71.76,7,59,12,1,4100,4.12,249,Critical,Review Required,Scotland
+RID0802,Sep,M103,Fraud Detection AI,Operations,3588,89.78,89.1,3,65,13,3,3517,1.01,71,Medium,Review Required,North UK
+RID0803,Oct,M102,Customer Support Chatbot,HR,1656,85.36,85.82,6,15,17,2,8787,8.67,102,Medium,Review Required,Scotland
+RID0804,Sep,M105,Inventory Forecast AI,Customer Service,1668,88.89,88.58,8,40,22,4,10797,4.14,79,High,Violation,London
+RID0805,Oct,M105,Inventory Forecast AI,Finance,4361,97.01,95.02,8,26,12,4,12715,4.68,14,High,Violation,Midlands
+RID0806,Jun,M104,Loan Approval AI,Sales,3655,90.33,89.81,0,45,18,4,7515,3.84,63,High,Violation,London
+RID0807,Dec,M102,Customer Support Chatbot,Finance,3687,93.49,92.48,4,38,27,1,2883,8.73,40,Medium,Review Required,Midlands
+RID0808,Mar,M105,Inventory Forecast AI,Sales,2467,76.51,78.17,1,27,18,3,11183,2.63,179,High,Review Required,London
+RID0809,Aug,M104,Loan Approval AI,Operations,3938,75.29,78.06,1,41,3,1,3643,6.51,185,Critical,Review Required,Scotland
+RID0810,Jan,M105,Inventory Forecast AI,HR,4854,80.71,82.43,1,52,21,5,13975,5.85,144,High,Violation,Midlands
+RID0811,Mar,M105,Inventory Forecast AI,Sales,3899,94.27,92.52,1,47,16,2,14635,6.88,37,Medium,Review Required,London
+RID0812,Apr,M105,Inventory Forecast AI,Finance,4173,78.1,79.52,0,43,21,2,10066,4.19,165,High,Review Required,London
+RID0813,Sep,M101,Resume Screening AI,Customer Service,4721,83.72,84.69,14,13,9,0,4352,2.45,117,Critical,Compliant,Scotland
+RID0814,Feb,M104,Loan Approval AI,Sales,3283,78.65,81.05,4,19,19,2,3935,1.41,156,High,Review Required,Midlands
+RID0815,Oct,M104,Loan Approval AI,Customer Service,3146,80.21,82.3,0,41,0,5,6960,1.93,147,High,Violation,Scotland
+RID0816,Jun,M103,Fraud Detection AI,Customer Service,1607,89.94,89.06,5,94,19,10,4614,3.61,71,Critical,Violation,Scotland
+RID0817,Nov,M102,Customer Support Chatbot,HR,1265,71.2,74.99,1,17,21,2,7637,6.97,220,Critical,Review Required,Midlands
+RID0818,Oct,M102,Customer Support Chatbot,Operations,1764,89.01,88.63,2,51,40,3,5447,7.08,79,Medium,Review Required,North UK
+RID0819,Feb,M105,Inventory Forecast AI,Finance,857,79.27,81.03,6,56,3,1,14972,2.48,154,High,Review Required,Scotland
+RID0820,May,M104,Loan Approval AI,HR,1880,72.24,74.84,5,46,2,2,5200,3.06,213,Critical,Review Required,London
+RID0821,Dec,M104,Loan Approval AI,Finance,2931,72.09,75.34,3,33,13,1,4570,5.68,214,Critical,Review Required,North UK
+RID0822,Jul,M104,Loan Approval AI,Sales,1585,70.02,73.36,3,29,6,0,2877,1.74,231,Critical,Compliant,Midlands
+RID0823,Apr,M103,Fraud Detection AI,Operations,1096,72.16,75.3,4,55,5,10,8129,2.67,207,Critical,Violation,London
+RID0824,Mar,M102,Customer Support Chatbot,Sales,1495,77,79.45,1,17,40,4,2485,10.62,172,High,Violation,Scotland
+RID0825,Aug,M104,Loan Approval AI,Operations,3690,89.08,89.17,4,9,13,5,3980,5.26,78,High,Violation,Midlands
+RID0826,May,M101,Resume Screening AI,Finance,1955,88.24,88.95,7,15,5,1,7230,4.41,80,High,Review Required,North UK
+RID0827,Apr,M102,Customer Support Chatbot,Finance,3130,91.78,91.23,5,31,29,0,2894,9.88,51,Medium,Compliant,North UK
+RID0828,Dec,M103,Fraud Detection AI,Sales,3417,81.92,83.32,6,53,9,9,4606,5.37,129,Critical,Violation,Scotland
+RID0829,Jan,M101,Resume Screening AI,HR,4673,94.78,94.1,13,10,5,2,2274,6.87,26,Critical,Review Required,Midlands
+RID0830,Mar,M101,Resume Screening AI,Operations,2943,90.38,89.85,5,44,23,3,5992,6.92,65,Medium,Review Required,London
+RID0831,Nov,M103,Fraud Detection AI,Customer Service,3287,78.84,81.07,2,98,3,5,8348,5.2,157,High,Violation,London
+RID0832,Dec,M105,Inventory Forecast AI,Operations,1848,89.84,89.53,0,19,23,0,10412,1.79,71,Medium,Compliant,London
+RID0833,Jun,M105,Inventory Forecast AI,Operations,2680,87.4,87.41,2,37,23,5,10574,6.66,92,High,Violation,North UK
+RID0834,Apr,M105,Inventory Forecast AI,HR,4448,85.58,86.28,3,14,15,2,10056,5.04,106,Medium,Review Required,Midlands
+RID0835,May,M103,Fraud Detection AI,HR,2892,72.65,76.37,2,55,23,10,5544,5.68,205,Critical,Violation,North UK
+RID0836,Jan,M103,Fraud Detection AI,Sales,3638,80.4,81.69,2,47,22,4,4928,5.82,147,High,Violation,North UK
+RID0837,Apr,M103,Fraud Detection AI,Operations,2420,93.28,91.8,2,63,24,3,6566,4.89,43,Medium,Review Required,North UK
+RID0838,Jul,M101,Resume Screening AI,Operations,3215,89.09,89.3,6,24,2,1,7923,2.79,73,Medium,Review Required,Midlands
+RID0839,Jul,M105,Inventory Forecast AI,Finance,3106,73.73,76.66,8,9,19,2,9850,3.84,202,Critical,Review Required,North UK
+RID0840,Nov,M102,Customer Support Chatbot,Customer Service,4672,84.81,85.57,8,8,15,2,2012,9.69,107,High,Review Required,London
+RID0841,Jan,M101,Resume Screening AI,Operations,1816,82.21,83.11,14,13,9,0,2511,4.01,131,Critical,Compliant,North UK
+RID0842,Jun,M101,Resume Screening AI,Finance,3747,78.92,80.54,15,27,18,5,7567,2.03,159,Critical,Violation,North UK
+RID0843,Oct,M104,Loan Approval AI,Sales,887,84.24,84.35,8,50,16,0,4069,1.03,117,High,Compliant,Midlands
+RID0844,Jan,M105,Inventory Forecast AI,Operations,2056,83.96,85.06,8,42,24,0,14453,1.64,116,High,Compliant,London
+RID0845,Oct,M103,Fraud Detection AI,Sales,4594,87.51,87.31,6,97,5,9,2482,6.41,88,Critical,Violation,Midlands
+RID0846,Jan,M103,Fraud Detection AI,Customer Service,1496,87.97,87.58,8,88,6,10,4247,5.61,86,Critical,Violation,London
+RID0847,Mar,M102,Customer Support Chatbot,Finance,1326,68.95,72.78,2,21,29,5,2410,6.31,236,Critical,Violation,Midlands
+RID0848,Dec,M103,Fraud Detection AI,Customer Service,2016,79.96,81.68,4,80,14,5,5299,1.8,150,High,Violation,North UK
+RID0849,Apr,M104,Loan Approval AI,Finance,4120,68.95,73.34,3,36,14,2,8821,3.82,233,Critical,Review Required,London
+RID0850,Jun,M104,Loan Approval AI,Operations,3219,83.84,85.15,0,20,25,4,6559,1.58,117,High,Violation,London
+RID0851,Dec,M105,Inventory Forecast AI,Finance,4909,93.32,92.83,8,12,20,3,9425,5.18,39,High,Review Required,North UK
+RID0852,Aug,M103,Fraud Detection AI,Sales,3301,92.49,91.52,0,96,21,7,6577,1.15,52,Critical,Violation,London
+RID0853,Apr,M103,Fraud Detection AI,Sales,2300,68.48,72.74,0,40,19,10,5365,1.66,240,Critical,Violation,London
+RID0854,Sep,M102,Customer Support Chatbot,HR,3970,85.96,86.29,8,36,18,4,2405,10.21,100,High,Violation,Midlands
+RID0855,Feb,M103,Fraud Detection AI,Sales,3067,89.87,89.75,2,62,7,3,2892,3.42,66,Medium,Review Required,London
+RID0856,Nov,M102,Customer Support Chatbot,Operations,4309,80.95,82.14,3,36,23,0,7021,9.25,139,High,Compliant,London
+RID0857,Jul,M105,Inventory Forecast AI,Customer Service,2659,77.29,80.37,1,33,24,3,14930,2.69,166,High,Review Required,London
+RID0858,Mar,M102,Customer Support Chatbot,Sales,1561,69.42,73.22,4,56,31,4,6396,7.97,236,Critical,Violation,North UK
+RID0859,Feb,M103,Fraud Detection AI,Customer Service,3095,69,72.97,8,44,3,8,3683,6.49,238,Critical,Violation,Scotland
+RID0860,Apr,M101,Resume Screening AI,HR,1461,79.11,80.38,14,12,25,0,7792,6.94,159,Critical,Compliant,London
+RID0861,Sep,M103,Fraud Detection AI,Finance,1109,80.11,81.31,4,65,12,6,4291,5.78,149,High,Violation,Scotland
+RID0862,May,M102,Customer Support Chatbot,Sales,997,94.26,93.34,5,38,41,4,8524,10.68,32,High,Violation,Scotland
+RID0863,Nov,M103,Fraud Detection AI,Sales,4195,72.52,76.19,1,66,1,8,8798,1.63,207,Critical,Violation,London
+RID0864,Sep,M101,Resume Screening AI,Finance,2429,79.82,81.66,11,16,7,4,4435,2.55,147,Critical,Violation,Scotland
+RID0865,Aug,M105,Inventory Forecast AI,Sales,1625,68.61,72.46,2,53,14,0,11758,4.76,242,Critical,Compliant,Scotland
+RID0866,Oct,M103,Fraud Detection AI,Operations,1190,85.03,85.49,7,87,11,8,7038,6.34,106,Critical,Violation,London
+RID0867,Jun,M105,Inventory Forecast AI,Finance,4562,93.14,92.36,2,42,10,3,9851,6.51,41,Medium,Review Required,London
+RID0868,Dec,M105,Inventory Forecast AI,Operations,1610,84.59,85.79,3,16,15,1,11027,3.14,109,Medium,Review Required,North UK
+RID0869,Oct,M102,Customer Support Chatbot,Customer Service,2774,85.87,86.44,5,42,34,3,6122,5.44,101,Medium,Review Required,North UK
+RID0870,Mar,M101,Resume Screening AI,Sales,4588,75.46,77.46,14,36,7,5,6778,6.49,187,Critical,Violation,London
+RID0871,May,M102,Customer Support Chatbot,Finance,1442,68.91,72.31,6,18,22,0,6337,9.86,238,Critical,Compliant,Midlands
+RID0872,Nov,M101,Resume Screening AI,Finance,1376,97.47,95.4,6,32,11,1,2532,2.66,11,Medium,Review Required,North UK
+RID0873,Sep,M101,Resume Screening AI,HR,3696,94.28,92.97,10,37,10,0,6896,2.56,37,High,Compliant,Scotland
+RID0874,Aug,M102,Customer Support Chatbot,Operations,4453,72.24,75.37,8,14,20,0,3895,10.09,212,Critical,Compliant,Midlands
+RID0875,Sep,M104,Loan Approval AI,Sales,1590,76.79,79.15,2,28,12,2,7005,4.72,170,High,Review Required,Midlands
+RID0876,Jun,M101,Resume Screening AI,Finance,2682,68.58,72.63,5,26,20,4,3897,5.41,236,Critical,Violation,Midlands
+RID0877,Dec,M104,Loan Approval AI,HR,3470,70.81,74.95,1,6,2,4,8480,5.06,219,Critical,Violation,Midlands
+RID0878,Jun,M101,Resume Screening AI,Operations,3477,89.59,89.21,11,16,2,2,5718,3.25,69,Critical,Review Required,Midlands
+RID0879,Sep,M102,Customer Support Chatbot,Operations,2771,78.41,80.62,4,47,37,0,8265,10.11,162,High,Compliant,Scotland
+RID0880,May,M105,Inventory Forecast AI,Sales,3998,95.88,93.91,3,14,14,1,14928,2.89,22,Low,Review Required,North UK
+RID0881,Nov,M102,Customer Support Chatbot,Finance,1387,87.14,87.16,0,53,18,2,4110,9.85,91,Medium,Review Required,Scotland
+RID0882,Jun,M104,Loan Approval AI,HR,2392,79.89,81.53,1,26,22,4,8573,6.25,146,High,Violation,Scotland
+RID0883,Oct,M105,Inventory Forecast AI,HR,2595,83.53,84.11,3,24,10,0,14505,1.22,123,High,Compliant,London
+RID0884,Oct,M101,Resume Screening AI,Customer Service,1280,73.42,76.47,12,25,6,0,3527,4,198,Critical,Compliant,Midlands
+RID0885,May,M102,Customer Support Chatbot,Customer Service,4744,90.35,89.66,5,35,16,2,4710,9.31,68,Medium,Review Required,London
+RID0886,Jul,M102,Customer Support Chatbot,Sales,4878,96.48,94.73,3,54,29,4,3677,9.78,13,High,Violation,Midlands
+RID0887,Dec,M103,Fraud Detection AI,Finance,2935,75.47,77.97,4,84,0,3,3463,4.48,186,Critical,Review Required,North UK
+RID0888,Aug,M101,Resume Screening AI,HR,4902,75.34,78.04,7,43,11,3,5148,5.26,187,Critical,Review Required,Scotland
+RID0889,Nov,M105,Inventory Forecast AI,Customer Service,2729,69.8,73.21,8,17,0,4,14914,4.82,233,Critical,Violation,Midlands
+RID0890,Jul,M102,Customer Support Chatbot,Customer Service,3860,80.66,81.8,7,32,29,1,4684,8.31,142,High,Review Required,Scotland
+RID0891,Apr,M103,Fraud Detection AI,Sales,4800,69.61,73.29,7,55,21,5,4027,6.09,231,Critical,Violation,Scotland
+RID0892,Nov,M102,Customer Support Chatbot,Customer Service,1495,87.38,87.66,0,9,33,3,5923,7.41,87,Medium,Review Required,North UK
+RID0893,Dec,M105,Inventory Forecast AI,Operations,848,96.61,95.37,5,34,23,5,12972,4.26,12,High,Violation,Midlands
+RID0894,Mar,M103,Fraud Detection AI,HR,1225,95.68,93.94,5,100,5,10,7200,5.92,23,Critical,Violation,North UK
+RID0895,Jul,M102,Customer Support Chatbot,Operations,3682,80.03,81.61,5,11,40,2,4175,7.91,150,High,Review Required,London
+RID0896,Apr,M104,Loan Approval AI,Operations,1145,78.2,79.68,4,53,10,3,7921,4.65,166,High,Review Required,North UK
+RID0897,Oct,M101,Resume Screening AI,Operations,828,70.64,74.48,15,34,23,1,2439,4.29,222,Critical,Review Required,Scotland
+RID0898,Mar,M103,Fraud Detection AI,Sales,2628,84.69,85.34,3,67,20,10,8540,6.14,110,Critical,Violation,North UK
+RID0899,Jan,M104,Loan Approval AI,Customer Service,3334,92.23,91.62,3,44,9,0,4314,1.71,52,Low,Compliant,Scotland
+RID0900,Jan,M104,Loan Approval AI,Customer Service,4222,84.97,86.11,4,19,19,2,2146,5.25,106,Medium,Review Required,London
+RID0901,Sep,M105,Inventory Forecast AI,Sales,3766,76.39,78.8,0,7,23,0,9569,6.71,174,High,Compliant,Scotland
+RID0902,Jan,M102,Customer Support Chatbot,Finance,3665,79.02,80.76,3,56,32,2,7109,9.57,157,High,Review Required,Midlands
+RID0903,Nov,M103,Fraud Detection AI,Customer Service,3668,79.14,81.41,4,75,25,10,7374,3.27,153,Critical,Violation,Scotland
+RID0904,Apr,M105,Inventory Forecast AI,HR,2123,78.2,80.26,8,15,7,3,12531,2.45,161,High,Review Required,Scotland
+RID0905,Mar,M104,Loan Approval AI,Operations,3791,90.95,91.15,3,9,7,2,8085,4.36,58,Medium,Review Required,North UK
+RID0906,Apr,M103,Fraud Detection AI,Operations,3773,89.26,89.43,8,74,15,8,7211,1.32,70,Critical,Violation,Midlands
+RID0907,Jan,M103,Fraud Detection AI,Operations,4381,74.73,76.83,6,63,4,5,6163,2.74,193,Critical,Violation,Scotland
+RID0908,Sep,M105,Inventory Forecast AI,Sales,924,87.94,88.02,5,10,21,0,9329,4.71,87,Medium,Compliant,Scotland
+RID0909,Aug,M105,Inventory Forecast AI,HR,4473,75.49,78.36,8,12,17,2,14632,2.26,183,Critical,Review Required,London
+RID0910,Sep,M105,Inventory Forecast AI,Operations,3724,83.36,84.28,1,30,6,0,13836,4.53,125,High,Compliant,London
+RID0911,Jun,M102,Customer Support Chatbot,HR,1785,81.51,83,6,35,31,4,3527,7.31,139,High,Violation,Scotland
+RID0912,Aug,M101,Resume Screening AI,Sales,1120,78.42,80.89,9,5,6,2,2641,5.94,157,High,Review Required,North UK
+RID0913,Sep,M101,Resume Screening AI,HR,3045,96.5,94.85,11,25,14,5,7380,4.97,14,Critical,Violation,London
+RID0914,Feb,M104,Loan Approval AI,HR,4888,82.55,83.38,8,24,0,1,3268,5.56,131,High,Review Required,London
+RID0915,Sep,M105,Inventory Forecast AI,Operations,2599,90.04,90.21,7,7,21,1,13014,5.12,64,High,Review Required,Scotland
+RID0916,Dec,M103,Fraud Detection AI,Sales,2081,81.29,83.06,5,95,8,7,8242,6.09,136,Critical,Violation,Midlands
+RID0917,Sep,M103,Fraud Detection AI,Sales,1079,68.09,72.12,8,45,20,7,5970,6.48,246,Critical,Violation,London
+RID0918,Oct,M104,Loan Approval AI,Operations,2818,83.6,84.34,6,9,18,0,2797,2.56,117,Medium,Compliant,North UK
+RID0919,Dec,M105,Inventory Forecast AI,Operations,4107,87.3,88.08,3,15,15,2,13060,1.86,87,Medium,Review Required,Midlands
+RID0920,Mar,M102,Customer Support Chatbot,HR,2292,86.64,87.29,7,43,39,3,6539,8.19,93,High,Review Required,Scotland
+RID0921,Jul,M105,Inventory Forecast AI,Sales,2843,96.19,94.22,3,10,23,2,12414,3.9,19,Medium,Review Required,London
+RID0922,Nov,M104,Loan Approval AI,HR,912,75.22,77.59,4,59,0,5,5208,1.55,186,Critical,Violation,London
+RID0923,Sep,M105,Inventory Forecast AI,Sales,1728,71.41,74.5,4,22,24,3,11649,1.64,218,Critical,Review Required,London
+RID0924,Feb,M101,Resume Screening AI,HR,1324,75.85,78.58,14,38,10,5,4080,3.04,178,Critical,Violation,London
+RID0925,Jan,M101,Resume Screening AI,Customer Service,2876,87.19,87.18,13,60,1,2,6352,6.91,91,Critical,Review Required,Midlands
+RID0926,Jun,M102,Customer Support Chatbot,Finance,2504,75.14,77.87,1,29,50,4,5782,10.19,190,Critical,Violation,London
+RID0927,Jul,M105,Inventory Forecast AI,Customer Service,4646,81.61,83.36,8,36,10,5,11581,5.9,134,High,Violation,London
+RID0928,Jul,M105,Inventory Forecast AI,Customer Service,4608,77.27,79.61,6,35,17,4,11437,4.74,166,High,Violation,Scotland
+RID0929,Jan,M102,Customer Support Chatbot,Operations,3696,96.42,95.01,4,42,28,1,5172,6.74,19,Medium,Review Required,Midlands
+RID0930,Apr,M101,Resume Screening AI,Customer Service,2614,68.27,71.92,11,23,1,4,7344,3.86,244,Critical,Violation,Midlands
+RID0931,Feb,M102,Customer Support Chatbot,Sales,2932,70.96,74.16,4,39,28,3,4253,5.6,223,Critical,Review Required,London
+RID0932,Jul,M105,Inventory Forecast AI,Sales,4210,89.41,89.61,6,6,18,2,11225,5.94,73,Medium,Review Required,London
+RID0933,Sep,M103,Fraud Detection AI,HR,4417,88.8,88.61,8,42,12,4,4182,2.09,75,High,Violation,London
+RID0934,Aug,M101,Resume Screening AI,Operations,4869,83.99,85.42,13,7,1,3,8239,3.82,114,Critical,Review Required,Midlands
+RID0935,Aug,M103,Fraud Detection AI,Finance,3616,68.03,71.86,2,40,16,3,4167,2.89,245,Critical,Review Required,North UK
+RID0936,Dec,M105,Inventory Forecast AI,Finance,822,85.71,86.51,0,13,20,4,14273,5.68,99,High,Violation,Midlands
+RID0937,Jan,M104,Loan Approval AI,Finance,1586,86.77,87.28,0,51,13,5,7381,4.27,94,High,Violation,London
+RID0938,Jan,M101,Resume Screening AI,Customer Service,1021,70.37,73.24,8,18,0,0,4705,1.37,228,Critical,Compliant,London
+RID0939,Feb,M105,Inventory Forecast AI,Operations,4050,84.63,85.37,8,31,5,2,10930,3.99,111,High,Review Required,London
+RID0940,Oct,M102,Customer Support Chatbot,HR,3752,86.46,86.41,7,12,24,1,8616,5.81,98,High,Review Required,Scotland
+RID0941,Apr,M101,Resume Screening AI,HR,4590,80.06,81.13,6,42,3,0,4404,2.43,150,High,Compliant,Scotland
+RID0942,May,M103,Fraud Detection AI,Customer Service,2039,70.44,73.52,7,93,13,3,6624,1.53,228,Critical,Review Required,Scotland
+RID0943,Jun,M105,Inventory Forecast AI,Customer Service,1907,89.18,89.36,7,60,22,5,11222,3.99,73,High,Violation,North UK
+RID0944,Oct,M101,Resume Screening AI,Customer Service,4339,87.27,87.8,6,13,0,3,6807,2.66,90,Medium,Review Required,London
+RID0945,Jan,M102,Customer Support Chatbot,Sales,2853,78.6,80.96,8,51,50,3,3930,9.81,156,High,Review Required,North UK
+RID0946,May,M103,Fraud Detection AI,HR,4340,91.09,91.09,1,45,11,5,6203,6.57,58,High,Violation,Midlands
+RID0947,Jun,M104,Loan Approval AI,Finance,3644,88.32,88.41,0,48,24,0,3103,4.79,82,Medium,Compliant,North UK
+RID0948,Aug,M105,Inventory Forecast AI,Finance,4343,69.71,73.43,6,55,1,4,11424,4.43,229,Critical,Violation,North UK
+RID0949,Aug,M105,Inventory Forecast AI,Finance,3890,82.21,82.76,5,36,5,5,10198,1.17,134,High,Violation,North UK
+RID0950,Sep,M103,Fraud Detection AI,Sales,2109,90.77,90.21,8,60,11,6,3923,5.2,64,High,Violation,North UK
+RID0951,Jan,M102,Customer Support Chatbot,Finance,3961,75.68,77.78,5,24,25,1,3891,8.5,185,Critical,Review Required,Midlands
+RID0952,Jan,M103,Fraud Detection AI,Sales,4485,72,75.61,8,41,4,5,5290,2.23,211,Critical,Violation,Midlands
+RID0953,May,M104,Loan Approval AI,Operations,1068,92.32,91.95,6,48,9,3,6916,6.99,47,Medium,Review Required,Scotland
+RID0954,Dec,M104,Loan Approval AI,HR,1960,78.24,79.87,5,16,9,3,4097,3.57,165,High,Review Required,London
+RID0955,Jan,M104,Loan Approval AI,HR,4703,81.09,82.3,3,38,20,2,7502,3.8,139,High,Review Required,Midlands
+RID0956,Nov,M103,Fraud Detection AI,Customer Service,3495,89.71,89.15,8,77,17,8,8904,3.08,69,Critical,Violation,Midlands
+RID0957,Apr,M105,Inventory Forecast AI,HR,2354,69.83,73.07,3,43,13,1,13459,2.05,231,Critical,Review Required,North UK
+RID0958,Sep,M105,Inventory Forecast AI,Operations,1178,72.95,76.17,1,6,4,4,14630,2.28,206,Critical,Violation,Scotland
+RID0959,May,M104,Loan Approval AI,HR,3451,82.35,83.87,4,36,18,3,8125,2.25,127,High,Review Required,Scotland
+RID0960,Sep,M104,Loan Approval AI,Operations,3799,81.97,82.75,7,14,22,3,3128,1.05,134,High,Review Required,North UK
+RID0961,Sep,M104,Loan Approval AI,Sales,1901,68.58,72.66,0,9,7,0,6903,4.46,238,Critical,Compliant,London
+RID0962,Jul,M103,Fraud Detection AI,Sales,976,67.48,72.2,2,85,5,8,6550,6.91,246,Critical,Violation,North UK
+RID0963,Feb,M105,Inventory Forecast AI,Finance,1372,72.42,76.06,7,50,6,3,9173,6.54,208,Critical,Review Required,Scotland
+RID0964,Apr,M104,Loan Approval AI,Sales,1518,82.66,84.09,8,24,25,0,8223,1.4,123,High,Compliant,Scotland
+RID0965,Feb,M101,Resume Screening AI,Finance,4861,88.03,87.81,14,18,12,1,4553,4.25,86,Critical,Review Required,Midlands
+RID0966,Jan,M103,Fraud Detection AI,Operations,1278,78.32,79.87,2,46,16,9,5247,2.95,165,Critical,Violation,London
+RID0967,Dec,M102,Customer Support Chatbot,Customer Service,2856,79.18,81.46,3,36,41,3,8181,10.14,155,High,Review Required,Scotland
+RID0968,Nov,M102,Customer Support Chatbot,Customer Service,2147,77.59,79.41,0,21,36,4,2433,6.51,170,High,Violation,Scotland
+RID0969,Apr,M104,Loan Approval AI,Customer Service,2401,74.24,76.82,7,35,9,1,5889,5.09,198,Critical,Review Required,Scotland
+RID0970,Oct,M101,Resume Screening AI,Finance,4525,82.16,83.75,8,46,5,0,3774,1.05,130,High,Compliant,North UK
+RID0971,Dec,M104,Loan Approval AI,HR,4505,77.99,80.74,3,49,6,4,3416,4.75,162,High,Violation,Scotland
+RID0972,Apr,M105,Inventory Forecast AI,Sales,1088,80.23,82.11,0,16,6,4,13441,1.84,147,High,Violation,London
+RID0973,Apr,M104,Loan Approval AI,Customer Service,3767,69.74,73.59,2,11,24,0,3063,1.88,234,Critical,Compliant,Scotland
+RID0974,Jan,M103,Fraud Detection AI,Customer Service,2808,93.04,91.81,5,51,3,10,6976,5.96,47,Critical,Violation,London
+RID0975,Apr,M105,Inventory Forecast AI,Sales,1445,90.31,90.09,7,8,23,1,11986,6.65,65,High,Review Required,Scotland
+RID0976,Aug,M102,Customer Support Chatbot,HR,3535,88.55,88.79,2,8,33,5,4903,6.24,80,High,Violation,London
+RID0977,Jan,M104,Loan Approval AI,HR,4389,90.67,90.29,1,7,3,4,3706,2.01,61,High,Violation,North UK
+RID0978,Oct,M104,Loan Approval AI,Sales,3871,71.7,74.41,6,42,4,2,6076,4.7,218,Critical,Review Required,Scotland
+RID0979,Apr,M105,Inventory Forecast AI,HR,3263,78.94,80.94,8,32,4,4,14444,1.88,155,High,Violation,Midlands
+RID0980,Jun,M102,Customer Support Chatbot,Sales,1703,73.36,76.42,2,57,31,4,3787,6.34,205,Critical,Violation,London
+RID0981,Dec,M103,Fraud Detection AI,Operations,2282,95.4,94.57,7,48,11,10,7574,4.79,23,Critical,Violation,Midlands
+RID0982,Jun,M105,Inventory Forecast AI,Finance,1930,86.68,87.14,8,7,5,1,12092,5.67,92,High,Review Required,North UK
+RID0983,May,M104,Loan Approval AI,Finance,4842,80.35,81.91,5,31,16,4,5066,3.59,147,High,Violation,North UK
+RID0984,Jan,M103,Fraud Detection AI,Operations,4975,82.46,83.83,7,57,14,4,4875,2.94,130,High,Violation,Scotland
+RID0985,May,M101,Resume Screening AI,HR,4079,80.89,83.19,6,12,21,4,6793,1.21,138,High,Violation,London
+RID0986,Jul,M103,Fraud Detection AI,HR,2654,75.34,77.8,7,85,19,7,6806,3.8,186,Critical,Violation,Midlands
+RID0987,Jun,M102,Customer Support Chatbot,Customer Service,4705,86.18,87.19,7,60,15,2,4741,6.27,97,High,Review Required,London
+RID0988,Nov,M102,Customer Support Chatbot,Sales,3490,95.31,94.46,6,6,25,5,3006,9.5,25,High,Violation,Scotland
+RID0989,Dec,M103,Fraud Detection AI,HR,4448,87.26,87.22,2,60,25,10,3522,6.03,89,Critical,Violation,Midlands
+RID0990,Jun,M101,Resume Screening AI,Sales,3458,70.95,73.83,5,45,23,3,3667,5.99,223,Critical,Review Required,North UK
+RID0991,Dec,M103,Fraud Detection AI,Finance,1191,72.55,75.84,1,42,8,6,7735,5.63,210,Critical,Violation,London
+RID0992,May,M101,Resume Screening AI,Sales,3354,97.25,95.19,5,33,6,5,7772,4.16,10,High,Violation,London
+RID0993,Aug,M101,Resume Screening AI,HR,1938,80.03,81.45,5,55,7,1,4025,3.98,146,High,Review Required,Scotland
+RID0994,Jun,M103,Fraud Detection AI,Sales,4511,96.2,94.62,0,79,12,4,4990,4.4,22,High,Violation,North UK
+RID0995,Nov,M102,Customer Support Chatbot,HR,4459,68.57,72.14,4,25,37,0,3026,6.25,239,Critical,Compliant,London
+RID0996,Nov,M101,Resume Screening AI,Operations,2252,96.52,95,15,14,5,4,6076,6,15,Critical,Violation,London
+RID0997,Jan,M104,Loan Approval AI,HR,3625,72.6,75.24,2,55,7,5,2854,6.43,209,Critical,Violation,North UK
+RID0998,Sep,M103,Fraud Detection AI,Sales,1992,91.92,91.02,6,80,5,7,4178,1.4,55,Critical,Violation,Scotland
+RID0999,Jul,M103,Fraud Detection AI,Customer Service,1215,80.5,82.37,6,67,7,9,6831,6.28,144,Critical,Violation,Midlands
+RID1000,May,M105,Inventory Forecast AI,Customer Service,2760,70.72,74.87,2,23,11,5,13309,4.39,219,Critical,Violation,North UK
+RID1001,Mar,M101,Resume Screening AI,Finance,2198,89.07,88.64,14,59,25,5,3046,2.87,79,Critical,Violation,Scotland
+RID1002,Mar,M105,Inventory Forecast AI,Finance,1374,91.08,90.72,0,40,11,5,13450,2.11,62,High,Violation,North UK
+RID1003,Mar,M103,Fraud Detection AI,Operations,3124,82.16,83.06,8,48,21,7,6506,6.93,133,Critical,Violation,North UK
+RID1004,Jul,M102,Customer Support Chatbot,Sales,4936,81.34,83.25,5,59,33,1,7759,8.6,137,High,Review Required,Scotland
+RID1005,Jul,M101,Resume Screening AI,Operations,2451,67.53,71.52,6,42,16,4,8802,2.03,245,Critical,Violation,London
+RID1006,Jun,M101,Resume Screening AI,HR,2731,76.29,79.23,12,54,16,0,4859,5.91,175,Critical,Compliant,North UK
+RID1007,May,M103,Fraud Detection AI,Customer Service,1056,95.13,94.47,8,62,3,7,3828,5.5,24,Critical,Violation,North UK
+RID1008,Oct,M102,Customer Support Chatbot,Operations,1524,74.88,77.96,3,58,41,0,8340,5.1,190,Critical,Compliant,Scotland
+RID1009,Nov,M104,Loan Approval AI,Operations,1911,84.61,84.72,4,28,14,1,5265,2.55,113,Medium,Review Required,Scotland
+RID1010,May,M102,Customer Support Chatbot,HR,805,84.97,85.91,0,55,36,3,6852,6.48,106,Medium,Review Required,London
+RID1011,Sep,M103,Fraud Detection AI,Customer Service,3414,69.8,73.62,5,41,3,4,4632,5.99,230,Critical,Violation,Scotland
+RID1012,Dec,M101,Resume Screening AI,Customer Service,3283,85.69,85.81,6,9,12,2,7240,6.23,102,Medium,Review Required,North UK
+RID1013,Jan,M101,Resume Screening AI,HR,1684,75.75,78.02,9,9,25,5,2587,4.5,183,Critical,Violation,Midlands
+RID1014,Feb,M104,Loan Approval AI,HR,3207,70.55,74.36,4,40,25,2,2876,2.07,223,Critical,Review Required,Midlands
+RID1015,Jun,M105,Inventory Forecast AI,Customer Service,901,73.94,76.83,7,34,17,4,9666,4.81,200,Critical,Violation,London
+RID1016,Aug,M103,Fraud Detection AI,Finance,2316,91.27,90.96,2,43,0,7,2832,1.09,60,Critical,Violation,Midlands
+RID1017,Jul,M101,Resume Screening AI,HR,4092,79.92,81.53,7,7,2,3,2460,2.09,145,High,Review Required,Midlands
+RID1018,Jun,M102,Customer Support Chatbot,Sales,1527,75.92,79.09,0,60,29,5,4161,7.01,178,High,Violation,North UK
+RID1019,Dec,M103,Fraud Detection AI,HR,3961,84.56,85.05,0,72,17,3,6280,6.03,111,Medium,Review Required,Midlands
+RID1020,Sep,M104,Loan Approval AI,Sales,4168,86.22,85.81,1,17,23,4,5137,6.83,102,High,Violation,Midlands
+RID1021,Jul,M104,Loan Approval AI,HR,1386,83,83.34,4,23,22,5,7861,5.44,127,High,Violation,Midlands
+RID1022,Nov,M104,Loan Approval AI,HR,1080,70.91,74.3,0,45,9,5,4023,3.92,218,Critical,Violation,Midlands
+RID1023,Dec,M105,Inventory Forecast AI,Finance,3399,72.06,74.76,8,14,18,1,14414,4.08,215,Critical,Review Required,London
+RID1024,May,M105,Inventory Forecast AI,Operations,1476,67.84,72.33,7,43,0,4,9402,1.78,243,Critical,Violation,London
+RID1025,Jun,M102,Customer Support Chatbot,Operations,2319,83.99,84.64,7,25,41,5,2686,9.26,114,High,Violation,Midlands
+RID1026,Sep,M105,Inventory Forecast AI,Sales,3814,95.86,94.19,2,28,22,4,11762,1.99,19,High,Violation,Midlands
+RID1027,Oct,M101,Resume Screening AI,Operations,2517,77.81,79.8,14,43,24,4,5641,2.04,167,Critical,Violation,Scotland
+RID1028,Nov,M103,Fraud Detection AI,Operations,1878,81,83.12,1,87,13,10,2841,5.13,137,Critical,Violation,London
+RID1029,Jul,M104,Loan Approval AI,Operations,4358,71.74,74.65,2,50,0,4,3422,3.75,216,Critical,Violation,Scotland
+RID1030,Dec,M104,Loan Approval AI,Sales,1752,88.43,88.39,0,37,22,3,4001,4.1,83,Medium,Review Required,North UK
+RID1031,Jun,M103,Fraud Detection AI,Customer Service,951,95.04,94.41,4,56,1,8,4777,4.74,24,Critical,Violation,Midlands
+RID1032,Dec,M104,Loan Approval AI,Sales,3005,94.47,92.77,5,46,6,3,7811,4.84,35,Medium,Review Required,Midlands
+RID1033,Jun,M101,Resume Screening AI,Customer Service,2848,83.36,84.33,5,53,2,1,3898,2.17,119,Medium,Review Required,Midlands
+RID1034,Oct,M101,Resume Screening AI,Customer Service,3828,71.8,75.2,12,47,25,4,4041,5.01,217,Critical,Violation,Midlands
+RID1035,Jan,M102,Customer Support Chatbot,Sales,1361,84.91,85.89,0,59,20,3,6088,5.41,106,Medium,Review Required,North UK
+RID1036,Apr,M101,Resume Screening AI,HR,1333,81.01,82.57,9,54,1,3,8148,1.27,143,High,Review Required,Midlands
+RID1037,Mar,M105,Inventory Forecast AI,Customer Service,4385,69.9,72.95,6,14,4,5,9471,4.74,231,Critical,Violation,Scotland
+RID1038,Jun,M103,Fraud Detection AI,HR,4809,90.08,89.77,4,90,22,10,2190,2.68,65,Critical,Violation,Scotland
+RID1039,Apr,M104,Loan Approval AI,Customer Service,3986,92.11,91.45,4,37,0,4,7601,1.69,54,High,Violation,North UK
+RID1040,Nov,M104,Loan Approval AI,Customer Service,2895,81.18,82.48,5,31,18,4,3946,4.68,139,High,Violation,North UK
+RID1041,Mar,M103,Fraud Detection AI,Operations,4296,79.71,82.04,2,100,17,10,3490,6.95,149,Critical,Violation,London
+RID1042,Sep,M102,Customer Support Chatbot,Finance,1838,95.43,94.09,2,14,35,4,8618,8.37,25,High,Violation,North UK
+RID1043,Aug,M104,Loan Approval AI,HR,4540,96.26,94.16,3,8,22,1,5151,5.97,20,Low,Review Required,North UK
+RID1044,Jul,M104,Loan Approval AI,HR,4811,89.53,89.02,0,19,11,3,3899,5.38,72,Medium,Review Required,Midlands
+RID1045,Feb,M104,Loan Approval AI,Finance,1710,72.04,75.75,1,45,12,0,2976,5.42,208,Critical,Compliant,London
+RID1046,Oct,M103,Fraud Detection AI,Finance,3963,96.39,95.09,7,86,17,6,5069,6.35,16,High,Violation,Midlands
+RID1047,Oct,M101,Resume Screening AI,Sales,3803,87.56,87.22,13,38,15,5,7090,6.65,89,Critical,Violation,Scotland
+RID1048,Nov,M103,Fraud Detection AI,Finance,3926,86.56,86.37,6,43,0,4,5212,1.4,98,High,Violation,North UK
+RID1049,Mar,M102,Customer Support Chatbot,Customer Service,3057,93.88,93.23,0,30,47,4,7671,9.79,36,High,Violation,North UK
+RID1050,Jun,M101,Resume Screening AI,Customer Service,4922,73.87,76.69,8,40,12,5,6172,5.05,196,Critical,Violation,North UK
+RID1051,May,M102,Customer Support Chatbot,Finance,1863,77.97,80.14,2,19,18,5,6471,10.64,167,High,Violation,London
+RID1052,Sep,M103,Fraud Detection AI,HR,1857,87.53,88.36,8,52,17,4,6095,3.88,86,High,Violation,North UK
+RID1053,Jan,M105,Inventory Forecast AI,Operations,984,67.46,71.27,0,47,25,4,10150,5.47,248,Critical,Violation,North UK
+RID1054,Apr,M105,Inventory Forecast AI,Operations,2617,83.84,84.41,7,16,20,1,12586,5.27,118,High,Review Required,Midlands
+RID1055,Nov,M103,Fraud Detection AI,Sales,4001,79.86,81.25,8,97,15,5,4210,1.23,148,High,Violation,London
+RID1056,Mar,M101,Resume Screening AI,Customer Service,4516,70.36,73.91,5,50,24,0,3004,4.54,225,Critical,Compliant,Midlands
+RID1057,May,M101,Resume Screening AI,Sales,1222,95.88,94.51,13,54,15,0,6377,4.98,22,Critical,Compliant,Midlands
+RID1058,Jun,M104,Loan Approval AI,Finance,1578,72.21,75.49,5,46,8,3,2271,6.62,212,Critical,Review Required,London
+RID1059,Aug,M103,Fraud Detection AI,Finance,2789,96.73,94.85,1,69,16,7,7337,1.15,15,Critical,Violation,Scotland
+RID1060,Jul,M104,Loan Approval AI,Operations,3084,82.22,83.16,8,23,21,3,3693,4.9,132,High,Review Required,North UK
+RID1061,Feb,M103,Fraud Detection AI,Sales,2612,70.72,75.05,0,61,7,10,3669,6.44,219,Critical,Violation,Midlands
+RID1062,Jun,M102,Customer Support Chatbot,HR,2013,78.01,79.92,7,26,25,0,8321,9.23,163,High,Compliant,London
+RID1063,Dec,M105,Inventory Forecast AI,Sales,3567,89.1,89.31,6,32,9,1,10688,2.39,73,Medium,Review Required,Midlands
+RID1064,Dec,M104,Loan Approval AI,Customer Service,2840,86.6,86.43,3,8,7,2,8804,2.23,96,Medium,Review Required,London
+RID1065,Aug,M103,Fraud Detection AI,Finance,3239,95.49,94.17,5,49,23,5,7132,6.34,27,High,Violation,London
+RID1066,Oct,M104,Loan Approval AI,Finance,4358,92.13,90.95,7,52,9,5,4393,6.72,54,High,Violation,North UK
+RID1067,Nov,M103,Fraud Detection AI,Operations,3796,91.48,90.64,4,56,16,6,3208,2.28,57,High,Violation,North UK
+RID1068,Jan,M103,Fraud Detection AI,HR,4185,81.16,82.17,2,50,7,4,8062,5.26,142,High,Violation,North UK
+RID1069,Oct,M104,Loan Approval AI,HR,3648,84.88,85.83,8,20,25,1,7163,4.59,106,High,Review Required,Midlands
+RID1070,Jun,M102,Customer Support Chatbot,Customer Service,3973,85.95,86.52,3,60,22,5,8283,7.54,103,High,Violation,North UK
+RID1071,Nov,M102,Customer Support Chatbot,Customer Service,4746,75.61,78.74,5,53,44,3,8600,9.65,181,Critical,Review Required,North UK
+RID1072,Nov,M103,Fraud Detection AI,Operations,3913,75.72,77.68,1,71,7,8,8237,6.22,186,Critical,Violation,Midlands
+RID1073,Mar,M103,Fraud Detection AI,Customer Service,1201,89.98,89.31,7,80,8,4,6064,2.63,70,High,Violation,Scotland
+RID1074,Jan,M103,Fraud Detection AI,Operations,1442,85.58,86.27,1,76,2,4,4206,3.52,105,High,Violation,Midlands
+RID1075,Feb,M103,Fraud Detection AI,Operations,4890,90.48,90.29,5,51,1,8,3307,6.24,66,Critical,Violation,Scotland
+RID1076,Jun,M103,Fraud Detection AI,Sales,2805,67.06,71.73,4,87,16,8,7802,3.7,248,Critical,Violation,Midlands
+RID1077,Dec,M101,Resume Screening AI,Customer Service,4460,84.46,85.33,15,39,16,0,7415,6.96,112,Critical,Compliant,North UK
+RID1078,Sep,M101,Resume Screening AI,Customer Service,4111,90.88,90.21,6,43,7,3,6421,1.14,61,Medium,Review Required,North UK
+RID1079,Apr,M103,Fraud Detection AI,Customer Service,2263,95.36,93.66,2,71,14,9,5540,5.66,29,Critical,Violation,London
+RID1080,Feb,M102,Customer Support Chatbot,Finance,1549,93.8,92.58,6,36,17,4,7770,5.34,41,High,Violation,London
+RID1081,Oct,M105,Inventory Forecast AI,Finance,4294,94.28,92.96,1,35,24,1,13279,6.43,31,Low,Review Required,Midlands
+RID1082,Nov,M102,Customer Support Chatbot,Sales,3567,92.05,91.48,7,24,22,5,7579,8.69,48,High,Violation,Midlands
+RID1083,Aug,M105,Inventory Forecast AI,Customer Service,2953,87.99,87.88,1,30,14,4,10873,1.54,83,High,Violation,London
+RID1084,Feb,M101,Resume Screening AI,Operations,2899,71.46,74.88,5,37,12,3,4392,5.6,215,Critical,Review Required,North UK
+RID1085,Apr,M104,Loan Approval AI,Sales,1610,75.54,78,2,45,14,0,2800,5.14,181,Critical,Compliant,London
+RID1086,Sep,M103,Fraud Detection AI,HR,2829,70.14,73.61,8,56,4,8,6827,1.58,224,Critical,Violation,North UK
+RID1087,Sep,M105,Inventory Forecast AI,HR,3929,75.27,78.43,1,43,24,2,9840,4.6,184,Critical,Review Required,London
+RID1088,Jul,M104,Loan Approval AI,Sales,4790,76.82,79.49,1,8,11,4,7370,4.74,173,High,Violation,Scotland
+RID1089,Mar,M105,Inventory Forecast AI,Operations,992,81.76,83.3,8,26,12,4,11806,6.85,134,High,Violation,Scotland
+RID1090,Nov,M102,Customer Support Chatbot,Customer Service,4126,84.47,85.49,8,59,36,5,2116,8.33,115,High,Violation,London
+RID1091,Aug,M104,Loan Approval AI,Finance,4071,86.37,86.95,5,60,14,1,2860,2.96,98,Medium,Review Required,London
+RID1092,Aug,M104,Loan Approval AI,Sales,1076,67.93,72.75,6,36,19,1,4895,2.98,242,Critical,Review Required,North UK
+RID1093,Mar,M103,Fraud Detection AI,Sales,3074,83.64,84.38,2,93,9,5,4639,2.14,118,High,Violation,North UK
+RID1094,Nov,M102,Customer Support Chatbot,Sales,3658,80.3,82.33,7,44,45,5,3835,10.08,143,High,Violation,Scotland
+RID1095,Jul,M104,Loan Approval AI,Customer Service,3490,87.17,87.16,5,18,0,3,6448,3.8,89,Medium,Review Required,London
+RID1096,Nov,M101,Resume Screening AI,Sales,3021,72.39,75.73,8,33,21,4,7235,4.57,210,Critical,Violation,London
+RID1097,Feb,M103,Fraud Detection AI,Sales,4041,71.46,74.67,6,50,5,8,8854,2.8,219,Critical,Violation,Midlands
+RID1098,Oct,M101,Resume Screening AI,Finance,3155,80.9,82.71,7,18,12,3,5735,2.48,139,High,Review Required,London
+RID1099,Aug,M105,Inventory Forecast AI,Sales,1434,69.37,72.94,0,56,4,4,13212,1.11,236,Critical,Violation,Scotland
+RID1100,Feb,M104,Loan Approval AI,Finance,912,92.5,92.41,0,21,3,1,3664,3.97,44,Low,Review Required,North UK
+RID1101,Apr,M105,Inventory Forecast AI,Operations,2151,89.23,89.32,2,54,25,2,13644,3.11,72,Medium,Review Required,Midlands
+RID1102,Feb,M104,Loan Approval AI,Finance,3167,80.41,81.83,2,41,4,2,8246,6.51,144,High,Review Required,North UK
+RID1103,Dec,M103,Fraud Detection AI,Operations,4052,80.9,81.74,1,86,12,6,6681,1.33,143,High,Violation,Scotland
+RID1104,Jul,M103,Fraud Detection AI,Sales,4465,80.23,82.51,6,58,3,4,4410,6.56,144,High,Violation,Midlands
+RID1105,Nov,M102,Customer Support Chatbot,HR,1695,96.04,94.78,1,35,18,1,2683,10.14,17,Low,Review Required,Midlands
+RID1106,Jul,M103,Fraud Detection AI,Customer Service,3337,84.75,86.19,6,62,4,10,5557,5.55,108,Critical,Violation,Midlands
+RID1107,Oct,M104,Loan Approval AI,Sales,879,73.33,76.53,2,13,16,3,7650,4.01,204,Critical,Review Required,North UK
+RID1108,Sep,M103,Fraud Detection AI,HR,1403,75.25,78.33,6,59,2,6,7776,6.54,185,Critical,Violation,Scotland
+RID1109,Jun,M101,Resume Screening AI,Finance,2876,94.53,93.6,5,8,7,5,3146,4.1,33,High,Violation,North UK
+RID1110,Dec,M104,Loan Approval AI,HR,2902,78.7,80.6,1,53,16,2,7398,5.54,159,High,Review Required,London
+RID1111,Feb,M104,Loan Approval AI,Sales,2448,96.29,94.39,1,42,20,2,8803,2.78,18,Medium,Review Required,North UK
+RID1112,Aug,M105,Inventory Forecast AI,Sales,2364,70.45,73.85,4,8,0,1,13209,3.92,224,Critical,Review Required,North UK
+RID1113,Sep,M104,Loan Approval AI,Customer Service,974,89.62,89.34,3,21,2,3,2454,2.31,74,Medium,Review Required,North UK
+RID1114,Jun,M103,Fraud Detection AI,Operations,4803,73.19,76.25,5,80,1,8,4159,4.35,201,Critical,Violation,Midlands
+RID1115,Dec,M103,Fraud Detection AI,Operations,4944,76.52,79.22,2,98,14,5,3207,5.28,172,High,Violation,London
+RID1116,Jan,M104,Loan Approval AI,Operations,3431,94.56,93.25,6,15,6,5,8665,5.78,35,High,Violation,North UK
+RID1117,Sep,M105,Inventory Forecast AI,Finance,1802,77.12,79.19,3,48,16,5,11266,3.59,173,High,Violation,Scotland
+RID1118,Jul,M104,Loan Approval AI,Operations,3477,97.17,95.93,1,12,14,5,7030,6.53,10,High,Violation,North UK
+RID1119,Aug,M104,Loan Approval AI,HR,1378,67.52,72.12,3,13,2,2,8525,5.89,246,Critical,Review Required,North UK
+RID1120,Jan,M105,Inventory Forecast AI,Sales,1455,77.67,79.42,4,51,15,5,10423,5.17,168,High,Violation,London
+RID1121,Nov,M104,Loan Approval AI,Customer Service,1091,84.98,85.93,5,53,22,5,2335,5.84,109,High,Violation,London
+RID1122,Jul,M104,Loan Approval AI,Sales,1397,91.2,90.88,1,35,4,2,6940,6.04,59,Medium,Review Required,Midlands
+RID1123,Jan,M103,Fraud Detection AI,Operations,1802,67.22,71.51,4,66,16,3,6239,4.34,250,Critical,Review Required,Midlands
+RID1124,Jun,M102,Customer Support Chatbot,HR,3540,91.68,91.39,5,51,25,4,7152,9.36,56,High,Violation,London
+RID1125,Jul,M101,Resume Screening AI,Sales,4246,91.76,90.96,12,23,12,0,2321,1.22,55,Critical,Compliant,North UK
+RID1126,Dec,M101,Resume Screening AI,Sales,4975,76.2,77.81,12,11,21,5,3550,4.72,182,Critical,Violation,Scotland
+RID1127,Feb,M104,Loan Approval AI,Customer Service,3789,76.29,78.76,3,18,10,3,4881,3.55,179,High,Review Required,North UK
+RID1128,Jun,M102,Customer Support Chatbot,HR,3143,81.77,82.71,6,38,39,3,5360,9.3,134,High,Review Required,North UK
+RID1129,Sep,M104,Loan Approval AI,Sales,914,84.11,84.93,5,31,15,3,8126,1.34,113,Medium,Review Required,North UK
+RID1130,May,M104,Loan Approval AI,Finance,3078,76.09,78.74,5,58,4,0,3148,6.59,178,High,Compliant,North UK
+RID1131,Jan,M102,Customer Support Chatbot,Operations,2266,77.93,79.51,0,13,50,4,7511,6.27,166,High,Violation,London
+RID1132,Nov,M103,Fraud Detection AI,HR,4184,95.02,93.65,3,58,18,7,4855,4.55,27,Critical,Violation,North UK
+RID1133,Oct,M102,Customer Support Chatbot,Finance,2978,83.41,84.24,5,45,17,5,4763,5.13,124,High,Violation,Midlands
+RID1134,May,M105,Inventory Forecast AI,Operations,1079,95.73,94.36,7,38,8,5,9969,5.15,22,High,Violation,Midlands
+RID1135,Jun,M102,Customer Support Chatbot,Operations,3806,74.35,77.14,3,17,17,5,7746,6.51,197,Critical,Violation,London
+RID1136,Mar,M103,Fraud Detection AI,HR,4260,81.03,82.56,7,86,5,10,7111,6.88,139,Critical,Violation,Scotland
+RID1137,Dec,M103,Fraud Detection AI,Operations,2533,81.68,83.39,6,84,19,6,6027,2.46,136,High,Violation,Midlands
+RID1138,Apr,M103,Fraud Detection AI,Finance,995,67.99,71.65,1,59,20,9,8839,3.34,244,Critical,Violation,Scotland
+RID1139,Oct,M101,Resume Screening AI,Finance,1108,95.2,93.81,7,35,13,0,8577,3.61,27,High,Compliant,Scotland
+RID1140,Mar,M101,Resume Screening AI,Operations,3439,91.64,91.43,9,58,19,5,2674,5.47,53,High,Violation,Scotland
+RID1141,Jan,M102,Customer Support Chatbot,HR,3753,67.34,71.92,6,52,17,2,7173,7.63,249,Critical,Review Required,London
+RID1142,Jun,M102,Customer Support Chatbot,Sales,1613,71.77,75.23,6,58,16,5,2780,10.85,217,Critical,Violation,London
+RID1143,Mar,M101,Resume Screening AI,Operations,2220,75.39,77.6,9,13,22,3,7118,2.54,187,Critical,Review Required,Scotland
+RID1144,Aug,M105,Inventory Forecast AI,Finance,2348,68.45,72.65,0,15,6,2,11902,3.44,241,Critical,Review Required,Scotland
+RID1145,Nov,M104,Loan Approval AI,Operations,3466,87.04,86.74,1,18,22,0,5966,5.27,94,Medium,Compliant,Midlands
+RID1146,Jan,M101,Resume Screening AI,Operations,2856,87.66,87.68,9,15,16,0,3780,6.92,90,High,Compliant,Midlands
+RID1147,Aug,M103,Fraud Detection AI,Operations,4601,96.69,94.98,4,93,25,10,7372,3.85,16,Critical,Violation,Scotland
+RID1148,Oct,M104,Loan Approval AI,Customer Service,3838,72.11,76.02,2,39,19,5,6838,4.88,208,Critical,Violation,London
+RID1149,Apr,M101,Resume Screening AI,Finance,2540,93.23,91.41,15,53,7,5,6487,6.39,46,Critical,Violation,London
+RID1150,Aug,M105,Inventory Forecast AI,Customer Service,1574,83.81,84.87,0,38,9,2,10967,4.75,116,Medium,Review Required,North UK
+RID1151,Jan,M101,Resume Screening AI,Operations,4118,83.27,84.52,10,36,4,3,5928,6.28,122,High,Review Required,Midlands
+RID1152,Jul,M105,Inventory Forecast AI,Sales,1433,70.32,74.11,4,15,20,3,13884,5.87,224,Critical,Review Required,Scotland
+RID1153,May,M101,Resume Screening AI,HR,4697,69.13,72.5,6,19,17,2,6143,1.5,236,Critical,Review Required,Midlands
+RID1154,Jan,M101,Resume Screening AI,Customer Service,2595,83.46,84.86,10,43,11,3,2109,4.28,119,High,Review Required,North UK
+RID1155,Mar,M102,Customer Support Chatbot,Sales,2609,90.39,90.2,0,45,43,3,4356,8.91,68,Medium,Review Required,Midlands
+RID1156,Mar,M105,Inventory Forecast AI,Sales,1240,71.86,74.93,7,24,10,0,9605,5.12,214,Critical,Compliant,Scotland
+RID1157,Sep,M103,Fraud Detection AI,Operations,974,71.57,75.29,2,44,5,8,8716,3.99,216,Critical,Violation,North UK
+RID1158,Feb,M103,Fraud Detection AI,Customer Service,4869,69.87,73.58,0,44,22,10,7733,2.89,232,Critical,Violation,Midlands
+RID1159,Dec,M103,Fraud Detection AI,Sales,3545,75.98,79.21,8,45,6,10,2868,3.48,177,Critical,Violation,Midlands
+RID1160,Oct,M105,Inventory Forecast AI,HR,4916,95.8,94.22,3,22,10,2,9888,6.06,24,Medium,Review Required,Scotland
+RID1161,Apr,M105,Inventory Forecast AI,Sales,3977,85.23,85.85,3,37,5,4,13489,2.38,107,High,Violation,London
+RID1162,Oct,M102,Customer Support Chatbot,Finance,1453,67.36,71.53,0,7,16,4,8238,10.22,249,Critical,Violation,London
+RID1163,Mar,M103,Fraud Detection AI,Customer Service,4065,84.63,85.3,2,64,14,3,7581,3.19,111,Medium,Review Required,London
+RID1164,Dec,M104,Loan Approval AI,Operations,3874,73.93,76.79,3,54,3,1,5313,4.71,197,Critical,Review Required,London
+RID1165,Mar,M105,Inventory Forecast AI,Finance,4783,84.24,84.9,6,28,16,5,10561,5.02,112,High,Violation,London
+RID1166,Jul,M101,Resume Screening AI,Customer Service,1928,82.47,83.54,11,50,2,4,2832,6.34,128,Critical,Violation,Scotland
+RID1167,Feb,M102,Customer Support Chatbot,Sales,3132,89.99,89.48,2,54,20,3,2470,9.06,68,Medium,Review Required,Midlands
+RID1168,Oct,M102,Customer Support Chatbot,Sales,4273,70.13,73.66,1,8,19,1,2934,10.52,228,Critical,Review Required,Midlands
+RID1169,Jan,M103,Fraud Detection AI,Finance,3677,78.64,80.7,4,53,23,4,3474,4.29,159,High,Violation,Scotland
+RID1170,Mar,M105,Inventory Forecast AI,Sales,1215,81.52,82.58,0,52,10,3,10121,5.81,136,High,Review Required,London
+RID1171,Dec,M104,Loan Approval AI,Sales,3627,83.7,85.14,1,39,17,5,2791,6.75,118,High,Violation,Midlands
+RID1172,Jun,M105,Inventory Forecast AI,HR,2571,73.38,76.95,5,42,21,0,10154,4.06,197,Critical,Compliant,London
+RID1173,Jul,M101,Resume Screening AI,HR,1386,93.57,92.44,11,16,24,3,4192,5.48,37,Critical,Review Required,Midlands
+RID1174,Jun,M104,Loan Approval AI,Customer Service,3098,69.26,73.23,6,51,19,2,6505,1.4,235,Critical,Review Required,North UK
+RID1175,Jan,M104,Loan Approval AI,Sales,4238,67.93,71.81,0,16,10,0,5455,3.42,242,Critical,Compliant,London
+RID1176,Aug,M101,Resume Screening AI,Sales,2684,79.37,81.9,10,52,11,5,5735,6.31,151,High,Violation,London
+RID1177,Mar,M105,Inventory Forecast AI,HR,4712,88.28,87.9,3,30,6,5,11966,3.89,81,High,Violation,London
+RID1178,May,M105,Inventory Forecast AI,Operations,4769,86.49,86.34,1,6,12,4,10890,5.5,99,High,Violation,London
+RID1179,Apr,M105,Inventory Forecast AI,Finance,4666,71.92,75.04,6,29,0,0,10243,6.95,216,Critical,Compliant,London
+RID1180,Feb,M102,Customer Support Chatbot,Sales,3240,93.75,92.23,5,21,27,0,7040,10.8,40,Medium,Compliant,Scotland
+RID1181,Jan,M102,Customer Support Chatbot,HR,2159,67.28,71.4,4,20,42,5,6520,9.79,247,Critical,Violation,Scotland
+RID1182,Aug,M102,Customer Support Chatbot,Customer Service,3899,90.97,90.25,7,48,24,4,7320,5.56,63,High,Violation,London
+RID1183,Sep,M105,Inventory Forecast AI,HR,844,82.12,83.56,3,13,16,4,10781,5.65,128,High,Violation,Scotland
+RID1184,Jan,M101,Resume Screening AI,Operations,4581,76.14,78.24,14,41,3,0,4414,6.92,180,Critical,Compliant,Midlands
+RID1185,Nov,M102,Customer Support Chatbot,Customer Service,1148,88.9,89.01,3,29,18,5,4489,6.24,79,High,Violation,Scotland
+RID1186,Aug,M101,Resume Screening AI,Customer Service,1462,90.19,89.76,8,32,4,1,7926,5.05,64,High,Review Required,Scotland
+RID1187,Dec,M104,Loan Approval AI,Operations,2091,75.23,77.62,6,29,5,2,3284,4.28,187,Critical,Review Required,Midlands
+RID1188,Aug,M103,Fraud Detection AI,Operations,2677,90.24,89.7,5,81,5,5,6194,6.24,68,High,Violation,Midlands
+RID1189,May,M104,Loan Approval AI,Finance,4834,72.14,75.56,4,6,16,2,4637,6.06,209,Critical,Review Required,Scotland
+RID1190,Jun,M102,Customer Support Chatbot,Customer Service,2940,92.49,91.39,7,19,42,5,8629,6.7,52,High,Violation,Scotland
+RID1191,Dec,M103,Fraud Detection AI,HR,3075,88.74,89.4,0,84,0,3,8983,6.01,76,Medium,Review Required,North UK
+RID1192,Jul,M104,Loan Approval AI,Customer Service,3910,71.07,74.88,1,23,9,3,6034,1.46,216,Critical,Review Required,London
+RID1193,Nov,M104,Loan Approval AI,Operations,3711,68.42,72.32,5,15,15,3,6742,4.28,241,Critical,Review Required,North UK
+RID1194,Jun,M102,Customer Support Chatbot,Operations,3931,76.97,79.37,6,8,26,0,6812,9.12,169,High,Compliant,North UK
+RID1195,Jun,M104,Loan Approval AI,Sales,1837,74.89,77.4,7,19,25,1,5749,3.65,189,Critical,Review Required,North UK
+RID1196,Dec,M101,Resume Screening AI,Operations,4081,87.17,88.07,5,17,9,1,3281,6.48,87,Medium,Review Required,Midlands
+RID1197,Apr,M104,Loan Approval AI,Finance,1425,86.55,87.29,1,31,14,5,7631,5.98,93,High,Violation,London
+RID1198,Jun,M105,Inventory Forecast AI,Sales,1090,83.44,83.74,4,20,6,3,13056,6.03,123,High,Review Required,North UK
+RID1199,May,M102,Customer Support Chatbot,Sales,3857,83.64,84.69,5,44,37,5,2789,6.22,121,High,Violation,London
+RID1200,Apr,M105,Inventory Forecast AI,Operations,845,89.29,88.72,8,34,3,5,11300,3.74,75,High,Violation,London
+RID1201,Feb,M104,Loan Approval AI,Sales,3872,68.14,72.25,8,10,21,1,8573,3.29,245,Critical,Review Required,Midlands
+RID1202,Jan,M102,Customer Support Chatbot,Customer Service,2527,67.91,72.36,1,5,24,3,2931,5.7,245,Critical,Review Required,Scotland
+RID1203,Jun,M104,Loan Approval AI,Finance,3645,70.43,74.16,5,22,15,5,5503,3.79,228,Critical,Violation,Midlands
+RID1204,Dec,M104,Loan Approval AI,Customer Service,1666,93.96,92.28,0,50,8,2,8362,6.63,38,Medium,Review Required,London
+RID1205,May,M105,Inventory Forecast AI,Sales,2683,71.22,75.17,3,7,6,0,11811,5.97,217,Critical,Compliant,Midlands
+RID1206,Jul,M105,Inventory Forecast AI,Finance,3980,84.17,85.24,6,8,21,5,14347,6.29,114,High,Violation,Midlands
+RID1207,Sep,M103,Fraud Detection AI,Finance,4895,78.42,79.69,6,82,20,3,4439,3.08,164,High,Review Required,Scotland
+RID1208,Oct,M101,Resume Screening AI,Sales,2023,92.62,92.37,5,39,9,3,5480,3.8,45,Medium,Review Required,London
+RID1209,Dec,M101,Resume Screening AI,Operations,1273,69.99,74.49,11,53,14,1,2804,5.85,225,Critical,Review Required,North UK
+RID1210,Oct,M104,Loan Approval AI,HR,2769,68.88,72.57,5,27,4,4,7644,5.22,236,Critical,Violation,Scotland
+RID1211,Mar,M104,Loan Approval AI,Customer Service,840,87.46,88.28,6,15,18,3,8796,1.25,85,Medium,Review Required,London
+RID1212,May,M102,Customer Support Chatbot,Sales,3432,81.42,82.74,7,36,25,5,3261,7.65,137,High,Violation,London
+RID1213,Sep,M102,Customer Support Chatbot,Operations,4922,90.57,89.76,7,54,19,2,6632,9,66,High,Review Required,London
+RID1214,Sep,M105,Inventory Forecast AI,Operations,4748,83.04,83.86,0,5,18,4,10301,2.77,123,High,Violation,London
+RID1215,Aug,M101,Resume Screening AI,Operations,4999,81.12,82.39,14,46,9,2,3017,2.93,141,Critical,Review Required,London
+RID1216,Sep,M103,Fraud Detection AI,HR,2510,83.49,84.32,1,47,19,9,2985,5.22,121,Critical,Violation,North UK
+RID1217,Dec,M102,Customer Support Chatbot,Sales,4055,88.64,88.74,1,36,36,3,2729,8.59,79,Medium,Review Required,Midlands
+RID1218,Nov,M104,Loan Approval AI,Sales,1433,87.12,87.69,4,8,6,0,7114,5.54,90,Medium,Compliant,Midlands
+RID1219,Jan,M101,Resume Screening AI,Customer Service,1464,69.33,73.39,9,5,17,3,6357,4.4,233,Critical,Review Required,Midlands
+RID1220,Nov,M101,Resume Screening AI,Customer Service,2587,69.19,72.54,8,33,20,2,3239,6.36,236,Critical,Review Required,London
+RID1221,Mar,M102,Customer Support Chatbot,Operations,2553,75.52,77.87,2,58,19,0,6283,7.54,187,Critical,Compliant,Scotland
+RID1222,Aug,M102,Customer Support Chatbot,Operations,4797,96.13,95.09,8,7,31,5,3915,8.46,15,High,Violation,Midlands
+RID1223,Jun,M105,Inventory Forecast AI,Operations,1803,93.22,92.75,8,17,0,2,11201,4.38,40,High,Review Required,London
+RID1224,Nov,M104,Loan Approval AI,Finance,3335,85.54,86.7,8,37,10,3,8112,5.87,101,High,Review Required,Midlands
+RID1225,Oct,M101,Resume Screening AI,Sales,926,83.79,84.64,15,35,15,4,2236,1.57,118,Critical,Violation,North UK
+RID1226,Oct,M104,Loan Approval AI,Sales,1578,83.59,84.33,6,56,6,2,2307,5.47,119,Medium,Review Required,London
+RID1227,Oct,M105,Inventory Forecast AI,Finance,4735,94.49,93.22,3,50,6,2,10022,6.03,35,Medium,Review Required,London
+RID1228,Jul,M101,Resume Screening AI,HR,2394,83.1,84.52,7,28,19,2,3103,4.01,123,High,Review Required,Midlands
+RID1229,Oct,M105,Inventory Forecast AI,Sales,3674,95.14,94.18,5,51,8,5,13845,4.3,26,High,Violation,Scotland
+RID1230,Oct,M105,Inventory Forecast AI,Customer Service,1183,84.59,86.01,8,59,10,0,13369,2.07,109,High,Compliant,North UK
+RID1231,Sep,M104,Loan Approval AI,Finance,4444,76.24,78.21,4,42,21,4,3131,4.9,180,High,Violation,North UK
+RID1232,Nov,M103,Fraud Detection AI,Finance,1836,82.21,83.47,6,82,2,6,2375,6.52,132,High,Violation,London
+RID1233,Sep,M104,Loan Approval AI,Customer Service,1472,72.71,75.66,3,6,18,0,2255,5.43,205,Critical,Compliant,North UK
+RID1234,Dec,M103,Fraud Detection AI,Sales,4059,70.68,74.61,6,93,14,6,2748,1.34,222,Critical,Violation,London
+RID1235,Feb,M101,Resume Screening AI,Sales,2304,80.33,81.38,6,43,14,0,8377,2.05,148,High,Compliant,North UK
+RID1236,May,M103,Fraud Detection AI,Customer Service,2822,77.83,79.32,1,46,24,8,2491,4.07,169,Critical,Violation,London
+RID1237,Sep,M104,Loan Approval AI,HR,2918,72.43,75.88,2,27,19,0,3329,5.12,209,Critical,Compliant,Scotland
+RID1238,Dec,M102,Customer Support Chatbot,Finance,4696,96.98,95.32,3,34,26,3,8722,7.22,10,Medium,Review Required,London
+RID1239,Nov,M105,Inventory Forecast AI,Operations,1122,96.27,95.05,8,9,8,5,10731,4.67,19,High,Violation,Midlands
+RID1240,Sep,M105,Inventory Forecast AI,Finance,2391,79,80.94,0,28,2,3,14203,3.84,157,High,Review Required,London
+RID1241,Jun,M103,Fraud Detection AI,HR,2814,80.03,81.75,8,81,16,10,4455,1.13,146,Critical,Violation,Scotland
+RID1242,Jun,M104,Loan Approval AI,Sales,2304,90.84,89.86,3,40,18,4,2057,1.01,65,High,Violation,Midlands
+RID1243,May,M105,Inventory Forecast AI,HR,3409,69.73,72.83,1,25,9,3,14767,4.68,232,Critical,Review Required,Scotland
+RID1244,Jun,M104,Loan Approval AI,Customer Service,1277,91.76,91.69,4,16,0,0,5774,5.56,51,Medium,Compliant,North UK
+RID1245,Jul,M104,Loan Approval AI,HR,1233,67.59,71.24,3,51,19,0,3290,4.49,250,Critical,Compliant,London
+RID1246,Dec,M102,Customer Support Chatbot,HR,2543,83.18,84.27,0,7,37,0,5298,10.45,120,Medium,Compliant,Scotland
+RID1247,May,M102,Customer Support Chatbot,HR,3016,81.35,82.67,7,48,37,2,5055,10.34,138,High,Review Required,Scotland
+RID1248,May,M105,Inventory Forecast AI,HR,3672,79.91,81.19,5,10,14,2,9609,6.26,152,High,Review Required,London
+RID1249,Dec,M103,Fraud Detection AI,HR,2234,88.95,88.53,3,82,5,7,7868,6.49,78,Critical,Violation,London
+RID1250,Dec,M102,Customer Support Chatbot,Customer Service,4010,77.02,79.2,5,7,34,1,7058,9.92,175,High,Review Required,London
+RID1251,Jan,M104,Loan Approval AI,Sales,4248,71.71,74.39,6,17,7,0,7997,6.77,217,Critical,Compliant,London
+RID1252,Jul,M105,Inventory Forecast AI,Sales,1903,81.31,82.76,7,37,3,2,12268,5.56,139,High,Review Required,Scotland
+RID1253,Aug,M105,Inventory Forecast AI,HR,3700,86.22,86.77,3,12,21,3,13750,5.39,101,Medium,Review Required,Scotland
+RID1254,Jun,M101,Resume Screening AI,HR,3227,93.16,92.82,11,19,4,3,4916,3.43,40,Critical,Review Required,Scotland
+RID1255,Dec,M102,Customer Support Chatbot,HR,1379,68.47,72.58,3,44,38,2,4283,9.97,242,Critical,Review Required,London
+RID1256,Jan,M105,Inventory Forecast AI,Finance,3676,73.86,76.25,1,58,12,2,9715,1.22,199,Critical,Review Required,Scotland
+RID1257,Jan,M102,Customer Support Chatbot,HR,4176,84.73,86.07,3,8,50,1,3887,9.28,107,Medium,Review Required,Midlands
+RID1258,Jul,M101,Resume Screening AI,HR,3637,81.41,83,15,53,15,4,4974,1.65,134,Critical,Violation,Midlands
+RID1259,Aug,M104,Loan Approval AI,Finance,3593,72.29,75.56,3,9,7,1,4912,4.65,207,Critical,Review Required,London
+RID1260,May,M104,Loan Approval AI,Customer Service,3814,94.22,92.85,4,9,7,0,4516,4.33,37,Medium,Compliant,Scotland
+RID1261,Feb,M102,Customer Support Chatbot,Finance,3139,67.32,71.25,3,31,25,5,3513,8.7,249,Critical,Violation,North UK
+RID1262,Apr,M102,Customer Support Chatbot,Finance,4000,74.59,78.03,3,22,43,5,8229,7.97,189,Critical,Violation,London
+RID1263,Aug,M102,Customer Support Chatbot,HR,3382,85.62,85.42,5,55,36,2,6401,5.96,106,Medium,Review Required,Midlands
+RID1264,Nov,M101,Resume Screening AI,HR,1812,69.44,73.15,14,42,19,4,7002,1.32,232,Critical,Violation,North UK
+RID1265,Jun,M105,Inventory Forecast AI,Finance,4714,70.16,74.41,0,54,0,0,14836,5.21,223,Critical,Compliant,Scotland
+RID1266,May,M101,Resume Screening AI,Finance,2853,70.99,74.26,10,10,5,5,6990,3.46,221,Critical,Violation,London
+RID1267,Sep,M105,Inventory Forecast AI,HR,3887,77.43,79.82,6,28,17,2,9203,2.08,171,High,Review Required,Scotland
+RID1268,Oct,M103,Fraud Detection AI,Customer Service,2654,77.1,79.5,3,83,1,8,5926,5.61,172,Critical,Violation,Midlands
+RID1269,Mar,M104,Loan Approval AI,Finance,4534,72.79,75.56,2,18,8,4,7241,3.88,208,Critical,Violation,London
+RID1270,Dec,M105,Inventory Forecast AI,HR,3790,96.57,95.38,4,20,14,4,14016,6.23,15,High,Violation,Midlands
+RID1271,May,M101,Resume Screening AI,Sales,2434,91.35,90.21,12,33,14,4,8892,2.12,58,Critical,Violation,London
+RID1272,Aug,M103,Fraud Detection AI,Finance,3556,88.52,88.75,7,67,5,10,7578,5.79,78,Critical,Violation,Scotland
+RID1273,Nov,M105,Inventory Forecast AI,Sales,4839,83.03,84.6,0,16,12,5,13167,4.37,123,High,Violation,North UK
+RID1274,Feb,M103,Fraud Detection AI,Finance,4912,79.58,80.92,1,58,8,4,7213,3.36,154,High,Violation,Scotland
+RID1275,Apr,M105,Inventory Forecast AI,Sales,1116,80.22,81.7,5,34,15,3,13868,4.75,144,High,Review Required,London
+RID1276,Oct,M101,Resume Screening AI,Finance,3151,87.48,88.13,12,6,24,4,3287,4.42,88,Critical,Violation,Scotland
+RID1277,Jul,M104,Loan Approval AI,Sales,3512,81.45,82.33,4,16,19,0,8159,2.27,137,High,Compliant,Scotland
+RID1278,Sep,M101,Resume Screening AI,Finance,4893,71.87,75.47,9,38,8,1,7079,3.73,215,Critical,Review Required,Scotland
+RID1279,Jul,M101,Resume Screening AI,HR,4443,88.64,88.62,14,28,14,5,6624,6.67,79,Critical,Violation,Scotland
+RID1280,Oct,M103,Fraud Detection AI,HR,4865,70.31,74.79,6,50,1,8,2646,4.91,222,Critical,Violation,North UK
+RID1281,Sep,M103,Fraud Detection AI,Sales,4122,89.38,89.23,6,73,1,3,7403,4.57,75,Medium,Review Required,Midlands
+RID1282,Oct,M101,Resume Screening AI,Sales,2411,73.08,76.21,8,26,5,4,5800,6.14,204,Critical,Violation,North UK
+RID1283,Mar,M102,Customer Support Chatbot,Customer Service,1406,91.14,90.38,4,53,28,5,3293,9.79,58,High,Violation,Midlands
+RID1284,Nov,M105,Inventory Forecast AI,Customer Service,3552,74.74,77.23,1,9,13,5,10992,6.15,190,Critical,Violation,North UK
+RID1285,Dec,M101,Resume Screening AI,Sales,1211,69.39,73.32,9,13,2,1,8055,3.67,229,Critical,Review Required,London
+RID1286,Jun,M104,Loan Approval AI,Customer Service,2419,94.6,93.75,8,18,24,5,4560,4.63,32,High,Violation,Midlands
+RID1287,Feb,M105,Inventory Forecast AI,Sales,1453,94.75,94.25,7,42,19,5,12773,4.55,27,High,Violation,London
+RID1288,Jul,M101,Resume Screening AI,Operations,1781,74.77,76.91,8,30,18,3,4141,4.76,193,Critical,Review Required,Scotland
+RID1289,Jun,M104,Loan Approval AI,Operations,3011,76.48,78.87,7,15,24,2,8717,5.2,173,High,Review Required,Midlands
+RID1290,Feb,M104,Loan Approval AI,HR,4121,83.23,84.55,5,54,9,4,8798,2.98,122,High,Violation,Midlands
+RID1291,Dec,M101,Resume Screening AI,Finance,2547,93.47,92.44,9,55,16,5,8740,4.99,38,High,Violation,Scotland
+RID1292,Sep,M103,Fraud Detection AI,Finance,2111,71.15,75.22,5,41,15,8,7683,3.16,215,Critical,Violation,Scotland
+RID1293,Feb,M102,Customer Support Chatbot,HR,4476,87.68,87.73,6,23,31,0,3509,7.55,84,Medium,Compliant,Scotland
+RID1294,May,M104,Loan Approval AI,HR,3490,89.83,88.81,6,44,7,4,5357,5.68,73,High,Violation,London
+RID1295,Oct,M103,Fraud Detection AI,HR,3612,75.83,78.71,7,40,0,9,2711,6.47,181,Critical,Violation,North UK
+RID1296,Feb,M102,Customer Support Chatbot,Customer Service,4501,76.99,79.64,0,44,31,3,5028,9.86,171,High,Review Required,Midlands
+RID1297,Nov,M102,Customer Support Chatbot,Operations,1040,73.58,77,5,47,24,5,5591,7.97,196,Critical,Violation,Midlands
+RID1298,Aug,M104,Loan Approval AI,HR,4822,86.97,88.05,1,52,11,0,2943,3.94,89,Medium,Compliant,Scotland
+RID1299,Oct,M104,Loan Approval AI,Operations,1488,78.1,80.11,3,43,21,4,8522,2.93,161,High,Violation,Midlands
+RID1300,Jan,M102,Customer Support Chatbot,HR,1216,85.89,86.34,1,39,24,2,6259,9.59,104,Medium,Review Required,Scotland
+RID1301,Jun,M105,Inventory Forecast AI,Operations,3405,92.02,91.56,0,24,9,1,14017,5.47,54,Low,Review Required,Scotland
+RID1302,Sep,M105,Inventory Forecast AI,Sales,1662,78.89,81.29,0,46,19,4,14586,4.49,155,High,Violation,London
+RID1303,Nov,M104,Loan Approval AI,Finance,2020,79.43,80.64,7,14,22,5,7665,4.36,156,High,Violation,North UK
+RID1304,Apr,M102,Customer Support Chatbot,Finance,2630,74.82,77.52,7,21,40,3,3138,8.22,192,Critical,Review Required,Scotland
+RID1305,Aug,M101,Resume Screening AI,HR,4478,73.36,76.02,13,52,23,0,4623,3.09,202,Critical,Compliant,Midlands
+RID1306,Apr,M102,Customer Support Chatbot,Sales,4744,73.55,76.33,2,40,20,0,3486,5.14,200,Critical,Compliant,Scotland
+RID1307,Mar,M103,Fraud Detection AI,Sales,1696,77.92,79.93,3,68,7,3,5077,4.75,165,High,Review Required,Scotland
+RID1308,Mar,M101,Resume Screening AI,Sales,2627,92.72,91.69,7,55,3,2,3866,3.7,47,High,Review Required,London
+RID1309,Sep,M105,Inventory Forecast AI,Operations,3307,79.73,81.12,2,8,19,2,13693,3.14,150,High,Review Required,Scotland
+RID1310,Sep,M105,Inventory Forecast AI,Customer Service,1096,89.32,89.83,4,56,16,0,13341,3.58,70,Medium,Compliant,Midlands
+RID1311,Aug,M102,Customer Support Chatbot,Customer Service,4890,88.36,88.32,6,6,47,0,5890,10.6,80,Medium,Compliant,Midlands
+RID1312,Aug,M105,Inventory Forecast AI,HR,1618,97.29,95.64,1,45,22,2,12417,6.21,13,Medium,Review Required,London
+RID1313,May,M104,Loan Approval AI,Customer Service,3411,88.42,88.66,4,39,3,2,5919,6.45,79,Medium,Review Required,London
+RID1314,Aug,M101,Resume Screening AI,Finance,1451,77.59,80.07,10,17,2,5,8778,6.73,165,High,Violation,North UK
+RID1315,Mar,M101,Resume Screening AI,Operations,3739,82.2,83.01,7,49,18,3,6332,2,134,High,Review Required,Scotland
+RID1316,Oct,M104,Loan Approval AI,Customer Service,912,76.03,78.82,1,58,19,4,5478,4.45,181,Critical,Violation,Midlands
+RID1317,Feb,M101,Resume Screening AI,Operations,4372,90.15,89.46,12,7,12,2,8030,6.82,66,Critical,Review Required,North UK
+RID1318,Aug,M104,Loan Approval AI,HR,1233,80.73,81.84,1,9,12,2,3089,6.6,144,High,Review Required,London
+RID1319,Mar,M105,Inventory Forecast AI,HR,4893,93.26,92.22,7,28,11,0,14018,6.57,38,High,Compliant,Midlands
+RID1320,Aug,M104,Loan Approval AI,Operations,3597,78.7,81.05,6,26,16,0,5667,6.83,157,High,Compliant,Midlands
+RID1321,Jan,M102,Customer Support Chatbot,Sales,1100,69.11,72.97,7,37,45,0,2627,5.18,234,Critical,Compliant,Scotland
+RID1322,Jan,M101,Resume Screening AI,HR,4069,73.33,76.52,14,13,24,1,5182,1.54,199,Critical,Review Required,Scotland
+RID1323,Jan,M103,Fraud Detection AI,Operations,1277,82.41,84.34,3,91,25,9,3107,4.02,125,Critical,Violation,North UK
+RID1324,Sep,M102,Customer Support Chatbot,HR,4250,70.22,73.95,2,29,49,0,5986,10.66,227,Critical,Compliant,North UK
+RID1325,Oct,M101,Resume Screening AI,HR,4018,82.45,83.71,9,32,8,3,5850,2.19,127,High,Review Required,Scotland
+RID1326,Jun,M101,Resume Screening AI,Operations,4992,73.14,75.91,10,20,19,5,7293,3.35,201,Critical,Violation,North UK
+RID1327,Jul,M105,Inventory Forecast AI,Operations,1217,83.63,84.47,0,34,3,1,12317,6,116,Medium,Review Required,North UK
+RID1328,Jul,M104,Loan Approval AI,Sales,4289,85.23,86.23,2,8,21,0,5660,5.94,105,Medium,Compliant,North UK
+RID1329,Apr,M101,Resume Screening AI,HR,3074,86.31,86.8,14,12,20,3,2498,1.16,99,Critical,Review Required,North UK
+RID1330,Jun,M101,Resume Screening AI,Operations,3171,89.2,89.23,6,54,4,3,6569,4.62,77,Medium,Review Required,London
+RID1331,Jun,M105,Inventory Forecast AI,Finance,1523,81.41,82.65,8,19,1,4,13698,4.43,134,High,Violation,Scotland
+RID1332,Jun,M101,Resume Screening AI,HR,3587,82.78,83.59,6,19,21,5,4206,5.25,128,High,Violation,Scotland
+RID1333,Aug,M103,Fraud Detection AI,Customer Service,1334,88.35,87.92,0,77,25,10,8629,3.63,83,Critical,Violation,North UK
+RID1334,Feb,M101,Resume Screening AI,Sales,1161,74.81,78.08,15,8,25,3,8178,3.1,188,Critical,Review Required,London
+RID1335,Jan,M104,Loan Approval AI,Operations,3496,93.07,92.75,0,58,7,2,2788,5.68,42,Medium,Review Required,North UK
+RID1336,Nov,M103,Fraud Detection AI,Finance,3136,93.54,91.95,1,61,13,6,8152,4.72,42,High,Violation,Scotland
+RID1337,Nov,M104,Loan Approval AI,Operations,4725,86.63,86.65,7,25,11,0,7395,4.01,94,High,Compliant,Scotland
+RID1338,Mar,M103,Fraud Detection AI,HR,2949,85.18,85.72,0,53,11,4,2416,3.35,110,High,Violation,Midlands
+RID1339,Oct,M105,Inventory Forecast AI,Sales,2050,78.66,80.68,3,28,4,2,14132,5.11,159,High,Review Required,Scotland
+RID1340,Sep,M103,Fraud Detection AI,Customer Service,1225,76.12,78.72,6,96,19,7,7594,6.21,178,Critical,Violation,Scotland
+RID1341,Dec,M105,Inventory Forecast AI,HR,863,97.04,95.04,3,52,21,0,13434,6.04,14,Low,Compliant,Midlands
+RID1342,Jan,M103,Fraud Detection AI,Operations,2902,69.55,73.27,6,93,10,3,2768,3.56,233,Critical,Review Required,London
+RID1343,Dec,M102,Customer Support Chatbot,Operations,4642,76.84,79.38,3,51,39,3,5110,10.93,175,High,Review Required,Scotland
+RID1344,Jun,M104,Loan Approval AI,Sales,3812,87.33,87.72,6,56,16,1,5196,3.13,88,Medium,Review Required,Midlands
+RID1345,Aug,M101,Resume Screening AI,Sales,4562,97.02,94.52,12,31,12,3,7430,3,15,Critical,Review Required,Midlands
+RID1346,Feb,M104,Loan Approval AI,Sales,4889,77.91,80.32,4,19,10,1,5314,3.52,161,High,Review Required,Scotland
+RID1347,Mar,M105,Inventory Forecast AI,Sales,3921,73.92,76.68,5,7,23,5,13516,3.35,198,Critical,Violation,London
+RID1348,Mar,M104,Loan Approval AI,Operations,918,81.35,82.06,1,53,23,1,8873,2.59,141,High,Review Required,Midlands
+RID1349,Apr,M102,Customer Support Chatbot,Operations,1444,77.29,79.61,7,43,38,2,4798,6.93,173,High,Review Required,London
+RID1350,Aug,M101,Resume Screening AI,Customer Service,2716,81.45,83.42,14,12,24,3,7522,1.17,133,Critical,Review Required,London
+RID1351,Aug,M101,Resume Screening AI,Sales,3059,90.97,90.31,15,52,25,5,7023,6.45,63,Critical,Violation,North UK
+RID1352,Dec,M104,Loan Approval AI,Operations,4349,79.1,81.37,6,56,18,1,4808,2.69,155,High,Review Required,London
+RID1353,Sep,M101,Resume Screening AI,Finance,4186,87.63,87.9,9,30,12,0,6187,2.37,87,High,Compliant,Scotland
+RID1354,Mar,M103,Fraud Detection AI,Customer Service,1244,85.07,85.24,1,95,3,8,5377,1.95,109,Critical,Violation,Midlands
+RID1355,Jul,M104,Loan Approval AI,Sales,3512,89.94,90.11,2,38,10,3,8565,1.44,65,Medium,Review Required,Scotland
+RID1356,Nov,M105,Inventory Forecast AI,Customer Service,1250,91.72,90.52,7,13,10,2,14623,3.23,57,High,Review Required,London
+RID1357,Nov,M103,Fraud Detection AI,HR,3078,97.14,95.59,2,75,25,10,2662,5.17,10,Critical,Violation,Midlands
+RID1358,Aug,M101,Resume Screening AI,Finance,3513,95.45,93.7,8,11,17,0,4820,5.18,28,High,Compliant,North UK
+RID1359,Apr,M102,Customer Support Chatbot,HR,4552,93.5,92.03,2,51,46,5,7611,6.92,41,High,Violation,Midlands
+RID1360,Apr,M103,Fraud Detection AI,Customer Service,2365,92.98,92.07,1,45,21,4,5841,6.17,44,High,Violation,Midlands
+RID1361,Mar,M105,Inventory Forecast AI,Operations,3245,77.26,79.6,4,20,25,5,10874,4.63,166,High,Violation,London
+RID1362,Mar,M104,Loan Approval AI,Finance,4054,78.62,80.94,0,55,22,2,4863,4.03,157,High,Review Required,Scotland
+RID1363,Oct,M103,Fraud Detection AI,Operations,3097,77.36,79.87,2,89,24,9,8133,6.5,171,Critical,Violation,Midlands
+RID1364,Jan,M104,Loan Approval AI,Finance,1494,74.82,77.14,5,29,13,5,5086,2.53,190,Critical,Violation,Midlands
+RID1365,May,M104,Loan Approval AI,Customer Service,2817,84.51,85.73,7,30,0,4,2097,6.9,110,High,Violation,Midlands
+RID1366,Mar,M104,Loan Approval AI,Sales,825,72.96,76.34,3,46,4,1,6211,3.86,204,Critical,Review Required,London
+RID1367,Jun,M102,Customer Support Chatbot,Customer Service,2497,91.26,90.84,2,18,36,5,7219,10.96,60,High,Violation,North UK
+RID1368,May,M105,Inventory Forecast AI,HR,4116,82.54,83.05,1,34,1,1,11760,5.63,131,High,Review Required,Scotland
+RID1369,Jul,M101,Resume Screening AI,Customer Service,2924,86.55,86.46,14,24,17,5,2538,6.31,96,Critical,Violation,Scotland
+RID1370,Nov,M103,Fraud Detection AI,HR,2094,75.89,78.76,0,95,1,10,7008,6.9,178,Critical,Violation,Midlands
+RID1371,Aug,M104,Loan Approval AI,Finance,1472,77.64,80.36,3,23,6,3,3502,6.66,164,High,Review Required,North UK
+RID1372,Feb,M101,Resume Screening AI,HR,4998,93.28,92.16,12,50,6,5,8982,5.88,44,Critical,Violation,Midlands
+RID1373,May,M101,Resume Screening AI,Finance,2145,77.32,79.18,7,49,24,3,2758,1.25,170,High,Review Required,North UK
+RID1374,Feb,M103,Fraud Detection AI,Customer Service,2311,70.77,75.15,6,42,0,8,2285,1.64,218,Critical,Violation,London
+RID1375,Jan,M104,Loan Approval AI,Finance,3120,82.23,83.49,3,51,13,0,7739,2.91,132,High,Compliant,Midlands
+RID1376,Feb,M101,Resume Screening AI,Customer Service,1947,70.97,74.8,7,55,6,4,3889,6.38,217,Critical,Violation,North UK
+RID1377,Feb,M104,Loan Approval AI,Customer Service,3141,74.96,78.02,5,21,6,4,6471,1.62,185,Critical,Violation,North UK
+RID1378,Dec,M102,Customer Support Chatbot,Finance,3806,68.8,73.11,7,11,41,2,2860,10.47,237,Critical,Review Required,London
+RID1379,Dec,M103,Fraud Detection AI,Finance,2591,92.03,91.72,2,58,3,9,8156,3.52,52,Critical,Violation,London
+RID1380,Jun,M102,Customer Support Chatbot,Customer Service,2012,91.57,91.13,3,5,34,0,6351,8.23,53,Low,Compliant,London
+RID1381,May,M101,Resume Screening AI,Sales,3155,70.19,73.54,15,21,21,2,5133,5.08,226,Critical,Review Required,London
+RID1382,Feb,M101,Resume Screening AI,HR,3674,70.41,74.44,14,50,9,3,4860,1.3,222,Critical,Review Required,Scotland
+RID1383,Nov,M104,Loan Approval AI,HR,4126,90.58,89.66,3,27,25,1,8293,2.87,67,Low,Review Required,North UK
+RID1384,Mar,M102,Customer Support Chatbot,Sales,3383,79.42,81.59,6,53,15,1,7547,6.23,149,High,Review Required,London
+RID1385,Aug,M102,Customer Support Chatbot,Operations,4899,84.12,85.22,4,19,26,2,3156,10.54,112,Medium,Review Required,North UK
+RID1386,Jul,M102,Customer Support Chatbot,Customer Service,1886,78.7,81.5,0,28,45,3,8657,8.13,155,High,Review Required,Scotland
+RID1387,Sep,M101,Resume Screening AI,Finance,1381,86.55,86.46,12,25,6,5,2034,3,97,Critical,Violation,Midlands
+RID1388,Aug,M105,Inventory Forecast AI,Operations,3110,72.9,76.04,2,17,12,3,14646,2.28,201,Critical,Review Required,Midlands
+RID1389,May,M102,Customer Support Chatbot,Finance,1288,88.68,88.87,1,29,31,4,6737,8.58,81,High,Violation,Midlands
+RID1390,Apr,M104,Loan Approval AI,Customer Service,864,69.95,74.06,1,30,19,0,3848,5.09,227,Critical,Compliant,Scotland
+RID1391,Aug,M103,Fraud Detection AI,Operations,4028,84.8,85.26,6,47,10,9,3574,3.66,112,Critical,Violation,London
+RID1392,May,M103,Fraud Detection AI,Finance,2925,80.9,82.66,5,76,5,4,6016,3.77,137,High,Violation,Scotland
+RID1393,Mar,M104,Loan Approval AI,Finance,862,76.95,79.41,1,6,19,3,2031,4.91,171,High,Review Required,North UK
+RID1394,Nov,M105,Inventory Forecast AI,Finance,2893,82.9,84.47,3,14,21,3,11556,4.25,122,High,Review Required,London
+RID1395,Dec,M105,Inventory Forecast AI,Customer Service,3619,79.03,81.05,3,34,18,1,14111,4.39,157,High,Review Required,Midlands
+RID1396,May,M104,Loan Approval AI,HR,2197,67.47,71.69,8,26,22,2,5040,5.8,250,Critical,Review Required,North UK
+RID1397,Jul,M104,Loan Approval AI,Finance,4441,77.76,80.22,7,39,17,3,4039,1.92,167,High,Review Required,London
+RID1398,May,M102,Customer Support Chatbot,Sales,1785,90.46,89.45,8,36,32,3,5986,9.04,68,High,Review Required,Midlands
+RID1399,Apr,M105,Inventory Forecast AI,Finance,2927,89.95,89.35,3,10,18,1,14007,3.98,70,Low,Review Required,Scotland
+RID1400,Oct,M101,Resume Screening AI,Finance,2890,77.83,80.1,9,7,2,3,7845,3.87,168,High,Review Required,Midlands
+RID1401,Mar,M101,Resume Screening AI,Finance,1309,80.23,82.15,15,7,17,1,3533,2.92,146,Critical,Review Required,Midlands
+RID1402,Mar,M105,Inventory Forecast AI,Finance,1642,83,84.38,3,5,25,3,14817,1.41,121,High,Review Required,Scotland
+RID1403,Apr,M102,Customer Support Chatbot,Finance,3331,79.71,82.02,1,42,40,5,2884,7.88,147,High,Violation,Scotland
+RID1404,Feb,M102,Customer Support Chatbot,Finance,1174,88.04,87.86,0,40,19,1,8136,9.55,82,Medium,Review Required,Midlands
+RID1405,Mar,M103,Fraud Detection AI,Customer Service,4300,85.58,86.1,1,88,5,6,6931,5.71,107,High,Violation,Scotland
+RID1406,Sep,M104,Loan Approval AI,HR,1839,96.47,95.52,6,18,14,3,2311,3.95,14,Medium,Review Required,Scotland
+RID1407,Dec,M101,Resume Screening AI,Customer Service,2786,91.81,90.86,8,7,2,4,3290,1.46,52,High,Violation,Scotland
+RID1408,Jul,M104,Loan Approval AI,Sales,1672,77.25,79.53,6,21,10,5,5467,3.16,167,High,Violation,London
+RID1409,Jan,M105,Inventory Forecast AI,Sales,830,87.1,87.44,6,49,10,1,14952,3.53,93,Medium,Review Required,North UK
+RID1410,Oct,M104,Loan Approval AI,Sales,3851,94.34,93.05,5,13,6,5,6991,5.45,36,High,Violation,Scotland
+RID1411,Oct,M103,Fraud Detection AI,Customer Service,1894,95.18,93.06,5,81,1,6,4525,6.19,30,High,Violation,Scotland
+RID1412,Sep,M101,Resume Screening AI,Customer Service,2551,84.63,85.5,12,32,17,2,4101,4.41,107,Critical,Review Required,North UK
+RID1413,Feb,M104,Loan Approval AI,Customer Service,3218,95.3,93.75,6,23,5,2,4303,1.54,23,Medium,Review Required,North UK
+RID1414,Apr,M104,Loan Approval AI,Sales,2093,87.06,86.81,4,34,24,1,7050,4.77,94,Medium,Review Required,London
+RID1415,May,M103,Fraud Detection AI,Sales,3650,87.85,87.66,1,61,25,7,7343,4.02,87,Critical,Violation,North UK
+RID1416,Jul,M103,Fraud Detection AI,HR,3249,74.28,77.38,8,84,7,4,7016,4.83,196,Critical,Violation,London
+RID1417,Aug,M104,Loan Approval AI,Finance,2220,82.63,84.51,7,34,4,1,3771,4.35,123,High,Review Required,Scotland
+RID1418,Dec,M105,Inventory Forecast AI,Customer Service,4111,96.14,94.34,0,24,23,3,13498,5.09,21,Medium,Review Required,Midlands
+RID1419,Jun,M103,Fraud Detection AI,Sales,2820,78.3,79.63,0,85,4,9,3836,1.75,165,Critical,Violation,North UK
+RID1420,May,M105,Inventory Forecast AI,Sales,3364,83.85,84.34,6,44,22,4,9277,5.03,121,High,Violation,North UK
+RID1421,Nov,M104,Loan Approval AI,HR,3591,96.29,95.13,2,59,13,3,3027,1.31,16,Medium,Review Required,Scotland
+RID1422,Dec,M101,Resume Screening AI,Finance,2846,82.37,83.27,5,25,1,3,4304,1.63,133,High,Review Required,Scotland
+RID1423,May,M103,Fraud Detection AI,Customer Service,1747,76.21,77.91,7,89,18,3,7050,4,182,Critical,Review Required,Midlands
+RID1424,Feb,M103,Fraud Detection AI,Operations,2013,93.77,92.24,4,65,24,9,6635,4.39,41,Critical,Violation,Scotland
+RID1425,Nov,M104,Loan Approval AI,Sales,838,71.93,75.17,1,45,1,3,2856,6.49,212,Critical,Review Required,North UK
+RID1426,Jul,M105,Inventory Forecast AI,HR,3737,69.74,73.23,3,26,3,3,14228,3.63,232,Critical,Review Required,North UK
+RID1427,Mar,M102,Customer Support Chatbot,Customer Service,1266,91.68,91.42,5,56,49,1,3374,6.01,51,Medium,Review Required,Midlands
+RID1428,Apr,M102,Customer Support Chatbot,Sales,3813,88.19,87.46,7,12,23,2,7015,6.69,86,High,Review Required,Scotland
+RID1429,Nov,M104,Loan Approval AI,Customer Service,2142,87.62,87.89,3,11,0,0,5418,4.69,84,Medium,Compliant,Midlands
+RID1430,May,M105,Inventory Forecast AI,Customer Service,3099,82.45,83.31,4,45,24,2,11316,2.17,131,High,Review Required,London
+RID1431,Oct,M104,Loan Approval AI,Sales,4853,86.22,86.46,8,39,3,4,7640,1.67,97,High,Violation,London
+RID1432,May,M101,Resume Screening AI,Customer Service,3069,96.13,94.06,5,46,23,1,4872,2.7,22,Medium,Review Required,North UK
+RID1433,Nov,M105,Inventory Forecast AI,Customer Service,1787,81.49,82.93,4,20,17,2,9109,4.8,137,High,Review Required,Midlands
+RID1434,Jul,M101,Resume Screening AI,HR,2875,86.4,87.29,13,43,5,5,7601,2,95,Critical,Violation,North UK
+RID1435,Oct,M104,Loan Approval AI,Customer Service,989,92.74,92.01,6,14,3,2,3451,2.21,48,Medium,Review Required,London
+RID1436,Sep,M104,Loan Approval AI,Operations,3053,85.63,86.16,5,45,19,4,2667,3.76,103,High,Violation,London
+RID1437,Aug,M104,Loan Approval AI,Finance,3178,81.43,82.46,4,28,22,3,8962,5.31,138,High,Review Required,Scotland
+RID1438,Jun,M101,Resume Screening AI,Finance,3825,72.8,76.06,7,16,20,2,2918,3.6,209,Critical,Review Required,North UK
+RID1439,Apr,M103,Fraud Detection AI,HR,1505,89.76,89.72,1,91,15,3,2944,4.53,70,Medium,Review Required,London
+RID1440,Dec,M102,Customer Support Chatbot,Customer Service,4755,90.38,89.31,2,52,17,5,3494,7.96,68,High,Violation,Midlands
+RID1441,Mar,M104,Loan Approval AI,Sales,4670,70.97,74.83,6,16,12,0,5706,4.05,220,Critical,Compliant,Scotland
+RID1442,Mar,M104,Loan Approval AI,Operations,3128,74.44,77.9,7,28,2,1,3136,3.97,189,Critical,Review Required,Midlands
+RID1443,Sep,M104,Loan Approval AI,Finance,4271,85.58,85.61,1,42,22,1,3707,1.28,105,Medium,Review Required,North UK
+RID1444,Jan,M101,Resume Screening AI,HR,1857,91.62,90.8,11,45,7,0,4505,1.31,53,Critical,Compliant,North UK
+RID1445,May,M101,Resume Screening AI,Customer Service,2920,89.83,89.46,8,40,0,3,8890,4.09,67,High,Review Required,Scotland
+RID1446,Dec,M101,Resume Screening AI,Sales,1407,83.73,84.63,12,10,24,1,6694,3.06,119,Critical,Review Required,Scotland
+RID1447,Feb,M105,Inventory Forecast AI,Sales,2392,74.58,78.06,0,19,0,2,12595,5.9,188,Critical,Review Required,North UK
+RID1448,Oct,M105,Inventory Forecast AI,Finance,1432,69.56,73.15,3,57,5,0,12276,1.07,231,Critical,Compliant,Midlands
+RID1449,Oct,M102,Customer Support Chatbot,Customer Service,991,74.88,77.26,3,59,16,5,4770,8.63,192,Critical,Violation,Scotland
+RID1450,May,M105,Inventory Forecast AI,Finance,3363,90.3,90.07,2,20,23,4,13293,6.73,64,High,Violation,North UK
+RID1451,Jun,M103,Fraud Detection AI,HR,1218,69.27,73.01,8,85,6,5,5447,1.34,234,Critical,Violation,Midlands
+RID1452,Jun,M102,Customer Support Chatbot,Customer Service,3506,79.77,81.01,6,49,33,1,2901,5.27,152,High,Review Required,Scotland
+RID1453,Feb,M103,Fraud Detection AI,Sales,3087,81.27,82.4,2,68,10,3,6900,4.32,138,High,Review Required,Scotland
+RID1454,Feb,M103,Fraud Detection AI,Finance,4871,90.72,90.23,7,70,10,3,8786,4.65,66,High,Review Required,North UK
+RID1455,Mar,M102,Customer Support Chatbot,Finance,4390,67.82,72.09,5,58,22,4,8448,6.33,244,Critical,Violation,North UK
+RID1456,Jun,M102,Customer Support Chatbot,Customer Service,2624,92.21,91.71,5,20,15,1,6412,9.81,47,Medium,Review Required,North UK
+RID1457,Oct,M104,Loan Approval AI,Operations,866,84.41,85.13,1,22,25,3,3391,2.1,111,Medium,Review Required,North UK
+RID1458,Apr,M105,Inventory Forecast AI,Customer Service,1877,70.09,73.84,2,46,17,2,12453,6.58,231,Critical,Review Required,North UK
+RID1459,Jun,M103,Fraud Detection AI,Sales,2701,69.61,73.86,8,97,5,9,8898,2.16,231,Critical,Violation,London
+RID1460,Jul,M104,Loan Approval AI,Sales,1096,83.82,85.08,1,18,18,5,3481,4.86,118,High,Violation,North UK
+RID1461,Mar,M101,Resume Screening AI,Operations,3716,85.17,85.84,11,30,0,2,3072,5.87,109,Critical,Review Required,Midlands
+RID1462,Apr,M102,Customer Support Chatbot,Customer Service,2356,89.03,88.96,0,16,25,5,5979,7.82,75,High,Violation,Midlands
+RID1463,Aug,M103,Fraud Detection AI,Finance,1848,89.89,89.34,8,71,25,8,6623,4.43,67,Critical,Violation,London
+RID1464,Feb,M103,Fraud Detection AI,Sales,2613,95.81,94.93,8,60,17,6,4684,4.48,20,High,Violation,Scotland
+RID1465,Jan,M102,Customer Support Chatbot,Finance,1775,90.5,90.62,3,51,19,5,6247,9.21,61,High,Violation,North UK
+RID1466,Aug,M103,Fraud Detection AI,Customer Service,2275,86.87,87.71,4,77,1,3,5177,1.04,91,Medium,Review Required,Midlands
+RID1467,Aug,M104,Loan Approval AI,Operations,2591,81.37,82.8,6,10,19,2,8218,3.32,135,High,Review Required,Scotland
+RID1468,Feb,M103,Fraud Detection AI,Operations,3539,66.92,71.11,7,95,17,8,2359,3.51,249,Critical,Violation,Midlands
+RID1469,Jun,M103,Fraud Detection AI,HR,1901,86.81,86.86,1,51,5,3,5811,5.18,96,Medium,Review Required,Midlands
+RID1470,Nov,M102,Customer Support Chatbot,Finance,4981,67.8,72.21,2,35,35,5,3077,7.42,246,Critical,Violation,London
+RID1471,Feb,M102,Customer Support Chatbot,Sales,2750,84.66,85.94,5,46,41,1,6905,10.32,108,Medium,Review Required,North UK
+RID1472,May,M101,Resume Screening AI,Sales,3702,82.62,83.82,7,33,14,4,8833,2.35,124,High,Violation,Scotland
+RID1473,Dec,M101,Resume Screening AI,Finance,2159,96.71,95.46,7,39,15,3,3916,2.9,15,High,Review Required,Midlands
+RID1474,Dec,M103,Fraud Detection AI,HR,4733,77.86,80.35,5,95,3,8,3082,6.05,166,Critical,Violation,North UK
+RID1475,Jun,M105,Inventory Forecast AI,Sales,3894,96.62,95.31,1,19,25,3,9783,4.31,13,Medium,Review Required,North UK
+RID1476,Jan,M104,Loan Approval AI,Operations,2325,90.63,90.19,5,22,3,1,3743,4,62,Medium,Review Required,London
+RID1477,Feb,M103,Fraud Detection AI,Customer Service,3151,94.16,93.41,6,85,9,5,5348,5.34,33,High,Violation,Midlands
+RID1478,Jun,M104,Loan Approval AI,Finance,3220,70.63,74.39,5,11,17,3,4506,4.05,224,Critical,Review Required,Midlands
+RID1479,Dec,M101,Resume Screening AI,Customer Service,4193,69.31,73.06,11,46,18,2,2007,4.6,231,Critical,Review Required,North UK
+RID1480,Nov,M105,Inventory Forecast AI,HR,4146,78.69,81.38,5,30,22,4,11667,1.56,155,High,Violation,Midlands
+RID1481,Jan,M104,Loan Approval AI,Customer Service,4080,86.28,86.87,0,59,3,3,7177,1.67,95,Medium,Review Required,London
+RID1482,Apr,M103,Fraud Detection AI,Sales,3116,96.4,94.68,3,70,15,7,7861,1.59,15,Critical,Violation,North UK
+RID1483,Mar,M104,Loan Approval AI,Sales,4928,73.6,76.97,4,58,12,0,4016,2.29,196,Critical,Compliant,Midlands
+RID1484,Aug,M103,Fraud Detection AI,HR,4853,88.52,88.32,0,42,20,8,6858,2.16,83,Critical,Violation,Scotland
+RID1485,Nov,M101,Resume Screening AI,HR,2724,80.59,81.84,10,54,24,4,5130,2.93,147,High,Violation,London
+RID1486,Jan,M104,Loan Approval AI,Customer Service,3852,86.15,86.09,2,15,19,3,4953,1.16,102,Medium,Review Required,Midlands
+RID1487,Oct,M105,Inventory Forecast AI,Customer Service,4538,70.67,73.84,4,14,24,5,12893,2.98,225,Critical,Violation,North UK
+RID1488,Sep,M102,Customer Support Chatbot,Operations,1449,87.29,87.45,2,54,38,4,2328,9.8,90,High,Violation,North UK
+RID1489,Apr,M103,Fraud Detection AI,HR,4842,88.98,88.92,1,95,21,5,8496,3.99,80,High,Violation,Midlands
+RID1490,Sep,M104,Loan Approval AI,Customer Service,1111,84.1,85.67,3,26,16,2,7586,5.36,112,Medium,Review Required,North UK
+RID1491,Dec,M105,Inventory Forecast AI,Operations,2433,73.54,77.07,1,22,8,0,14259,4.85,198,Critical,Compliant,Scotland
+RID1492,Sep,M103,Fraud Detection AI,Finance,4872,81.25,83.43,5,73,18,4,2914,2.77,135,High,Violation,Scotland
+RID1493,Nov,M104,Loan Approval AI,Operations,4567,82.4,83.51,3,8,20,1,4149,6.03,128,High,Review Required,North UK
+RID1494,Jul,M105,Inventory Forecast AI,HR,1514,69.51,73.16,1,29,3,0,12585,1.41,230,Critical,Compliant,Scotland
+RID1495,Jul,M101,Resume Screening AI,Finance,4597,86.2,87.28,14,7,23,5,5487,1.36,96,Critical,Violation,London
+RID1496,Jul,M103,Fraud Detection AI,Customer Service,3944,87.21,87.66,3,50,1,9,4146,3.49,91,Critical,Violation,Scotland
+RID1497,Nov,M102,Customer Support Chatbot,Operations,3691,73.71,76.02,7,49,48,4,2645,8.02,202,Critical,Violation,North UK
+RID1498,Mar,M104,Loan Approval AI,Sales,2744,83.78,85.06,3,59,8,1,7424,5.93,115,Medium,Review Required,North UK
+RID1499,Feb,M102,Customer Support Chatbot,HR,2283,72.21,74.71,8,39,18,5,5283,5.41,213,Critical,Violation,Midlands
+RID1500,Nov,M101,Resume Screening AI,HR,1140,86.76,87.28,10,55,22,4,3575,3.05,96,High,Violation,Scotland
