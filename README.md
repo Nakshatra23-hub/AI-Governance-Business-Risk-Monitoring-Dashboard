@@ -130,3 +130,45 @@ AI-Governance-Business-Risk-Monitoring-Dashboard/
 ├── dashboard_screenshots/
 ├── docs/
 └── src/
+```
+```text id="s3n7qd"
+---
+
+## Dashboard Preview
+
+### Executive Governance Overview
+![Executive Governance Overview](dashboard_screenshots/page1_executive_overview.png)
+
+### Fairness and Trust Monitoring
+![Fairness and Trust Monitoring](dashboard_screenshots/page2_fairness_trust.png)
+
+### Human Override and Failure Analysis
+![Human Override and Failure Analysis](dashboard_screenshots/page3_override_failure.png)
+
+### Cloud Cost and Performance Intelligence
+![Cloud Cost and Performance Intelligence](dashboard_screenshots/page4_cloud_cost.png)
+
+### Executive Risk Matrix
+![Executive Risk Matrix](dashboard_screenshots/page5_risk_matrix.png)
+
+---
+
+## Project Outcome
+
+This project demonstrates the intersection of:
+
+- AI governance
+- responsible AI monitoring
+- SQL analytics
+- business intelligence
+- cloud cost awareness
+- executive risk reporting
+
+It was built to simulate how organizations can move beyond AI deployment into AI accountability and operational oversight.
+
+---
+
+## Author
+
+Nakshatra Kamat  
+B.Tech Information Technology | AI & Business Analytics Enthusiast
